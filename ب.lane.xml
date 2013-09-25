@@ -371,7 +371,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>, (S, M, K,) aor.      
     <form n="infl">       
-                     <orth orig="Ba" lang="ar">baAa^a</orth>
+                     <orth orig="Ba" lang="ar">baA^ara</orth>
                   </form>, (M, K,) <hi rend="ital" TEIform="hi">He sunk,</hi> or <hi rend="ital" TEIform="hi">dug,</hi> (S, M, K,) a well; (S, M;) as also ↓ 
       <orth type="arrow" lang="ar">AbtA^r</orth>. (M, K.) ―         -b2-  Also, aor. as above, inf. n. <foreign lang="ar" TEIform="foreign">baA^orN</foreign>, <hi rend="ital" TEIform="hi">He dug a</hi> [<hi rend="ital" TEIform="hi">hollow such as is termed</hi>] <foreign lang="ar" TEIform="foreign">buw^orap</foreign>, (AZ, S, M,) <hi rend="ital" TEIform="hi">in which to cook.</hi> (AZ, S.) ―         -b3-  Also, (T, S, M, K,) aor. as above, (M, K,) and so the inf. n.; (M;) and ↓ 
       <orth type="arrow" lang="ar">AbtA^r</orth>; (T, S, M, K;) <hi rend="ital" TEIform="hi">He hid,</hi> or <hi rend="ital" TEIform="hi">concealed,</hi> a thing: (T, M, K:) and <hi rend="ital" TEIform="hi">he stored</hi> it, or <hi rend="ital" TEIform="hi">laid</hi> it <hi rend="ital" TEIform="hi">up, for a time of need.</hi> (T, S, K.) Hence a hollow dug in the ground is termed <foreign lang="ar" TEIform="foreign">buw^orapN</foreign>. (T.) ―         -b4-  You say also, <foreign lang="ar" TEIform="foreign">xayorFA</foreign> ↓ 
@@ -579,9 +579,9 @@
                      <orth extent="full" lang="ar">bA=sh</orth>
                      <orth extent="full" lang="ar">bA=sp</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">buw^osN</foreign>.    </entryFree> 
-               <entryFree id="n1681" key="bay^iysay" type="main">     
+               <entryFree id="n1681" key="bay^iysaY" type="main">     
                   <form>       
-                     <orth orig="" extent="full" lang="ar">bay^iysay</orth>
+                     <orth orig="" extent="full" lang="ar">bay^iysaY</orth>
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">buw^osN</foreign>.    </entryFree> 
                <entryFree id="n1682" key="baAy^isN" type="main">     
@@ -648,7 +648,7 @@
                   </form> (Msb, K) and <foreign lang="ar" TEIform="foreign">bab~agaA='u</foreign> (K, Kzw) [in modern vulgar Arabic <foreign lang="ar" TEIform="foreign">babagaAn</foreign>, The <hi rend="ital" TEIform="hi">parrot;</hi>] <hi rend="ital" TEIform="hi">a certain well-known bird;</hi> (Msb;) <hi rend="ital" TEIform="hi">a certain green bird,</hi> (Sgh, K, TA,) <hi rend="ital" TEIform="hi">well known;</hi> (TA;) the <hi rend="ital" TEIform="hi">bird called in Persian</hi> 
                   <foreign lang="ar" TEIform="foreign">TuwTiy</foreign>, <hi rend="ital" TEIform="hi">beautiful in colour and form, mostly green, but in some instances red, and yellow, and white; having a thick bill and tongue: it hears the speech of men and repeats it, without knowing its meaning; and utters letters rightly:</hi> when they desire to teach it, they put a mirror in its cage, so that it sees therein its own form, and they speak to it from behind the mirror, and when it hears, it repeats, desiring to do as its like; and thus it learns quickly: one of the wonders relating to it is [said to be this], that it never drinks water; for if it drank, it would die: (Kzw:) the affix renders fem. the word, but not the thing named thereby, like the <foreign lang="ar" TEIform="foreign">p</foreign> in <foreign lang="ar" TEIform="foreign">HamaAmapN</foreign> and <foreign lang="ar" TEIform="foreign">naEaAmapN</foreign>; for the word applies to the male and the female, so that one says, <foreign lang="ar" TEIform="foreign">babogaA='u *akarN</foreign> [<hi rend="ital" TEIform="hi">a male parrot</hi>] and <foreign lang="ar" TEIform="foreign">babogaA='u A^unovaY</foreign> [<hi rend="ital" TEIform="hi">a female parrot</hi>]: and the pl. is <foreign lang="ar" TEIform="foreign">babogaAwaAtN</foreign> [or <foreign lang="ar" TEIform="foreign">bab~agaAwaAtN</foreign>], like as <foreign lang="ar" TEIform="foreign">SaHoraAwatN</foreign> is pl. of <foreign lang="ar" TEIform="foreign">SaHoraA='u</foreign>. (Msb.)   </entryFree> 
             </div2> 
-            <div2 n="bt" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="btt" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bt</foreign>
                </head>    
@@ -1254,14 +1254,14 @@
                   <hi rend="ital" TEIform="hi">Cut off,</hi> or <hi rend="ital" TEIform="hi">severed.</hi> (S.) ―         -b2-  [And hence,] <foreign lang="ar" TEIform="foreign">EaziymapN munobatilapN</foreign> 
                   <hi rend="ital" TEIform="hi">An irrevocable determination</hi> or <hi rend="ital" TEIform="hi">resolution.</hi> (TA.)   </entryFree> 
             </div2> 
-            <div2 n="bv" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="bvv" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bv</foreign>
                </head>    
                <entryFree id="n1740" key="bav~ahu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">bav~ahu</orth>
+                     <orth orig="" extent="full" lang="ar">bavava</orth>
                      <orth extent="full" lang="ar">bv</orth>
                      <orth extent="full" lang="ar">bvh</orth>
                      <orth extent="full" lang="ar">bvp</orth>
@@ -1369,22 +1369,29 @@
                      <orth extent="full" lang="ar">mnbv</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">bavN</foreign>. ―         -b2-  <hi rend="ital" TEIform="hi">Scattered</hi> dust: so in the Kur [lvi. 6]. (T.) ―         -b3-  (assumed tropical:)  <hi rend="ital" TEIform="hi">Swooning</hi> (K) <hi rend="ital" TEIform="hi">from grief,</hi> or <hi rend="ital" TEIform="hi">sorrow.</hi> (TA.)   </entryFree> 
             </div2> 
-            <div2 n="bavira" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="bvr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bavira</foreign>
                </head>    
-               <entryFree id="n1750" key="Bu" type="main">     
+
+               <entryFree id="n1750" key="bavira" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">Bu</orth>
-                     <orth extent="full" lang="ar">B</orth>
-                  </form>, (S, M, A, Msb, K,) aor. <foreign lang="ar" TEIform="foreign">bavorN</foreign>, (Msb,) inf. n. <foreign lang="ar" TEIform="foreign">buvuwrN</foreign>; (M, Msb, K;) and <foreign lang="ar" TEIform="foreign">bavura</foreign>, (S, M, Msb, K,) aor.      
-    <form n="infl">       
-                     <orth orig="Bu" lang="ar">baauva</orth>
-                  </form>, (S, M, Msb,) inf. n. <foreign lang="ar" TEIform="foreign">bavorN</foreign> (M, Msb, K) and <foreign lang="ar" TEIform="foreign">buvuwrN</foreign>; (M, K;) and <foreign lang="ar" TEIform="foreign">bavurN</foreign>, aor.      
-    <form n="infl">       
-                     <orth orig="Bu" lang="ar">baauva</orth>
-                  </form>; (S, Msb, K;) <hi rend="ital" TEIform="hi">It</hi> (a man's face, S, M, K, or the skin, M, A, Msb) <hi rend="ital" TEIform="hi">broke out with pimples,</hi> or <hi rend="ital" TEIform="hi">small pustules;</hi> (S, M, A, Msb, K;) as also ↓ 
+                     <orth orig="" extent="full" lang="ar">bavira</orth>
+		  </form>
+		  aor. <form n="infl">
+                     <orth orig="Ba" lang="ar">bavara</orth>
+                  </form>,
+		  (S, M, A, Msb, K,)
+		  (Msb,) inf. n. <foreign lang="ar" TEIform="foreign">bavorN</foreign>, 
+ (M, Msb, K;) and <foreign lang="ar" TEIform="foreign">bavura</foreign>, (S, M, Msb, K,) aor.      
+    <form n="infl">
+                     <orth orig="Bu" lang="ar">bavura</orth>
+                  </form>, (S, M, Msb,) inf. n. <foreign lang="ar" TEIform="foreign">bavorN</foreign> (M, Msb, K) and <foreign lang="ar" TEIform="foreign">buvuwrN</foreign>; (M, K;) and <foreign lang="ar" TEIform="foreign">bavura</foreign>, aor.
+    <form n="infl">
+                     <orth orig="Bu" lang="ar">bavura</orth>
+                  </form>; (S, Msb, K;)
+		  <hi rend="ital" TEIform="hi">It</hi> (a man's face, S, M, K, or the skin, M, A, Msb) <hi rend="ital" TEIform="hi">broke out with pimples,</hi> or <hi rend="ital" TEIform="hi">small pustules;</hi> (S, M, A, Msb, K;) as also ↓ 
       <orth type="arrow" lang="ar">tbv~r</orth>: (M, A, and some copies of the K:) or this last signifies <hi rend="ital" TEIform="hi">it</hi> (a man's skin) <hi rend="ital" TEIform="hi">became blistered,</hi> or <hi rend="ital" TEIform="hi">vesicated.</hi> (S, Msb.)    </entryFree> 
                <entryFree id="n1751" key="bv~r" type="main">     
                   <form>       
@@ -1420,7 +1427,7 @@
                <entryFree id="n1754" key="bavaqa AlmaA='a" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">bavaqa AlmaA='a</orth>
+                     <orth orig="" extent="full" lang="ar">bavaqa</orth>
                      <orth extent="full" lang="ar">bvq AlmA='</orth>
                   </form>, (Mgh, Msb,) aor.      
     <form n="infl">       
@@ -1968,7 +1975,7 @@
                      <orth extent="full" lang="ar">mbjl</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">bajaAlN</foreign>.   </entryFree> 
             </div2> 
-            <div2 n="bH" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="bHH" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bH</foreign>
                </head>    
@@ -2531,7 +2538,7 @@
                <entryFree id="n1859" key="baxatahu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baxatahu</orth>
+                     <orth orig="" extent="full" lang="ar">baxata</orth>
                      <orth extent="full" lang="ar">bAx</orth>
                      <orth extent="full" lang="ar">bx</orth>
                      <orth extent="full" lang="ar">bxA</orth>
@@ -2659,7 +2666,7 @@
                <entryFree id="n1874" key="baxarati Alqidoru" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baxarati Alqidoru</orth>
+                     <orth orig="" extent="full" lang="ar">baxara</orth>
                      <orth extent="full" lang="ar">bxrt Alqdr</orth>
                   </form>, (Msb, K,) aor.      
     <form n="infl">       
@@ -2761,7 +2768,7 @@
                <entryFree id="n1886" key="baxasahu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baxasahu</orth>
+                     <orth orig="" extent="full" lang="ar">baxasa</orth>
                      <orth extent="full" lang="ar">bxs</orth>
                      <orth extent="full" lang="ar">bxsh</orth>
                      <orth extent="full" lang="ar">bxsp</orth>
@@ -2814,7 +2821,7 @@
                <entryFree id="n1891" key="baxaSa Eayonahu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baxaSa Eayonahu</orth>
+                     <orth orig="" extent="full" lang="ar">baxaSa</orth>
                      <orth extent="full" lang="ar">bxS Eynh</orth>
                      <orth extent="full" lang="ar">bxS Eynp</orth>
                   </form>, (S, A, Mgh, Msb, K, &amp;c.,) aor.      
@@ -2829,7 +2836,7 @@
                <entryFree id="n1892" key="baxaEa Al*~abiyHapa" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baxaEa Al*~abiyHapa</orth>
+                     <orth orig="" extent="full" lang="ar">baxaEa</orth>
                      <orth extent="full" lang="ar">*</orth>
                   </form>, (Z, in the Fáïk,) or <foreign lang="ar" TEIform="foreign">Al$~aApa</foreign>, (Z, in the A,) or <foreign lang="ar" TEIform="foreign">biAl$~aApi</foreign>, (O, K,) [aor.      
     <form n="infl">       
@@ -3085,14 +3092,14 @@
                      <orth extent="full" lang="ar">mbxl</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">baxiylN</foreign>.   </entryFree> 
             </div2> 
-            <div2 n="bd" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="bdd" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bd</foreign>
                </head>    
                <entryFree id="n1920" key="bad~a" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">bad~a</orth>
+                    <orth orig="" extent="full" lang="ar">badada</orth>
                      <orth extent="full" lang="ar">bd</orth>
                   </form>, aor.      
     <form n="infl">       
@@ -3381,7 +3388,7 @@
                <entryFree id="n1949" key="badaA^a bihi" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">badaA^a bihi</orth>
+                     <orth orig="" extent="full" lang="ar">badaA^a</orth>
                      <orth extent="full" lang="ar">*</orth>
                   </form>, (T, S, M, &amp;c.,) aor.      
     <form n="infl">       
@@ -3822,7 +3829,7 @@
                <entryFree id="n1989" key="badaEahu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">badaEahu</orth>
+                     <orth orig="" extent="full" lang="ar">badaEa</orth>
                      <orth extent="full" lang="ar">bdE</orth>
                      <orth extent="full" lang="ar">bdEh</orth>
                      <orth extent="full" lang="ar">bdEp</orth>
@@ -4273,7 +4280,7 @@
                <entryFree id="n2026" key="badahahu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">badahahu</orth>
+                     <orth orig="" extent="full" lang="ar">badaha</orth>
                      <orth extent="full" lang="ar">bdh</orth>
                      <orth extent="full" lang="ar">bdhh</orth>
                      <orth extent="full" lang="ar">bdhp</orth>
@@ -4387,7 +4394,7 @@
                <entryFree id="n2037" key="badaA" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">badaA</orth>
+                     <orth orig="" extent="full" lang="ar">badawa</orth>
                      <orth extent="full" lang="ar">bd</orth>
                      <orth extent="full" lang="ar">bdA</orth>
                   </form>, (T, S, M, &amp;c.,) aor. <foreign lang="ar" TEIform="foreign">yaboduw</foreign>, (S, Msb,) inf. n. <foreign lang="ar" TEIform="foreign">buduw~N</foreign> (S, M, Msb, K) and <foreign lang="ar" TEIform="foreign">badowN</foreign> and <foreign lang="ar" TEIform="foreign">badaA='N</foreign> (M, K) and <foreign lang="ar" TEIform="foreign">badaA='apN</foreign> (K) and <foreign lang="ar" TEIform="foreign">badFA</foreign>, (M, on the authority of Sb,) for which last we find, in [some of] the copies of the K, <foreign lang="ar" TEIform="foreign">buduw~N</foreign>, a repetition, (TA,) or <foreign lang="ar" TEIform="foreign">buduwo'N</foreign>, (so in other copies of the K,) <hi rend="ital" TEIform="hi">It appeared; it became apparent, open, manifest, plain,</hi> or <hi rend="ital" TEIform="hi">evident:</hi> (T, S, M, Msb, K:) and ↓ 
@@ -4649,13 +4656,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bdY</foreign>
                </head>    
-               <entryFree id="n2062" key="1" type="main">     
+               <entryFree id="n2062" key="badiytu biAl$~aYo'i" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">badiytu biAl$~aYo'i</orth>
-                     <orth extent="full" lang="ar">*</orth> and        
-      <orth orig="" extent="full" lang="ar">badayotu bihi</orth>
+                     <orth orig="" extent="full" lang="ar">badiya</orth>
                   </form> 
+<ar>badiytu biAl$~aYo'i</ar> and <ar>badayotu bihi</ar>
                   <hi rend="ital" TEIform="hi">i. q.</hi> [<foreign lang="ar" TEIform="foreign">badaA^otu</foreign> and] <foreign lang="ar" TEIform="foreign">AibotadaA^otu</foreign> [<hi rend="ital" TEIform="hi">I began with the thing;</hi> or <hi rend="ital" TEIform="hi">made it to have precedence,</hi> or <hi rend="ital" TEIform="hi">to be first</hi>]; (M, K;) of the dial. of the Ansár: (M:) the people of ElMedeeneh say, <foreign lang="ar" TEIform="foreign">badayonaA</foreign>, or <foreign lang="ar" TEIform="foreign">badiynaA</foreign>, [accord. to different copies of the S,] in the sense of <foreign lang="ar" TEIform="foreign">badaA^onaA</foreign>: (S:) [the right reading seems to be <foreign lang="ar" TEIform="foreign">badayonaA</foreign>; for] IKh says, none says <foreign lang="ar" TEIform="foreign">badayotu</foreign> in the sense of <foreign lang="ar" TEIform="foreign">badaA^otu</foreign>, except the Ansár: all others say, <foreign lang="ar" TEIform="foreign">badiytu</foreign> and <foreign lang="ar" TEIform="foreign">badaA^otu</foreign>; when the hemzeh is suppressed, the <foreign lang="ar" TEIform="foreign">d</foreign> is pronounced with kesr, and therefore the hemzeh is changed into <foreign lang="ar" TEIform="foreign">Y</foreign>. (IB, TA.) [See a verse of Ibn-Rawáhah cited voce <foreign lang="ar" TEIform="foreign">bado'N</foreign>.]    </entryFree> 
                <entryFree id="n2063" key="bidaAyapN" type="main">     
                   <form>       
@@ -4670,7 +4676,7 @@
                <entryFree id="n2064" key="ba*~a" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">ba*~a</orth>
+                     <orth orig="" extent="full" lang="ar">ba*a*a</orth>
                      <orth extent="full" lang="ar">*</orth>
                   </form>, (M,) sec. pers. <foreign lang="ar" TEIform="foreign">ba*i*ota</foreign>, (S, Mgh, K,) aor. <foreign lang="ar" TEIform="foreign">yaba*~u</foreign>, (L, K,) inf. n. <foreign lang="ar" TEIform="foreign">ba*aA*apN</foreign> (S, M, Mgh, K) and <foreign lang="ar" TEIform="foreign">bu*uw*apN</foreign> (S, M, K) and <foreign lang="ar" TEIform="foreign">ba*a*N</foreign> (M, Mgh, K) and <foreign lang="ar" TEIform="foreign">ba*aA*N</foreign>, (K,) or <foreign lang="ar" TEIform="foreign">bi*aA*N</foreign>, with kesr, (TA,) [of all which, the third is the regular form,] <hi rend="ital" TEIform="hi">He</hi> (a man) <hi rend="ital" TEIform="hi">was,</hi> or <hi rend="ital" TEIform="hi">became, threadbare, and shabby,</hi> or <hi rend="ital" TEIform="hi">mean, in the state of his apparel,</hi> (Ks, S, M, Mgh, L,) and <hi rend="ital" TEIform="hi">in an evil condition;</hi> (M, L, K;) <hi rend="ital" TEIform="hi">slovenly with respect to his person:</hi> (Ks, M, L:) or <hi rend="ital" TEIform="hi">he neglected the constant adornment of himself:</hi> or <hi rend="ital" TEIform="hi">he adorned himself one day, and another day left his hair in a shaggy</hi> or <hi rend="ital" TEIform="hi">dishevelled,</hi> or <hi rend="ital" TEIform="hi">matted and dusty, state:</hi> (T, L:) or <hi rend="ital" TEIform="hi">he was humble in his apparel, not taking pleasure therein.</hi> (IAth, L.) <foreign lang="ar" TEIform="foreign">ba*aA*ap</foreign> is said in a trad. to be a part of religion; (Ks, T, M, Mgh, L;) meaning, in this instance, The <hi rend="ital" TEIform="hi">being humble in dress, and wearing that which is not conducive to self-conceit and pride.</hi> (Mgh.)       -A2-  <foreign lang="ar" TEIform="foreign">ba*~ahu</foreign>, aor. <foreign lang="ar" TEIform="foreign">yabu*~u</foreign>, (T, S, M, L,) inf. n. <foreign lang="ar" TEIform="foreign">ba*~N</foreign> (S, M, L, K) and ↓ 
       <orth type="arrow" lang="ar">ba*iy*apN</orth>, (K,) [or this may be a simple subst.,] <hi rend="ital" TEIform="hi">He overcame him;</hi> (T, S, M, L, K;) <hi rend="ital" TEIform="hi">he surpassed him</hi> in goodliness or beauty, or in any deed: (T, L:) <hi rend="ital" TEIform="hi">he outstripped him.</hi> (M, L.) It is said in a trad., <foreign lang="ar" TEIform="foreign">ba*~a AlqaAy^iliyna</foreign> 
@@ -5104,7 +5110,7 @@
                <entryFree id="n2116" key="ba*alahu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">ba*alahu</orth>
+                     <orth orig="" extent="full" lang="ar">ba*ala</orth>
                      <orth extent="full" lang="ar">*</orth>
                   </form>, aor.      
     <form n="infl">       
@@ -5287,7 +5293,7 @@
                <entryFree id="n2137" key="bar~a" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">bar~a</orth>
+                     <orth orig="" extent="full" lang="ar">barara</orth>
                      <orth extent="full" lang="ar">br</orth>
                   </form>, [first pers. <foreign lang="ar" TEIform="foreign">barirotu</foreign>,] aor. <foreign lang="ar" TEIform="foreign">yabar~u</foreign>, (T, M, Msb,) inf. n. <foreign lang="ar" TEIform="foreign">bir~N</foreign>, (M, Msb, K,) <hi rend="ital" TEIform="hi">He was pious</hi> [<hi rend="ital" TEIform="hi">towards his father</hi> or <hi rend="ital" TEIform="hi">parents,</hi> and (tropical:)  <hi rend="ital" TEIform="hi">towards God;</hi> (see the explanations of the verb as used transitively;) and <hi rend="ital" TEIform="hi">was kind,</hi> or <hi rend="ital" TEIform="hi">good and affectionate and gentle in behaviour, towards his kindred;</hi> and <hi rend="ital" TEIform="hi">kind,</hi> or <hi rend="ital" TEIform="hi">good, in his dealings with strangers</hi>]: (Msb:) <hi rend="ital" TEIform="hi">he was good, just, righteous, virtuous,</hi> or <hi rend="ital" TEIform="hi">honest:</hi> (T, Msb:) [or <hi rend="ital" TEIform="hi">he was amply, largely,</hi> or <hi rend="ital" TEIform="hi">extensively, good</hi> or <hi rend="ital" TEIform="hi">beneficent:</hi>] and <hi rend="ital" TEIform="hi">he was true,</hi> or <hi rend="ital" TEIform="hi">veracious.</hi> (M, Msb, K.) [Authorities differ as to the primary signification of this verb, and as to the subordinate meanings: see <foreign lang="ar" TEIform="foreign">bir~N</foreign> below.] You say also, <foreign lang="ar" TEIform="foreign">bar~a fiY qawolihi</foreign>, (Msb, TA,) and <foreign lang="ar" TEIform="foreign">fiY yamiynihi</foreign>, (S, M, Mgh, Msb, K,) first pers. <foreign lang="ar" TEIform="foreign">barirotu</foreign> (T, A, Mgh, K) and <foreign lang="ar" TEIform="foreign">bararotu</foreign>, (K,) aor. <foreign lang="ar" TEIform="foreign">yabar~u</foreign> (M, Msb) and <foreign lang="ar" TEIform="foreign">yabir~N</foreign>, (M,) inf. n. <foreign lang="ar" TEIform="foreign">bir~N</foreign> (S, M, K) and <foreign lang="ar" TEIform="foreign">bar~N</foreign>, (K,) or <foreign lang="ar" TEIform="foreign">buruwrN</foreign>, (Msb,) <hi rend="ital" TEIform="hi">He was true,</hi> or <hi rend="ital" TEIform="hi">veracious,</hi> (S, Mgh, Msb, K, TA,) <hi rend="ital" TEIform="hi">in his saying,</hi> (Msb, TA,) and <hi rend="ital" TEIform="hi">in his oath.</hi> (S, Mgh, Msb, K.) ―         -b2-  <foreign lang="ar" TEIform="foreign">bar~a Eamalahu</foreign>, and <foreign lang="ar" TEIform="foreign">bur~a</foreign>, inf. n. <foreign lang="ar" TEIform="foreign">bir~N</foreign> and <foreign lang="ar" TEIform="foreign">buruwrN</foreign>; and ↓ 
       <orth type="arrow" lang="ar">A^abar~a</orth>; [<hi rend="ital" TEIform="hi">His deed,</hi> or <hi rend="ital" TEIform="hi">work, was,</hi> or <hi rend="ital" TEIform="hi">proved, good;</hi> or <hi rend="ital" TEIform="hi">was well,</hi> or <hi rend="ital" TEIform="hi">sinlessly, performed;</hi>] all signify the same. (M.) And <foreign lang="ar" TEIform="foreign">bur~a AlEamalu</foreign>, i. e. <foreign lang="ar" TEIform="foreign">AlHaj~u</foreign>, a form of benediction, said to a person come from pilgrimage, <hi rend="ital" TEIform="hi">May the deed,</hi> or <hi rend="ital" TEIform="hi">work,</hi> i. e. the pilgrimage, <hi rend="ital" TEIform="hi">have been sinlessly performed.</hi> (TA.) And <foreign lang="ar" TEIform="foreign">bar~a Haj~uhu</foreign>, (T, S, A, Msb, K,) aor. <foreign lang="ar" TEIform="foreign">yabar~u</foreign>, (T,) inf. n. <foreign lang="ar" TEIform="foreign">bir~N</foreign> (S, Msb,) or <foreign lang="ar" TEIform="foreign">buruwrN</foreign>; (T;) and <foreign lang="ar" TEIform="foreign">bur~a Haj~uhu</foreign>, (Fr, T, S, M, K,) aor. <foreign lang="ar" TEIform="foreign">yubar~u</foreign>, inf. n. <foreign lang="ar" TEIform="foreign">bir~N</foreign>; (T;) <hi rend="ital" TEIform="hi">His pilgrimage was sinlessly performed:</hi> (Sh, T:) or <hi rend="ital" TEIform="hi">was characterized by the giving of food, and by sweetness of speech;</hi> as explained by Mohammad himself: <hi rend="ital" TEIform="hi">was accepted: was rewarded.</hi> (TA.) ―         -b3-  <foreign lang="ar" TEIform="foreign">bar~a</foreign>, (A, Msb, K,) aor. <foreign lang="ar" TEIform="foreign">yabar~u</foreign> (T, M, K) and <foreign lang="ar" TEIform="foreign">yabir~u</foreign>, (M, K,) inf. n. <foreign lang="ar" TEIform="foreign">bir~N</foreign> (M, Msb, K) and <foreign lang="ar" TEIform="foreign">bar~N</foreign> and <foreign lang="ar" TEIform="foreign">buruwrN</foreign>, (M, K,) <hi rend="ital" TEIform="hi">It</hi> (a saying, Msb, and an oath, T, A, M, Msb, K) <hi rend="ital" TEIform="hi">was,</hi> or <hi rend="ital" TEIform="hi">proved, true.</hi> (M, A, * Msb, * K, * TA.) [See an ex. voce <foreign lang="ar" TEIform="foreign">A^aliy~apN</foreign>, in art. <foreign lang="ar" TEIform="foreign">Alw</foreign>.] ―         -b4-  <foreign lang="ar" TEIform="foreign">bar~ato</foreign> 
@@ -6991,7 +6997,7 @@
                <entryFree id="n2298" key="baraEa Aljabala" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baraEa Aljabala</orth>
+                     <orth orig="" extent="full" lang="ar">baraEa</orth>
                      <orth extent="full" lang="ar">brE Aljbl</orth>
                   </form> 
                   <hi rend="ital" TEIform="hi">He ascended,</hi> or <hi rend="ital" TEIform="hi">ascended upon, the mountain.</hi> (TA.) ―         -b2-  And <foreign lang="ar" TEIform="foreign">baraEa SaAHibahu</foreign> 
@@ -7868,7 +7874,7 @@
                <entryFree id="n2383" key="baramahu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baramahu</orth>
+                     <orth orig="" extent="full" lang="ar">barama</orth>
                      <orth extent="full" lang="ar">brm</orth>
                      <orth extent="full" lang="ar">brmh</orth>
                      <orth extent="full" lang="ar">brmp</orth>
@@ -8196,7 +8202,7 @@
                <entryFree id="n2413" key="barawotuhaA" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">barawotuhaA</orth>
+                     <orth orig="" extent="full" lang="ar">barawa</orth>
                      <orth extent="full" lang="ar">brwp</orth>
                      <orth extent="full" lang="ar">brwthA</orth>
                   </form>, i. e. <foreign lang="ar" TEIform="foreign">Aln~aAqapa</foreign>: see 4.       -A2-  <foreign lang="ar" TEIform="foreign">barawotuhu</foreign>, (M, Msb, K,) aor.      
@@ -8282,7 +8288,7 @@
                <entryFree id="n2422" key="baraY" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baraY</orth>
+                     <orth orig="" extent="full" lang="ar">baraYa</orth>
                      <orth extent="full" lang="ar">br</orth>
                      <orth extent="full" lang="ar">brY</orth>
                      <orth extent="full" lang="ar">bry</orth>
@@ -8505,7 +8511,7 @@
                <entryFree id="n2444" key="baz~ahu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baz~ahu</orth>
+                     <orth orig="" extent="full" lang="ar">bazaza</orth>
                      <orth extent="full" lang="ar">bz</orth>
                      <orth extent="full" lang="ar">bzh</orth>
                      <orth extent="full" lang="ar">bzp</orth>
@@ -8663,7 +8669,7 @@
                <entryFree id="n2457" key="bazara Alqidora" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">bazara Alqidora</orth>
+                     <orth orig="" extent="full" lang="ar">bazara</orth>
                      <orth extent="full" lang="ar">bzr Alqdr</orth>
                   </form>, (Msb,) [aor.      
     <form n="infl">       
@@ -8769,9 +8775,13 @@
                <entryFree id="n2468" key="buzuwgN" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">buzuwgN</orth>
-                     <orth extent="full" lang="ar">bzwg</orth>
-                  </form> [inf. n. of <foreign lang="ar" TEIform="foreign">bazaga</foreign>] signifies The <hi rend="ital" TEIform="hi">beginning to rise,</hi> or <hi rend="ital" TEIform="hi">come forth:</hi> this is the primary meaning: mentioned by Zj. (TA.) ―         -b2-  Hence, (TA,) <foreign lang="ar" TEIform="foreign">bazaga</foreign>, said of a tush, or tusk, or canine tooth, (A,) or of the tush of a camel, (S, Msb, K,) [aor.     
+                     <orth orig="" extent="full" lang="ar">bazaga</orth>
+                  </form> aor.
+    <form n="infl">
+                     <orth orig="Bu" lang="ar">bazuga</orth>
+                  </form>
+                  <orth orig="" extent="full" lang="ar">buzuwgN</orth>
+ [inf. n. of <foreign lang="ar" TEIform="foreign">bazaga</foreign>] signifies The <hi rend="ital" TEIform="hi">beginning to rise,</hi> or <hi rend="ital" TEIform="hi">come forth:</hi> this is the primary meaning: mentioned by Zj. (TA.) ―         -b2-  Hence, (TA,) <foreign lang="ar" TEIform="foreign">bazaga</foreign>, said of a tush, or tusk, or canine tooth, (A,) or of the tush of a camel, (S, Msb, K,) [aor.     
     <form n="infl">       
                      <orth orig="Bu" lang="ar">bazuga</orth>
                   </form>,] inf. n. <foreign lang="ar" TEIform="foreign">buzuwgN</foreign>, (Msb,) <hi rend="ital" TEIform="hi">It came forth;</hi> (S, Msb, K;) <hi rend="ital" TEIform="hi">it clave the flesh, and came forth.</hi> (A.) ―         -b3-  And hence, (A, TA,) <foreign lang="ar" TEIform="foreign">bazagati Al$~amosu</foreign>, (JK, S, A, Msb, K,) aor.      
@@ -8869,7 +8879,7 @@
                <entryFree id="n2477" key="bazalahu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">bazalahu</orth>
+                     <orth orig="" extent="full" lang="ar">bazala</orth>
                      <orth extent="full" lang="ar">bzl</orth>
                      <orth extent="full" lang="ar">bzlh</orth>
                      <orth extent="full" lang="ar">bzlp</orth>
@@ -9031,10 +9041,13 @@
                <entryFree id="n2494" key="bazaA" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">bazaA</orth>
+                     <orth orig="" extent="full" lang="ar">bazawa</orth>
                      <orth extent="full" lang="ar">bz</orth>
                      <orth extent="full" lang="ar">bzA</orth>
-                  </form>, aor. <foreign lang="ar" TEIform="foreign">yabozuw</foreign>, <hi rend="ital" TEIform="hi">i. q.</hi> 
+                  </form>, aor.
+    <form n="infl">       
+                     <orth orig="Ba" lang="ar">bazuwa</orth>
+                  </form>, <hi rend="ital" TEIform="hi">i. q.</hi> 
                   <foreign lang="ar" TEIform="foreign">taTaAwala</foreign> [app. as meaning <hi rend="ital" TEIform="hi">He stretched out his neck, looking at a thing far</hi>  
                   <pb n="201" TEIform="pb"/> 
                   <hi rend="ital" TEIform="hi">off</hi>]; and <foreign lang="ar" TEIform="foreign">taA^an~asa</foreign> [here meaning the same, or <hi rend="ital" TEIform="hi">he looked, raising his head;</hi> said of a hawk, or falcon]: (Az, ISd, K:) and hence IJ says that ↓ 
@@ -9107,16 +9120,22 @@
                   </form> 
                   <hi rend="ital" TEIform="hi">He is strong,</hi> or <hi rend="ital" TEIform="hi">able, to perform this affair; a prudent,</hi> or <hi rend="ital" TEIform="hi">sound, manager thereof.</hi> (S.)   </entryFree> 
             </div2> 
-            <div2 n="bs" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="bss" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bs</foreign>
                </head>    
                <entryFree id="n2502" key="bas~N" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">bas~N</orth>
+                     <orth orig="" extent="full" lang="ar">basasa</orth>
                      <orth extent="full" lang="ar">bs</orth>
-                  </form> signifies The <hi rend="ital" TEIform="hi">act of breaking:</hi> or <hi rend="ital" TEIform="hi">breaking in pieces:</hi> syn. <foreign lang="ar" TEIform="foreign">HaTomN</foreign>. (TA.) ―         -b2-  [And The <hi rend="ital" TEIform="hi">act of mixing:</hi> see <foreign lang="ar" TEIform="foreign">basiysapN</foreign>. This, or the former, is probably the primary signification.] ―         -b3-  [And hence, app.,] <foreign lang="ar" TEIform="foreign">bas~ahu</foreign>, aor.      
+                  </form> aor.      
+		  <form n="infl">       
+                     <orth orig="Bu" lang="ar">basu3a</orth>
+                  </form>
+
+<foreign lang="ar" TEIform="foreign">bas~N</foreign>
+ signifies The <hi rend="ital" TEIform="hi">act of breaking:</hi> or <hi rend="ital" TEIform="hi">breaking in pieces:</hi> syn. <foreign lang="ar" TEIform="foreign">HaTomN</foreign>. (TA.) ―         -b2-  [And The <hi rend="ital" TEIform="hi">act of mixing:</hi> see <foreign lang="ar" TEIform="foreign">basiysapN</foreign>. This, or the former, is probably the primary signification.] ―         -b3-  [And hence, app.,] <foreign lang="ar" TEIform="foreign">bas~ahu</foreign>, aor.      
     <form n="infl">       
                      <orth orig="Bu" lang="ar">basu3a</orth>
                   </form>, inf. n. <foreign lang="ar" TEIform="foreign">bas~N</foreign>, (M, Msb,) <hi rend="ital" TEIform="hi">He broke it, crumbled it,</hi> or <hi rend="ital" TEIform="hi">bruised</hi> or <hi rend="ital" TEIform="hi">brayed it;</hi> said of wheat, &amp;c.; <hi rend="ital" TEIform="hi">thus making it what is termed</hi> 
@@ -9146,14 +9165,14 @@
                   <foreign lang="ar" TEIform="foreign">swyq</foreign> 
                   <hi rend="ital" TEIform="hi">moistened,</hi> or <hi rend="ital" TEIform="hi">stirred about with water, &amp;c.</hi> (<foreign lang="ar" TEIform="foreign">A^asowiqapN malotuwtapN</foreign>). (TA.)   </entryFree> 
             </div2> 
-            <div2 n="bsA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="bs'" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bsA^</foreign>
                </head>    
                <entryFree id="n2504" key="basaA^a bihi" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">basaA^a bihi</orth>
+                     <orth orig="" extent="full" lang="ar">basa'a</orth>
                      <orth extent="full" lang="ar">*</orth>
                   </form>, and <foreign lang="ar" TEIform="foreign">basiy^a</foreign>; (S, M, K;) aor.      
     <form n="infl">       
@@ -9392,7 +9411,7 @@
                <entryFree id="n2528" key="basaTahu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">basaTahu</orth>
+                     <orth orig="" extent="full" lang="ar">basaTa</orth>
                      <orth extent="full" lang="ar">bsAT</orth>
                      <orth extent="full" lang="ar">bsT</orth>
                      <orth extent="full" lang="ar">bsTh</orth>
@@ -9579,7 +9598,7 @@
                <entryFree id="n2547" key="basaqa Aln~axolu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">basaqa Aln~axolu</orth>
+                     <orth orig="" extent="full" lang="ar">basaqa</orth>
                      <orth extent="full" lang="ar">bsq Alnxl</orth>
                   </form>, (aor.      
     <form n="infl">       
@@ -9658,10 +9677,14 @@
                <entryFree id="n2556" key="basolN" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">basolN</orth>
+                     <orth orig="" extent="full" lang="ar">basala</orth>
                      <orth extent="full" lang="ar">bsl</orth>
                      <orth extent="full" lang="ar">sl</orth>
-                  </form> (inf. n. of <foreign lang="ar" TEIform="foreign">basala</foreign>, M) is The act of <hi rend="ital" TEIform="hi">preventing, hindering, withholding, debarring, forbidding,</hi> or <hi rend="ital" TEIform="hi">prohibiting;</hi> syn. <foreign lang="ar" TEIform="foreign">manoEN</foreign>; the primary meaning; (Bd in vi. 69;) and <foreign lang="ar" TEIform="foreign">A_iEojaAlN</foreign> (M, K) and <foreign lang="ar" TEIform="foreign">HabosN</foreign>; (AA, K;) [both syn. with <foreign lang="ar" TEIform="foreign">manoEN</foreign>;] and ↓ 
+                  </form> aor.      
+    <form n="infl">       
+                     <orth orig="Bu" lang="ar">basula</orth>
+                  </form>
+<foreign lang="ar" TEIform="foreign">basolN</foreign> (inf. n. of <foreign lang="ar" TEIform="foreign">basala</foreign>, M) is The act of <hi rend="ital" TEIform="hi">preventing, hindering, withholding, debarring, forbidding,</hi> or <hi rend="ital" TEIform="hi">prohibiting;</hi> syn. <foreign lang="ar" TEIform="foreign">manoEN</foreign>; the primary meaning; (Bd in vi. 69;) and <foreign lang="ar" TEIform="foreign">A_iEojaAlN</foreign> (M, K) and <foreign lang="ar" TEIform="foreign">HabosN</foreign>; (AA, K;) [both syn. with <foreign lang="ar" TEIform="foreign">manoEN</foreign>;] and ↓ 
       <orth type="arrow" lang="ar">A_ibosaAlN</orth> [inf. n. of 4, q. v. infrà,] signifies the same. (Bd ubi suprà.) You say, <foreign lang="ar" TEIform="foreign">basalaniy Eano</foreign> 
                   <foreign lang="ar" TEIform="foreign">HaAjatiY</foreign>, inf. n. as above, <hi rend="ital" TEIform="hi">He prevented me from accomplishing my want;</hi> syn. <foreign lang="ar" TEIform="foreign">A^aEojalaniY</foreign>. (M.)       -A2-  <foreign lang="ar" TEIform="foreign">basala</foreign>, (M, K,) aor.      
     <form n="infl">       
@@ -9921,14 +9944,15 @@
                      <orth extent="full" lang="ar">sn</orth>
                   </form> an imitative sequent to <foreign lang="ar" TEIform="foreign">HasanN</foreign>: (S, M, K:) [or it may signify <hi rend="ital" TEIform="hi">Beautiful in aspect</hi> &amp;c., from the verb above; or the verb may be from this word:] or, in the opinion of Aboo-'Alee El-Kálee, originally <foreign lang="ar" TEIform="foreign">bas~N</foreign> inf. n., used in the sense of the pass. part. n., of <foreign lang="ar" TEIform="foreign">bas~a Als~awiyqa</foreign>, meaning “he moistened, or stirred about, the <foreign lang="ar" TEIform="foreign">swyq</foreign> with clarified butter, or with olive-oil, to complete, or perfect, its goodness; ” one of the two <foreign lang="ar" TEIform="foreign">s</foreign> s being suppressed, and <foreign lang="ar" TEIform="foreign">n</foreign> being added; so that it means <hi rend="ital" TEIform="hi">complete,</hi> or <hi rend="ital" TEIform="hi">perfect.</hi> (MF. [But this derivation seems to be extremely far-fetched.])   </entryFree> 
             </div2> 
-            <div2 n="b$" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="b$$" type="root" org="uniform" sample="comple
+te" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">b$</foreign>
                </head>    
                <entryFree id="n2582" key="ba$~a" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">ba$~a</orth>
+                     <orth orig="" extent="full" lang="ar">ba$a$a</orth>
                      <orth extent="full" lang="ar">*</orth>
                   </form>, first pers. <foreign lang="ar" TEIform="foreign">ba$i$otu</foreign>, aor. <foreign lang="ar" TEIform="foreign">yaba$~u</foreign>, (S, K,) and, accord. to a relation of a verse of Ru-beh, <foreign lang="ar" TEIform="foreign">yabi$~u</foreign>, so that perhaps <foreign lang="ar" TEIform="foreign">ba$a$otu</foreign> was also said, (TA.) inf. n. <foreign lang="ar" TEIform="foreign">ba$aA$apN</foreign> (S, A, K) and <foreign lang="ar" TEIform="foreign">ba$~N</foreign> (A, K) and <foreign lang="ar" TEIform="foreign">ba$iy$N</foreign>, (TA,) <hi rend="ital" TEIform="hi">He was,</hi> or <hi rend="ital" TEIform="hi">became, cheerful in countenance.</hi> (S, A, K.) You say, <foreign lang="ar" TEIform="foreign">ba$i$otu bihi</foreign> 
                   <hi rend="ital" TEIform="hi">I was,</hi> or <hi rend="ital" TEIform="hi">became, cheerful in countenance</hi> [<hi rend="ital" TEIform="hi">by reason of meeting</hi>] <hi rend="ital" TEIform="hi">with him:</hi> (S:) or <foreign lang="ar" TEIform="foreign">ba$~a bihi</foreign> (TK,) inf. n. <foreign lang="ar" TEIform="foreign">ba$~N</foreign> (Lth, K) and <foreign lang="ar" TEIform="foreign">ba$aA$apN</foreign>, (K,) signifies <hi rend="ital" TEIform="hi">he rejoiced in him,</hi> or <hi rend="ital" TEIform="hi">was pleased with him,</hi> namely, a friend, (Lth, K,) <hi rend="ital" TEIform="hi">at meeting:</hi> (Lth:) or <hi rend="ital" TEIform="hi">he showed joy,</hi> or <hi rend="ital" TEIform="hi">pleasure, at meeting him.</hi> (TK.) You say <pb n="207" TEIform="pb"/> also, <foreign lang="ar" TEIform="foreign">biY</foreign> ↓ 
@@ -10708,12 +10732,14 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bST</foreign>
                </head>    
-               <entryFree id="n2664" key="baSoTN" type="main">     
+               <entryFree id="n2664" key="baSaTa" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baSoTN</orth>
+                     <orth orig="" extent="full" lang="ar">baSaTa</orth>
                      <orth extent="full" lang="ar">bST</orth>
-                  </form>, [inf. n. of <foreign lang="ar" TEIform="foreign">baSaTa</foreign>,] <hi rend="ital" TEIform="hi">i. q.</hi> 
+                  </form>
+
+<foreign lang="ar" TEIform="foreign">baSoTN</foreign> [inf. n. of <foreign lang="ar" TEIform="foreign">baSaTa</foreign>,] <hi rend="ital" TEIform="hi">i. q.</hi> 
                   <foreign lang="ar" TEIform="foreign">basoTN</foreign>, in all its meanings: (K:) the <foreign lang="ar" TEIform="foreign">s</foreign>, with <foreign lang="ar" TEIform="foreign">T</foreign>, is changed into <foreign lang="ar" TEIform="foreign">S</foreign> because of the nearness of the places of utterance. (L.)   </entryFree> 
             </div2> 
             <div2 n="bSE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -10845,14 +10871,14 @@
                   </form>, (M, K,) so accord. to Ktr, (M,) and <foreign lang="ar" TEIform="foreign">buS~aAnN</foreign>, (K,) thus in some of the copies of the Jm of IDrd, (TA,) a name of <hi rend="ital" TEIform="hi">The month</hi> 
                   <foreign lang="ar" TEIform="foreign">rabiyEN AlA^xiru</foreign>, (M, K,) in the Time of Ignorance: (M:) pl. [of pauc.] <foreign lang="ar" TEIform="foreign">A^aboSinapN</foreign> (M, K) and [of mult.] <foreign lang="ar" TEIform="foreign">biSonaAnN</foreign>; (M, TA;) the latter erroneously written in the copies of the K <foreign lang="ar" TEIform="foreign">buSaAnaAtN</foreign>: (TA:) so says Ktr; but other lexicologists hold that it is <foreign lang="ar" TEIform="foreign">wabuSaAnN</foreign>, like <foreign lang="ar" TEIform="foreign">sabuEaAn</foreign>, and <foreign lang="ar" TEIform="foreign">wabiSaAnN</foreign>, like <foreign lang="ar" TEIform="foreign">$aqiraAn</foreign>; and this is the correct opinion: Aboo-Is-hák says that it was so named because of the <foreign lang="ar" TEIform="foreign">wabiyS</foreign>, i. e. gleaming, of the weapons therein: (M:) but it is said in art. <foreign lang="ar" TEIform="foreign">wbS</foreign> of the K to be <foreign lang="ar" TEIform="foreign">waboSaAn</foreign> and <foreign lang="ar" TEIform="foreign">wuboSaAn</foreign>: and Sgh holds <foreign lang="ar" TEIform="foreign">buS~aAnN</foreign> to be correct because <foreign lang="ar" TEIform="foreign">baS~a</foreign> and <foreign lang="ar" TEIform="foreign">wabaSa</foreign> signify the same. (TA.)   </entryFree> 
             </div2> 
-            <div2 n="bD" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="bDD" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bD</foreign>
                </head>    
                <entryFree id="n2678" key="baDaDota" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baDaDota</orth>
+                     <orth orig="" extent="full" lang="ar">baDaDa</orth>
                      <orth extent="full" lang="ar">bD</orth>
                      <orth extent="full" lang="ar">bDDt</orth>
                   </form>, and <foreign lang="ar" TEIform="foreign">baDiDota</foreign>, (S, TA,) and <foreign lang="ar" TEIform="foreign">baDuDota</foreign> also, (accord. to one copy of the S,) [third pers., accord. to rule, <foreign lang="ar" TEIform="foreign">baD~a</foreign>, (accord. to Golius and Freytag <foreign lang="ar" TEIform="foreign">baDaDa</foreign> or <foreign lang="ar" TEIform="foreign">baDiDa</foreign>, but these are irregular forms, and not admissible without authority,) aor., accord. to rule, of the first <foreign lang="ar" TEIform="foreign">yabiD~u</foreign>, and of the second <foreign lang="ar" TEIform="foreign">yabaD~u</foreign>, and of the third <foreign lang="ar" TEIform="foreign">yabuD~u</foreign>,] inf. n. <foreign lang="ar" TEIform="foreign">baDaADapN</foreign> and <foreign lang="ar" TEIform="foreign">buDawDapN</foreign>, (S, TA,) <hi rend="ital" TEIform="hi">Thou</hi> (O man) <hi rend="ital" TEIform="hi">wast,</hi> or <hi rend="ital" TEIform="hi">becamest, such as is termed</hi> 
@@ -10965,7 +10991,7 @@
                <entryFree id="n2693" key="baDaEahu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baDaEahu</orth>
+                     <orth orig="" extent="full" lang="ar">baDaEa</orth>
                      <orth extent="full" lang="ar">DEp</orth>
                      <orth extent="full" lang="ar">bDE</orth>
                      <orth extent="full" lang="ar">bDEh</orth>
@@ -11172,14 +11198,14 @@
                   </form>. It is said in a prov., <foreign lang="ar" TEIform="foreign">kamusotaboDiEi tamorK</foreign> 
                   <foreign lang="ar" TEIform="foreign">A_ilaY hajarK</foreign> [<hi rend="ital" TEIform="hi">Like the taker of dates as merchandise to Hejer</hi>]; because Hejer is [famous as] the place of production (<foreign lang="ar" TEIform="foreign">maEodin</foreign>) of dates. (S.) <foreign lang="ar" TEIform="foreign">mstbDE</foreign> is here made trans. by means of <foreign lang="ar" TEIform="foreign">AlY</foreign> because it has the meaning of <foreign lang="ar" TEIform="foreign">HaAmil</foreign>. (TA.)   </entryFree> 
             </div2> 
-            <div2 n="bT" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="bTT" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bT</foreign>
                </head>    
                <entryFree id="n2715" key="baT~a" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baT~a</orth>
+                     <orth orig="" extent="full" lang="ar">baTaTa</orth>
                      <orth extent="full" lang="ar">bT</orth>
                   </form>, (S, Mgh, Msb, K,) aor.      
     <form n="infl">       
@@ -11344,7 +11370,7 @@
                <entryFree id="n2734" key="baTaHahu" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baTaHahu</orth>
+                     <orth orig="" extent="full" lang="ar">baTaHa</orth>
                      <orth extent="full" lang="ar">bTH</orth>
                      <orth extent="full" lang="ar">bTHh</orth>
                      <orth extent="full" lang="ar">bTHp</orth>
@@ -12236,10 +12262,10 @@
                <entryFree id="n2822" key="baTaA" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baTaA</orth>
+                     <orth orig="" extent="full" lang="ar">baTaya</orth>
                      <orth extent="full" lang="ar">bT</orth>
                      <orth extent="full" lang="ar">bTA</orth>
-                  </form>, aor. <foreign lang="ar" TEIform="foreign">yaboTuw</foreign>, is said by Z and Meyd to signify <hi rend="ital" TEIform="hi">He,</hi> or <hi rend="ital" TEIform="hi">it, was,</hi> or <hi rend="ital" TEIform="hi">became, wide:</hi> and hence <foreign lang="ar" TEIform="foreign">baATiyapN</foreign>, meaning a <foreign lang="ar" TEIform="foreign">naAjuwd</foreign>. (TA.)    </entryFree> 
+                  </form>, aor. <foreign lang="ar" TEIform="foreign">baTuwa</foreign>, is said by Z and Meyd to signify <hi rend="ital" TEIform="hi">He,</hi> or <hi rend="ital" TEIform="hi">it, was,</hi> or <hi rend="ital" TEIform="hi">became, wide:</hi> and hence <foreign lang="ar" TEIform="foreign">baATiyapN</foreign>, meaning a <foreign lang="ar" TEIform="foreign">naAjuwd</foreign>. (TA.)    </entryFree> 
                <entryFree>     
                   <form>       
                      <itype>4</itype>        
@@ -14939,9 +14965,11 @@
                   <form>       
                      <itype>1</itype>        
                      <orth orig="" extent="full" lang="ar">bakara</orth>
-                     <orth extent="full" lang="ar">*</orth> and        
-      <orth orig="" extent="full" lang="ar">gadaA</orth>
-                  </form> both [properly] relate to the beginning of the day: (AZ, Msb:) the former of these verbs, (T, S, A,) aor.      
+                  </form> aor.      
+    <form n="infl">       
+                     <orth orig="Bu" lang="ar">bakura</orth>
+    </form>
+<foreign lang="ar" TEIform="foreign">bakara</foreign> and <foreign lang="ar" TEIform="foreign">gadaA</foreign> both [properly] relate to the beginning of the day: (AZ, Msb:) the former of these verbs, (T, S, A,) aor.      
     <form n="infl">       
                      <orth orig="Bu" lang="ar">bakura</orth>
                   </form>, inf. n. <foreign lang="ar" TEIform="foreign">bukuwrN</foreign>; (T, S;) and ↓ 
@@ -16912,10 +16940,10 @@
                <entryFree id="n3253" key="1" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">baliqa</orth>
-                     <orth extent="full" lang="ar">*</orth> and        
-      <orth orig="" extent="full" lang="ar">baluqa</orth>
-                  </form>: see 9.       -A2-  <foreign lang="ar" TEIform="foreign">balaqa</foreign>, (S, K, &amp;c.,) aor.      
+                     <orth orig="" extent="full" lang="ar">balaqa</orth>
+                  </form>
+<foreign lang="ar" TEIform="foreign">baliqa</foreign> and
+<foreign lang="ar" TEIform="foreign">baluqa</foreign>: see 9.       -A2-  <foreign lang="ar" TEIform="foreign">balaqa</foreign>, (S, K, &amp;c.,) aor.      
     <form n="infl">       
                      <orth orig="Bu" lang="ar">baluqa</orth>
                   </form>, (MSb, TA,) inf. n. <foreign lang="ar" TEIform="foreign">baloqN</foreign>, (TA,) <hi rend="ital" TEIform="hi">He opened</hi> a door <hi rend="ital" TEIform="hi">wholly:</hi> (JK, S, K:) or <hi rend="ital" TEIform="hi">opened</hi> it <hi rend="ital" TEIform="hi">vehemently:</hi> (K:) and ↓ 
@@ -19487,7 +19515,7 @@
                      <orth extent="full" lang="ar">jwz bwA</orth>
                   </form>, also written <foreign lang="ar" TEIform="foreign">jawozu baw~aY</foreign>: see art. <foreign lang="ar" TEIform="foreign">jwz</foreign>.       -A2-  <foreign lang="ar" TEIform="foreign">xayoru baw~aA='u</foreign>: see art. <foreign lang="ar" TEIform="foreign">xyr</foreign>.   </entryFree> 
             </div2> 
-            <div2 n="bwA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="bw'" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bwA^</foreign>
                </head>    
