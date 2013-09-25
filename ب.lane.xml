@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<TEI.2 xmlns:sib="http://www.sibawayhi.org/schema/lane">
    <teiHeader type="text" status="new">
       <fileDesc>
          <titleStmt>
@@ -77,7 +77,7 @@
    </teiHeader>
    <text>
       <body>
-         <div1 part="N" n="b" org="uniform" sample="complete" type="alphabetical letter"
+         <div1 vol="1" vpg="142" pg="142" part="N" n="b" org="uniform" sample="complete" type="alphabetical letter"
                TEIform="div1"> 
             <head lang="ar" TEIform="head">b</head>   
             <div2 type="root" part="N" n="b" org="uniform" sample="complete" TEIform="div2">      
@@ -331,7 +331,7 @@
                   <foreign lang="ar" TEIform="foreign">AqHwAn</foreign>, (TA in art. <foreign lang="ar" TEIform="foreign">qrS</foreign>,) <hi rend="ital" TEIform="hi">when it has become dry:</hi> (S, TA, both in art. <foreign lang="ar" TEIform="foreign">qrS</foreign>:) <hi rend="ital" TEIform="hi">a well-known flower, of great utility,</hi> (K, TA,) or <hi rend="ital" TEIform="hi">of which the oil is of great utility:</hi> (CK:) <hi rend="ital" TEIform="hi">commonly known in El-Yemen by the name of</hi> 
                   <foreign lang="ar" TEIform="foreign">mwns</foreign> [app. <foreign lang="ar" TEIform="foreign">muw^onisN</foreign>, because of its pleasant odour, or its medical properties]. (TA.)   </entryFree> 
             </div2> 
-            <div2 n="bAj" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="bA^j" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bAj</foreign>
                </head>    
@@ -650,9 +650,10 @@
             </div2> 
             <div2 n="btt" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">bt</foreign>
+                  <foreign lang="ar" TEIform="foreign">btt</foreign>
                </head>    
-               <entryFree id="n1690" key="bat~ahu" type="main">     
+               <entryFree id="n1690" key="bat~ahu" type="main">
+		 <sib:orth perfv="a"/>
                   <form>       
                      <itype>1</itype>        
                      <orth orig="" extent="full" lang="ar">bat~ahu</orth>
