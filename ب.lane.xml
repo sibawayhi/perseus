@@ -77,7 +77,7 @@
    </teiHeader>
    <text>
       <body>
-         <div1 vol="1" vpg="142" pg="142" part="N" n="b" org="uniform" sample="complete" type="alphabetical letter"
+         <div1 vol="1" vpg="178" pg="141" part="N" n="b" org="uniform" sample="complete" type="alphabetical letter"
                TEIform="div1"> 
             <head lang="ar" TEIform="head">b</head>   
             <div2 type="root" part="N" n="b" org="uniform" sample="complete" TEIform="div2">      
@@ -653,7 +653,6 @@
                   <foreign lang="ar" TEIform="foreign">btt</foreign>
                </head>    
                <entryFree id="n1690" key="bat~ahu" type="main">
-		 <sib:orth perfv="a"/>
                   <form>       
                      <itype>1</itype>        
                      <orth orig="" extent="full" lang="ar">bat~ahu</orth>

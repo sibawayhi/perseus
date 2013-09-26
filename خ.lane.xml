@@ -77,7 +77,7 @@
    </teiHeader>
    <text>
       <body>
-         <div1 part="N" n="x" org="uniform" sample="complete" type="alphabetical letter"
+         <div1 vol="2" vpg="327" pg="691" part="N" n="x" org="uniform" sample="complete" type="alphabetical letter"
                TEIform="div1"> 
             <head lang="ar" TEIform="head">x</head>   
             <div2 type="root" part="N" n="x" org="uniform" sample="complete" TEIform="div2">      
@@ -2706,9 +2706,10 @@
                   <form>       
                      <itype>1</itype>        
                      <orth orig="" extent="full" lang="ar">xadara</orth>
-                     <orth extent="full" lang="ar">*</orth> and        
-      <orth orig="" extent="full" lang="ar">xadira</orth>
-                  </form>, as intrans. vs.: see 4, in six places:       -A2-  and for the former, as a trans. v.: see 2, in two places.       -A3-  <foreign lang="ar" TEIform="foreign">xadira</foreign>, aor.      
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>
+ and <form><orth orig="" extent="full" lang="ar">xadira</orth></form>
+, as intrans. vs.: see 4, in six places:       -A2-  and for the former, as a trans. v.: see 2, in two places.       -A3-  <foreign lang="ar" TEIform="foreign">xadira</foreign>, aor.      
     <form n="infl">       
                      <orth orig="Ba" lang="ar">xadara</orth>
                   </form>, inf. n. <foreign lang="ar" TEIform="foreign">xadarN</foreign>, said of a limb, (Msb, K,) and of the body, (TA,) and <foreign lang="ar" TEIform="foreign">xadirato</foreign>, inf. n. as above, said of the leg or foot, (S, A,) and of the arm or hand, (TA,) <hi rend="ital" TEIform="hi">It was,</hi> or <hi rend="ital" TEIform="hi">became, benumbed,</hi> or <hi rend="ital" TEIform="hi">torpid,</hi> or <hi rend="ital" TEIform="hi">affected by a languidness,</hi> or <hi rend="ital" TEIform="hi">laxity,</hi> (S, Msb, K,) or <hi rend="ital" TEIform="hi">by a heaviness,</hi> (IAar,) <hi rend="ital" TEIform="hi">and an impotence of exercising motion,</hi> (IAar, Msb,) or <hi rend="ital" TEIform="hi">by a contraction of the sinews;</hi> (TA;) said of the leg or foot [&amp;c.], <hi rend="ital" TEIform="hi">it became asleep.</hi> (TA in art. <foreign lang="ar" TEIform="foreign">bsr</foreign>.) ―         -b2-  Also <foreign lang="ar" TEIform="foreign">xadira</foreign>, inf. n. as above, (assumed tropical:)  <hi rend="ital" TEIform="hi">He became languid from drinking wine or medicine.</hi> (TA: but only the inf. n. of the v. in this sense is there mentioned.) And (assumed tropical:)  <hi rend="ital" TEIform="hi">He was,</hi> or <hi rend="ital" TEIform="hi">became, lazy,</hi> or <hi rend="ital" TEIform="hi">slothful, and languid.</hi> (K, * TA: but in this instance, also, only the inf. n. is mentioned.) And <foreign lang="ar" TEIform="foreign">xadirato EiZaAmuhu</foreign> (S, A) (tropical:)  <hi rend="ital" TEIform="hi">His bones became feeble.</hi> (A.) And <foreign lang="ar" TEIform="foreign">xadirato Eayonuhu</foreign>, (A,) inf. n. as above, (K,) (tropical:)  <hi rend="ital" TEIform="hi">His eye became languid:</hi> (K, TA:) or <hi rend="ital" TEIform="hi">became heavy,</hi> (A, K,) <hi rend="ital" TEIform="hi">by reason of rubbing,</hi> (A,) or <hi rend="ital" TEIform="hi">from a mote in it.</hi> (A, K.) ―         -b3-  And <foreign lang="ar" TEIform="foreign">xadira</foreign>, (TA,) inf. n. as above, (K, TA,) said of the day, (TA,) (assumed tropical:)  <hi rend="ital" TEIform="hi">It became intensely hot:</hi> ―         -b4-  and (assumed tropical:)  <hi rend="ital" TEIform="hi">intensely cold:</hi> (K, TA: [see also the part. n. <foreign lang="ar" TEIform="foreign">xadirN</foreign>:]) ―         -b5-  and (tropical:)  <hi rend="ital" TEIform="hi">it was,</hi> or <hi rend="ital" TEIform="hi">became, calm; without wind,</hi> and <hi rend="ital" TEIform="hi">without a breeze.</hi> (A, TA.)    </entryFree> 
@@ -9015,9 +9016,9 @@
                   <form>       
                      <itype>1</itype>        
                      <orth orig="" extent="full" lang="ar">xaSiba</orth>
-                     <orth extent="full" lang="ar">*</orth> and        
-      <orth orig="" extent="full" lang="ar">xaSaba</orth>
-                  </form>: see 4.    </entryFree> 
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>  and        
+      <form><orth orig="" extent="full" lang="ar">xaSaba</orth></form>: see 4.    </entryFree> 
                <entryFree id="n10751" key="xS~b" type="main">     
                   <form>       
                      <itype>2</itype>        
@@ -20617,12 +20618,13 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">xyf</foreign>
                </head>    
-               <entryFree id="n11850" key="xayafN" type="main">     
+               <entryFree id="n11850" key="xayifa" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">xayafN</orth>
+                     <orth orig="" extent="full" lang="ar">xayifa</orth>
                      <orth extent="full" lang="ar">xyf</orth>
-                  </form> The <hi rend="ital" TEIform="hi">having one of the eyes blue and the other black:</hi> (JK, S, Mgh, Msb, K:) inf. n. of <foreign lang="ar" TEIform="foreign">xayifN</foreign>, aor. <foreign lang="ar" TEIform="foreign">yaxoyafu</foreign>: (JK, Msb: *) said of a horse, (S, Mgh, * Msb, K,) &amp;c., (S, K,) i. e. of any animal. (S, TA.) ―         -b2-  Also The <hi rend="ital" TEIform="hi">being wide in the sheath of the penis:</hi> (S, K:) in this sense [likewise] inf. n. of <foreign lang="ar" TEIform="foreign">xayifa</foreign>: (S:) said of a camel. (S, K.) ―         -b3-  And [app. in like manner having for its verb <foreign lang="ar" TEIform="foreign">xayifato</foreign>] A she-camel's <hi rend="ital" TEIform="hi">being such, as is termed</hi> 
+                  </form>
+		  <masdar>xayafN</masdar> The <hi rend="ital" TEIform="hi">having one of the eyes blue and the other black:</hi> (JK, S, Mgh, Msb, K:) inf. n. of <foreign lang="ar" TEIform="foreign">xayifN</foreign>, aor. <foreign lang="ar" TEIform="foreign">yaxoyafu</foreign>: (JK, Msb: *) said of a horse, (S, Mgh, * Msb, K,) &amp;c., (S, K,) i. e. of any animal. (S, TA.) ―         -b2-  Also The <hi rend="ital" TEIform="hi">being wide in the sheath of the penis:</hi> (S, K:) in this sense [likewise] inf. n. of <foreign lang="ar" TEIform="foreign">xayifa</foreign>: (S:) said of a camel. (S, K.) ―         -b3-  And [app. in like manner having for its verb <foreign lang="ar" TEIform="foreign">xayifato</foreign>] A she-camel's <hi rend="ital" TEIform="hi">being such, as is termed</hi> 
                   <foreign lang="ar" TEIform="foreign">xayofaA='</foreign> [i. e. <hi rend="ital" TEIform="hi">wide in the udder,</hi> or <hi rend="ital" TEIform="hi">in the skin thereof,</hi> or only <hi rend="ital" TEIform="hi">when it is empty of milk, and flaccid</hi>]. (S)    </entryFree> 
                <entryFree id="n11851" key="xy~ft" type="main">     
                   <form>       

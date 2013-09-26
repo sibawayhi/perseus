@@ -77,7 +77,7 @@
    </teiHeader>
    <text>
       <body>
-         <div1 part="N" n="l" org="uniform" sample="complete" type="alphabetical letter"
+         <div1 vol="8" vpg="260" pg="3006" part="N" n="l" org="uniform" sample="complete" type="alphabetical letter"
                TEIform="div1"> 
             <head lang="ar" TEIform="head">l</head>   
             <div2 type="root" part="N" n="l" org="uniform" sample="complete" TEIform="div2">      

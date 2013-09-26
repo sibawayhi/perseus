@@ -77,7 +77,7 @@
    </teiHeader>
    <text>
       <body>
-         <div1 part="N" n="k" org="uniform" sample="complete" type="alphabetical letter"
+         <div1 vol="7" vpg="109" pg="2581" part="N" n="k" org="uniform" sample="complete" type="alphabetical letter"
                TEIform="div1"> 
             <head lang="ar" TEIform="head">k</head>   
             <div2 type="root" part="N" n="k" org="uniform" sample="complete" TEIform="div2">      
@@ -2434,20 +2434,23 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> (assumed tropical:)  <hi rend="ital" TEIform="hi">A comb.</hi> (K.) ―         -b2-  (tropical:)  <hi rend="ital" TEIform="hi">An instrument for scratching or scraping.</hi> (TA.)   </entryFree> 
             </div2> 
-            <div2 n="kdA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="kd'" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">kdA^</foreign>
                </head>    
                <entryFree id="n36735" key="1" type="main">     
                   <form>       
                      <itype>1</itype>        
+                     <orth orig="" extent="full" lang="ar">kada'a</orth>
+                  </form>, aor.      
+		  <form n="infl">       
+                     <orth orig="Ba" lang="ar">kada'a</orth>
+                  </form>,
+
                      <orth orig="" extent="full" lang="ar">kadaA^a</orth>
                      <orth extent="full" lang="ar">*</orth> and        
       <orth orig="" extent="full" lang="ar">kadiy^a</orth>
-                  </form>, aor.      
-    <form n="infl">       
-                     <orth orig="Ba" lang="ar">kadaAa</orth>
-                  </form>, inf. n. <foreign lang="ar" TEIform="foreign">kado'N</foreign> and <foreign lang="ar" TEIform="foreign">kuduwo'N</foreign>, <hi rend="ital" TEIform="hi">It</hi> (a plant) <hi rend="ital" TEIform="hi">was affected by the cold, and thereby made to stick to the earth:</hi> or <hi rend="ital" TEIform="hi">its growth became slow by reason of want of water.</hi> (AZ, S, K.) ―         -b2-  <foreign lang="ar" TEIform="foreign">kadaA^a</foreign>, aor.      
+ inf. n. <foreign lang="ar" TEIform="foreign">kado'N</foreign> and <foreign lang="ar" TEIform="foreign">kuduwo'N</foreign>, <hi rend="ital" TEIform="hi">It</hi> (a plant) <hi rend="ital" TEIform="hi">was affected by the cold, and thereby made to stick to the earth:</hi> or <hi rend="ital" TEIform="hi">its growth became slow by reason of want of water.</hi> (AZ, S, K.) ―         -b2-  <foreign lang="ar" TEIform="foreign">kadaA^a</foreign>, aor.      
     <form n="infl">       
                      <orth orig="Ba" lang="ar">kadaAa</orth>
                   </form>; (K;) and ↓ 
@@ -3103,14 +3106,14 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> [signifying <hi rend="ital" TEIform="hi">lies, falsehoods,</hi> or <hi rend="ital" TEIform="hi">untruths,</hi>] is said to be a word that has no proper sing.: or it is pl. of <foreign lang="ar" TEIform="foreign">ka*ibN</foreign>, contr. to analogy: or its sing. is <foreign lang="ar" TEIform="foreign">mako*abN</foreign>: like as is said of <foreign lang="ar" TEIform="foreign">maHaAsinu</foreign> and <foreign lang="ar" TEIform="foreign">ma*aAkiru</foreign> &amp;c. (MF.)   </entryFree> 
             </div2> 
-            <div2 n="kr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="krr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">kr</foreign>
                </head>    
                <entryFree>     
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">karV3a</orth>
+                     <orth orig="" extent="full" lang="ar">karara</orth>
                   </form> [<foreign lang="ar" TEIform="foreign">kar~a</foreign>, i. e.] <foreign lang="ar" TEIform="foreign">kar~a binafosihi</foreign>, as distinguished from the trans. <foreign lang="ar" TEIform="foreign">kar~a</foreign>, [aor.      
     <form n="infl">       
                      <orth orig="Bu" lang="ar">karu3a</orth>
@@ -4416,7 +4419,7 @@
                </head>    
                <entryFree>See Supplement   </entryFree> 
             </div2> 
-            <div2 n="ks" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="ks^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">ks</foreign>
                </head>    

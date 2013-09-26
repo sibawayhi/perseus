@@ -77,7 +77,7 @@
    </teiHeader>
    <text>
       <body>
-         <div1 part="N" n="S" org="uniform" sample="complete" type="alphabetical letter"
+         <div1 vol="4" vpg="361" pg="1637" part="N" n="S" org="uniform" sample="complete" type="alphabetical letter"
                TEIform="div1"> 
             <head lang="ar" TEIform="head">S</head>   
             <div2 type="root" part="N" n="S" org="uniform" sample="complete" TEIform="div2">      
@@ -10267,10 +10267,15 @@
                <entryFree id="n24737" key="1" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">SalaAdapN</orth>
-                     <orth extent="full" lang="ar">*</orth> and        
-      <orth orig="" extent="full" lang="ar">SuluwdapN</orth>
-                  </form>, [inf. ns. of which the verb is <foreign lang="ar" TEIform="foreign">Saluda</foreign>,] used in relation to a stone [&amp;c.], signify The <hi rend="ital" TEIform="hi">being hard and smooth.</hi> (M.) [And <foreign lang="ar" TEIform="foreign">SalodN</foreign> has a similar meaning.] You say, <foreign lang="ar" TEIform="foreign">Saladati AlA^aroDu</foreign>, and ↓ 
+                     <orth orig="" extent="full" lang="ar">Salada</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>, aor.      
+    <form n="infl">       
+                     <orth orig="Bi" lang="ar">Salida</orth>
+                  </form>
+
+                  <foreign lang="ar" TEIform="foreign">SalaAdapN</foreign>
+and <foreign lang="ar" TEIform="foreign">SuluwdapN</foreign> [inf. ns. of which the verb is <foreign lang="ar" TEIform="foreign">Saluda</foreign>,] used in relation to a stone [&amp;c.], signify The <hi rend="ital" TEIform="hi">being hard and smooth.</hi> (M.) [And <foreign lang="ar" TEIform="foreign">SalodN</foreign> has a similar meaning.] You say, <foreign lang="ar" TEIform="foreign">Saladati AlA^aroDu</foreign>, and ↓ 
       <orth type="arrow" lang="ar">A^aSoladat</orth>, <hi rend="ital" TEIform="hi">The land was,</hi> or <hi rend="ital" TEIform="hi">became, hard:</hi> 
                   <pb n="1716" TEIform="pb"/> (K:) or (tropical:)  <hi rend="ital" TEIform="hi">so that it produced no plants,</hi> or <hi rend="ital" TEIform="hi">herbage:</hi> (TA:) and <foreign lang="ar" TEIform="foreign">Salada AlmakaAnu</foreign>, and ↓ 
       <orth type="arrow" lang="ar">A^aSolada</orth>, (M, TA,) <hi rend="ital" TEIform="hi">the place was,</hi> or <hi rend="ital" TEIform="hi">became, hard:</hi> (TA:) or (assumed tropical:)  <hi rend="ital" TEIform="hi">produced no plants,</hi> or <hi rend="ital" TEIform="hi">herbage.</hi> (M.) And <foreign lang="ar" TEIform="foreign">Salada Ealayohi Aljabalu</foreign>, aor.      
