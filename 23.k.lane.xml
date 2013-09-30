@@ -9020,7 +9020,7 @@
                </head>    
                <entryFree>See Supplement   </entryFree> 
             </div2> 
-            <div2 n="kyA^ and kwA^" type="root" org="uniform" sample="complete" part="N"
+            <div2 n="kyA^" type="root" org="uniform" sample="complete" part="N"
                   TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">kyA^</foreign> and <foreign lang="ar" TEIform="foreign">kwA^</foreign>
