@@ -12254,7 +12254,13 @@ te" part="N" TEIform="div2">
                   <hi rend="ital" TEIform="hi">Having a complaint of,</hi> or <hi rend="ital" TEIform="hi">a disease in,</hi> or <hi rend="ital" TEIform="hi">a pain in, his belly:</hi> (S, Mgh, Msb, K:) one <hi rend="ital" TEIform="hi">who dies of disease of his belly, as dropsy and the like:</hi> such is reckoned a martyr. (TA.) <pb n="222" TEIform="pb"/>   
                </entryFree> 
             </div2> 
-            <div2 n="bTw or bTY" type="root" org="uniform" sample="complete" part="N"
+            <div2 n="bTw" type="root" org="uniform" sample="complete" part="N"
+		  TEIform="div2">
+               <entryFree>
+		 see <foreign lang="ar" TEIform="foreign">bTY</foreign>
+	       </entryFree>
+	    </div2>
+            <div2 n="bTY" type="root" org="uniform" sample="complete" part="N"
                   TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bTw</foreign> or <foreign lang="ar" TEIform="foreign">bTY</foreign>
