@@ -1,6 +1,6 @@
 # H. Anthony Salmoné, _An Advanced Learner's Arabic-English Dictionary_
 
-The original files are from the Perseus Project at http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Arabic
+The original files are from the Perseus Project at http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2002.02.0005
 
 # license
 
