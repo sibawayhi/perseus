@@ -63,7 +63,8 @@ then, to a lesser extent, to convert the structure into a form more
 suitable for database-like processing.  That means, among other things:
 
 * Fixing delimiters; we use `<sib:add>`, `<sib:del>`, and `<sib:swap>`
-* Extracting the juicy bits while omitting unecessary narrative cruft
+* Marking up the text such that, for presentation, it is possible to
+  extract the juicy bits while omitting unecessary narrative cruft
 * Marking up sourcing citations, e.g. converting '(TA)' to something
   like `<authority ref="TA"/>`; this makes it possible to suppress
   such references unless requested
