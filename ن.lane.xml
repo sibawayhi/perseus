@@ -323,8 +323,8 @@
                      <orth orig="" extent="full" lang="ar">naw^uw$N</orth>
                      <orth extent="full" lang="ar">*</orth>
                   </form>
-                  <hi rend="ital" TEIform="hi">Strong; overcoming;</hi> or <hi rend="ital" TEIform="hi">prevailing;</hi> (K;) <hi rend="ital" TEIform="hi">possessing might</hi> or <hi rend="ital" TEIform="hi">strength, courage, valour,</hi> or <hi rend="ital" TEIform="hi">prowess.</hi> (TA.) You say also, <foreign lang="ar" TEIform="foreign">qadarN naw^uw$N</foreign>
-                  <hi rend="ital" TEIform="hi">An overcoming decree;</hi> as also <foreign lang="ar" TEIform="foreign">naw~aA$N</foreign>. (TA.) See also art. <foreign lang="ar" TEIform="foreign">nw$</foreign>.    </entryFree>
+                  <hi rend="ital" TEIform="hi">Strong; overcoming;</hi> or <hi rend="ital" TEIform="hi">prevailing;</hi> (K;) <hi rend="ital" TEIform="hi">possessing might</hi> or <hi rend="ital" TEIform="hi">strength, courage, valour,</hi> or <hi rend="ital" TEIform="hi">prowess.</hi> (TA.) <sib:wrap tag="also">You say also, <foreign lang="ar" TEIform="foreign">qadarN naw^uw$N</foreign>
+                  <hi rend="ital" TEIform="hi">An overcoming decree;</hi> as also <foreign lang="ar" TEIform="foreign">naw~aA$N</foreign>.</sib:wrap> (TA.) See also art. <foreign lang="ar" TEIform="foreign">nw$</foreign>.    </entryFree>
                <entryFree id="n39130" key="faEalahu nay^iy$FA" type="main">
                   <form>
                      <orth orig="" extent="full" lang="ar">faEalahu nay^iy$FA</orth>
@@ -1334,7 +1334,7 @@
                      <L>↓
       <orth type="arrow" lang="ar">laA^aromiyan~aka ramoyFA gayora tanobiyDi</orth>
                      </L>
-                  </quote> [<hi rend="ital" TEIform="hi">I will assuredly shoot thee with a shooting, not a</hi> mere <hi rend="ital" TEIform="hi">twanging</hi>]: meaning, my pulling [of the bow] shall not be a threatening, but execution. (TA.) ―         -b3-  You say also, <foreign lang="ar" TEIform="foreign">A^anobaDa Aln~ad~aAfu minobaDatahu</foreign> [<hi rend="ital" TEIform="hi">The separater and loosener of cotton by means of the bow and mallet made his mallet to cause the string of the bow to vibrate</hi>]. (A, TA.)    </entryFree>
+               </quote> [<hi rend="ital" TEIform="hi">I will assuredly shoot thee with a shooting, not a</hi> mere <hi rend="ital" TEIform="hi">twanging</hi>]: meaning, my pulling [of the bow] shall not be a threatening, but execution. (TA.) ―         -b3-  <sib:wrap tag="also">You say also, <foreign lang="ar" TEIform="foreign">A^anobaDa Aln~ad~aAfu minobaDatahu</foreign> [<hi rend="ital" TEIform="hi">The separater and loosener of cotton by means of the bow and mallet made his mallet to cause the string of the bow to vibrate</hi>].</sib:wrap> (A, TA.)    </entryFree>
                <entryFree id="n39243" key="naboDN" type="main">
                   <form>
                      <orth orig="" extent="full" lang="ar">naboDN</orth>
@@ -3120,14 +3120,13 @@
       <orth type="arrow" lang="ar">najazahaA</orth>, (ISk, S, K,) aor.
     <form n="infl">
                      <orth orig="Bu" lang="ar">najuza</orth>
-                  </form>, inf. n. <foreign lang="ar" TEIform="foreign">najozN</foreign> (ISk, S) and <foreign lang="ar" TEIform="foreign">najaAzN</foreign>, or this is a subst. in the sense of <foreign lang="ar" TEIform="foreign">A_inojaAzN</foreign>, like <foreign lang="ar" TEIform="foreign">EaTaA='N</foreign> in that of <foreign lang="ar" TEIform="foreign">A_iEoTaA='N</foreign>; (Har, p. 326;) <hi rend="ital" TEIform="hi">He accomplished his want:</hi> (ISk, S, K:) and <foreign lang="ar" TEIform="foreign">HaAjatahu</foreign> ↓
-      <orth type="arrow" lang="ar">naj~azotuhu</orth>
-                  <hi rend="ital" TEIform="hi">I accomplished for him his want.</hi> (A.) ―         -b2-  <foreign lang="ar" TEIform="foreign">Anjz AlwaEoda</foreign>, (A, Mgh, CK,) and ↓
-      <orth type="arrow" lang="ar">najazahu</orth>, (S,) <hi rend="ital" TEIform="hi">He fulfilled,</hi> or <hi rend="ital" TEIform="hi">performed, the promise:</hi> (S, * A, * Mgh, CK:) or <hi rend="ital" TEIform="hi">he made the promise to be prompt,</hi> or <hi rend="ital" TEIform="hi">quick, in taking effect.</hi> (Msb.) You say also, <foreign lang="ar" TEIform="foreign">Anjz EalaY~a AlmawoEida</foreign>
-                  <hi rend="ital" TEIform="hi">He fulfilled to me the promise;</hi> (K, accord. to the TA;) as also ↓
+                  </form>, inf. n. <foreign lang="ar" TEIform="foreign">najozN</foreign> (ISk, S) and <foreign lang="ar" TEIform="foreign">najaAzN</foreign>, or this is a subst. in the sense of <foreign lang="ar" TEIform="foreign">A_inojaAzN</foreign>, like <foreign lang="ar" TEIform="foreign">EaTaA='N</foreign> in that of <foreign lang="ar" TEIform="foreign">A_iEoTaA='N</foreign>; (Har, p. 326;) <hi rend="ital" TEIform="hi">He accomplished his want:</hi> (ISk, S, K:) and <sib:wrap tag="sample"> ↓ <foreign lang="ar" TEIform="foreign">naj~azotuhu HaAjatahu</foreign>
+                  <hi rend="ital" TEIform="hi">I accomplished for him his want.</hi></sib:wrap> (A.) ―         -b2-  <foreign lang="ar" TEIform="foreign">Anjz AlwaEoda</foreign>, (A, Mgh, CK,) and ↓
+      <orth type="arrow" lang="ar">najazahu</orth>, (S,) <hi rend="ital" TEIform="hi">He fulfilled,</hi> or <hi rend="ital" TEIform="hi">performed, the promise:</hi> (S, * A, * Mgh, CK:) or <hi rend="ital" TEIform="hi">he made the promise to be prompt,</hi> or <hi rend="ital" TEIform="hi">quick, in taking effect.</hi> (Msb.) <sib:wrap tag="also">You say also, <foreign lang="ar" TEIform="foreign">Anjz EalaY~a AlmawoEida</foreign>
+                  <hi rend="ital" TEIform="hi">He fulfilled to me the promise;</hi></sib:wrap> (K, accord. to the TA;) as also ↓
       <orth type="arrow" lang="ar">najaza</orth>
-                  <foreign lang="ar" TEIform="foreign">bihi</foreign>: (TA:) and <foreign lang="ar" TEIform="foreign">bihi</foreign> ↓
-      <orth type="arrow" lang="ar">najazotuhu</orth>
+                  <foreign lang="ar" TEIform="foreign">bihi</foreign>: (TA:) and <sib:rev> <foreign lang="ar" TEIform="foreign">bihi</foreign> ↓
+      <orth type="arrow" lang="ar">najazotuhu</orth></sib:rev>
                   <hi rend="ital" TEIform="hi">I made it to be prompt,</hi> or <hi rend="ital" TEIform="hi">quick in taking effect to him.</hi> (Msb.) [Hence the saying,] <foreign lang="ar" TEIform="foreign">A^anojaza Hur~N maA waEada</foreign> (S, K) <hi rend="ital" TEIform="hi">An ingenuous man fulfils what he promises:</hi> a proverb: (TA:) alluding to the fulfilment of a promise: and sometimes, to the asking, or demanding, the fulfilment thereof: El-Hárith the son of 'Amr said to Sakhr the son of Nahshal, “ Shall I guide thee to booty and one fifth of it be for me? ” and he answered, “ Yes: ” so he guided him to some people from El-Yemen, and Sakhr made a sudden attack upon them, and engaged with them in conflict, and overcame, and obtained booty; and when he turned back, El-Hárith said to him the above words, and Sakhr fulfilled his promise to him. (K.) ―         -b3-  <foreign lang="ar" TEIform="foreign">Anjz EalaY Alqatiyli</foreign>
                   <hi rend="ital" TEIform="hi">He hastened and completed,</hi> or <hi rend="ital" TEIform="hi">made certain, the slaughter of the slain man; i. q.</hi>
                   <foreign lang="ar" TEIform="foreign">A^ajohaza Ealayohi</foreign>. (Abu-l-Mikdám Es-Sulamee and K.)    </entryFree>
