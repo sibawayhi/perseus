@@ -50,9 +50,9 @@ For example, Lane often uses delimiters ('(', ')', '[', ']') to set
 apart runs of texxt, but it is often unclear just why.  Furthermore,
 unmatched delimiters within a structural element are common.  A fully
 marked up version of such a text would use semantic markup
-(e.g. <comment>...</comment>) instead of delimiter characters.  So one
+(e.g. `<comment>...</comment>`) instead of delimiter characters.  So one
 problem with the Perseus version is that mapping from delimiter
-characters to XML elements (e.g. '(...)' to '<paren>...</paren>')
+characters to XML elements (e.g. '(...)' to '`<paren>...</paren>`')
 results in an invalid XML structure, with orphaned open and close
 tags.
 
@@ -62,10 +62,10 @@ The goal for this repository is primarily to correct the text, and
 then, to a lesser extent, to convert the structure into a form more
 suitable for database-like processing.  That means, among other things:
 
-* Fixing delimiters; we use <sib:add>, <sib:del>, and <sib:swap>
+* Fixing delimiters; we use `<sib:add>`, `<sib:del>`, and `<sib:swap>`
 * Extracting the juicy bits while omitting unecessary narrative cruft
 * Marking up sourcing citations, e.g. converting '(TA)' to something
-  like '<authority ref="TA"/>'; this makes it possible to suppress
+  like `<authority ref="TA"/>`; this makes it possible to suppress
   such references unless requested
 * Consolidating schema info, i.e. representing verb schematics as a
   single structure (indicating perf/impef vowel and list of verbal
