@@ -1,6 +1,6 @@
-#  Lane's Lexicon - Perseus Text
+#  Edward William Lane, _An Arabic-English Lexicon_
 
-The original files were from the Perseus Project at http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Arabic
+The original files are from the Perseus Project at http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Arabic
 
 # goals
 
