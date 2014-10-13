@@ -1,6 +1,6 @@
-# xml data from perseus
+# Arabic XML data from the Perseus Project
 
-The original files were from the Perseus Project at http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Arabic
+The original files were from the [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/) at [Perseus Collection Arabic Materials](http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Arabic).
 
 # license
 
