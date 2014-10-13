@@ -19,20 +19,30 @@ valuable; but in the case of Lane's Lexicon, we're dealing with what
 is essentially one man's transcription and summarization of a largish
 collection of original Arabic sources.  Qua text it is of little
 interest.  Except for people interested in studying 19th century
-British/Imperial schoolarship, nobody is interested in studying the
-text of Lane's Lexicon itself.  They use to to study Arabic; they do
-not study it as something of interest in itself.
+British/Imperial schoolarship, nobody (I dare to say) is interested in
+studying the text of Lane's Lexicon itself.  People use it to study
+Arabic; they do not study it as something of interest in itself.
 
 So although having a digital transcription of Lane is not a bad thing,
 it is only a start toward a digital lexical database, which is the
 goal of this project.  Lane's original text contains lots of minor
 errors, of course; but it also contains a lot of material that amounts
 to clutter.  For example, the text is liberally peppered with
-references to his sources.  This makes it harder to read and adds
-little value; for who will (or has ever) checked his sources?  After
-all, Lane is a secondary source; if you want the real thing, you
-should be using the original Arabic dictionaries that Lane himself
-used.
+references to his sources.  This makes it harder to read but adds
+little value; for who will ever check Lane against his sources?  It
+seems unlikely that anybody uses Lane's source annotations as a guide
+to the Arabic originals.  So a digital version might retain the
+information, but should not present it unless explicitly requested, to
+avoid cluttering the text.
+
+There are many other bits of information in Lane's text that reflect
+textual norms of a bygone era.  For example, in listing a series of
+verbal nouns associated with a verb, Lane will usually insert "and",
+"also", or similar English text (see article نكص for an example).
+That makes the passage read more like an English sentence, but for the
+reader just interested in the information, such narrative
+interpolations just get in the way without adding value.  An online
+version of such a list can just display it as a (visual) list.
 
 Lane's text also contains lots of structural material, but it is quite
 inconsistent, at least from the perspective of modern data design.
@@ -50,11 +60,17 @@ Another example:  delimiters are sometimes mismatched, e.g. '( ... ]'.
 
 The goal for this repository is primarily to correct the text, and
 then, to a lesser extent, to convert the structure into a form more
-suitable for database-like processing.
+suitable for database-like processing.  That means, among other things:
 
-To fix delims, we use <sib:add>, <sib:del>, and <sib:swap>.
-
-etc.
+* Fixing delimiters; we use <sib:add>, <sib:del>, and <sib:swap>
+* Extracting the juicy bits while omitting unecessary narrative cruft
+* Marking up sourcing citations, e.g. converting '(TA)' to something
+  like '<authority ref="TA"/>'; this makes it possible to suppress
+  such references unless requested
+* Consolidating schema info, i.e. representing verb schematics as a
+  single structure (indicating perf/impef vowel and list of verbal
+  nouns), where Lane presents the info in narrative form
+* etc.
 
 # license
 
