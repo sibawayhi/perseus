@@ -90,10 +90,8 @@ Article bld بلد Book I pg 247(284):
 
 This incorrectly splits an article right in the middle.  The original text looks something like:
 
-```
 ...and the latter, _a land, country,_ or _territory,_ [_belonging to,_ or _inhabited by, a people,_] syn. آرضٌ (S, TA: [a meaning assigned in the K to بلدٌ; but this appears...
 
-```
 
 So the markup should read:
 
