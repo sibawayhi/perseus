@@ -88,7 +88,14 @@ Article bld بلد Book I pg 247(284):
                   </form>: (S, TA: [a meaning assigned in the K to <foreign lang="ar" TEIform="foreign">baladN</foreign>; but this appears ...
 ```
 
-This incorrectly splits an article right in the middle.  It should read:
+This incorrectly splits an article right in the middle.  The original text looks something like:
+
+```
+...and the latter, _a land, country,_ or _territory,_ [_belonging to,_ or _inhabited by, a people,_] syn. آرضٌ (S, TA: [a meaning assigned in the K to بلدٌ; but this appears...
+
+```
+
+So the markup should read:
 
 ```
 ... and the latter, <hi rend="ital" TEIform="hi">a land, country,</hi> or <hi rend="ital" TEIform="hi">territory,</hi> [<hi rend="ital" TEIform="hi">belonging to,</hi> or <hi rend="ital" TEIform="hi">inhabited by, a people,</hi>] syn. <foreign lang="ar" TEIform="foreign">A^aroDN</foreign> (S, TA: [a meaning assigned in the K to <foreign lang="ar" TEIform="foreign">baladN</foreign>; but this appears ...
