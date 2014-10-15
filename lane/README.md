@@ -73,6 +73,27 @@ suitable for database-like processing.  That means, among other things:
   nouns), where Lane presents the info in narrative form
 * etc.
 
+## Examples
+
+### bad structure
+
+Article bld بلد Book I pg 247(284):
+
+```
+... and the latter, <hi rend="ital" TEIform="hi">a land, country,</hi> or <hi rend="ital" TEIform="hi">territory,</hi> [<hi rend="ital" TEIform="hi">belonging to,</hi> or <hi rend="ital" TEIform="hi">inhabited by, a people,</hi>] syn.    </entryFree> 
+               <entryFree id="n3164" key="A^aroDN" type="main">     
+                  <form>       
+                     <orth orig="" extent="full" lang="ar">A^aroDN</orth>
+                     <orth extent="full" lang="ar">*</orth>
+                  </form>: (S, TA: [a meaning assigned in the K to <foreign lang="ar" TEIform="foreign">baladN</foreign>; but this appears ...
+```
+
+This incorrectly splits an article right in the middle.  It should read:
+
+```
+... and the latter, <hi rend="ital" TEIform="hi">a land, country,</hi> or <hi rend="ital" TEIform="hi">territory,</hi> [<hi rend="ital" TEIform="hi">belonging to,</hi> or <hi rend="ital" TEIform="hi">inhabited by, a people,</hi>] syn. <foreign lang="ar" TEIform="foreign">A^aroDN</foreign> (S, TA: [a meaning assigned in the K to <foreign lang="ar" TEIform="foreign">baladN</foreign>; but this appears ...
+```
+
 # license
 
 The licensing of the originals is unclear.  See
@@ -104,3 +125,5 @@ I believe these files count as "public domain text", but on the website they are
 </publicationStmt>
 
 ```
+
+
