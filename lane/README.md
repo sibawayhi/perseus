@@ -115,13 +115,49 @@ But the markup is wrong; the roman type should be embedded within an italic run,
 <hi rend="ital" TEIform="hi">...when thou hast become <sib:rm>like one</sib:rm dead by reason of leanness?</hi>]...
 ```
 
-
 ### improper nesting of delims
 
 e.g.  `...[or the like</hi>]...`
 
 Corrected:  `...[or the like]</hi>...`
 
+### mismatched delims
+
+Both in the original typeset text and in the transcription delims
+(parens and brackets) are sometimes mismatched.  We fix this using
+e.g. <sib:add>[</sib:add>, <sib:del>[</sib:del>, and <sib:swap...
+
+### improperly split Arabic strings
+
+Where Lane's text contains an Arabic string that runs over two or more
+lines (thus breaks at line end), the original transcribers marked up
+each run separately.  This causes typesetting to go wrong.  For
+example, if the original reads:
+
+```
+... foo bar
+baz ...
+```
+
+the original transcription marked this as
+
+```
+<foreign>foo bar</foreign> <foreign>baz</foreign>
+```
+
+which results in the following output: `rab oof zab` instead of the
+correct `zab rab oof`.
+
+This is easily fixable with a global search and replace along the
+lines of
+
+```
+s/</foreign> <foreign>/ /g;
+```
+
+Ditto for <orth> strings that break across lines, which the original
+transcription split into an <orth> component and a <foreign>
+component.
 
 # license
 
