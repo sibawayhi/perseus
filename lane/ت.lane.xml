@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<TEI.2 xmlns:sib="http://www.sibawayhi.org/schema/lane">
    <teiHeader type="text" status="new">
       <fileDesc>
          <titleStmt>
