@@ -166,7 +166,7 @@
                      <orth orig="" extent="full" lang="ar">AisotanoA^aY</orth>
                      <orth extent="full" lang="ar">*</orth>
                   </form>: <hi rend="ital" TEIform="hi">i. q.</hi> 
-                  <foreign lang="ar" TEIform="foreign">AisotanaA'a</foreign> q. v. in art. <foreign lang="ar" TEIform="foreign">nwA^</foreign>.    </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">AisotanaA'a</foreign> <qv/> in art. <foreign lang="ar" TEIform="foreign">nwA^</foreign>.    </entryFree> 
                <entryFree id="n43800" key="nuw^oYN" type="main">     
                   <form>       
                      <orth orig="" extent="full" lang="ar">nuw^oYN</orth>
@@ -362,7 +362,7 @@
                      <orth orig="" extent="full" lang="ar">nabiy~apN</orth>
                      <orth extent="full" lang="ar">*</orth>
                   </form>, <hi rend="ital" TEIform="hi">A thing like the</hi> 
-                  <foreign lang="ar" TEIform="foreign">suforap</foreign>, q. v., <hi rend="ital" TEIform="hi">made of palm-leaves, upon which flour or meal is sifted.</hi> (I'Abbád, O, K.)   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">suforap</foreign>, <qv/>, <hi rend="ital" TEIform="hi">made of palm-leaves, upon which flour or meal is sifted.</hi> (I'Abbád, O, K.)   </entryFree> 
             </div2> 
             <div2 n="ntE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -742,7 +742,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> [<hi rend="ital" TEIform="hi">He leant, bore,</hi> or <hi rend="ital" TEIform="hi">pressed, upon him,</hi> or <hi rend="ital" TEIform="hi">it,</hi> with his body, hand, &amp;c.:] i. q. <foreign lang="ar" TEIform="foreign">AiEotamada</foreign>; as also ↓ 
       <orth type="arrow" lang="ar">naHaA</orth>. (IAar, TA.) ―         -b2-  <foreign lang="ar" TEIform="foreign">A^anoHaY EalaY</foreign> 
-                  <foreign lang="ar" TEIform="foreign">fulaAnK biAls~awoTi</foreign> [<hi rend="ital" TEIform="hi">He attacked such a one with the whip</hi>], and <foreign lang="ar" TEIform="foreign">biAls~ayofi</foreign> [<hi rend="ital" TEIform="hi">with the sword</hi>]: and hence <foreign lang="ar" TEIform="foreign">biAlt~aEoniyfi</foreign> (tropical:)  <hi rend="ital" TEIform="hi">he accosted him with harsh,</hi> or <hi rend="ital" TEIform="hi">rough, behaviour;</hi> syn. <foreign lang="ar" TEIform="foreign">A^aqobala Ealayohi</foreign>. (Har, p. 508.) ―         -b3-  <foreign lang="ar" TEIform="foreign">A^anoHaY EalaY Al$~aYo'i bijamiyEi kaf~ihi</foreign> [<hi rend="ital" TEIform="hi">He seized the thing with his whole hand</hi>]. (M, voce <foreign lang="ar" TEIform="foreign">qabaDa</foreign> [q. v.]). ―         -b4-  <foreign lang="ar" TEIform="foreign">A^anoHayotu EalaY Haloqihi Als~ik~iyna</foreign> 
+                  <foreign lang="ar" TEIform="foreign">fulaAnK biAls~awoTi</foreign> [<hi rend="ital" TEIform="hi">He attacked such a one with the whip</hi>], and <foreign lang="ar" TEIform="foreign">biAls~ayofi</foreign> [<hi rend="ital" TEIform="hi">with the sword</hi>]: and hence <foreign lang="ar" TEIform="foreign">biAlt~aEoniyfi</foreign> (tropical:)  <hi rend="ital" TEIform="hi">he accosted him with harsh,</hi> or <hi rend="ital" TEIform="hi">rough, behaviour;</hi> syn. <foreign lang="ar" TEIform="foreign">A^aqobala Ealayohi</foreign>. (Har, p. 508.) ―         -b3-  <foreign lang="ar" TEIform="foreign">A^anoHaY EalaY Al$~aYo'i bijamiyEi kaf~ihi</foreign> [<hi rend="ital" TEIform="hi">He seized the thing with his whole hand</hi>]. (M, voce <foreign lang="ar" TEIform="foreign">qabaDa</foreign> [<qv/>]). ―         -b4-  <foreign lang="ar" TEIform="foreign">A^anoHayotu EalaY Haloqihi Als~ik~iyna</foreign> 
                   <hi rend="ital" TEIform="hi">I applied the knife to,</hi> or <hi rend="ital" TEIform="hi">put it across, his throat,</hi> or <hi rend="ital" TEIform="hi">fauces;</hi> syn. <foreign lang="ar" TEIform="foreign">EaraDotuhu</foreign>: and in like manner you say, <foreign lang="ar" TEIform="foreign">nHY Elyh</foreign> 
                   <foreign lang="ar" TEIform="foreign">b$frth</foreign> [but whether by this be meant <foreign lang="ar" TEIform="foreign">naH~aY</foreign> or <foreign lang="ar" TEIform="foreign">naHaA</foreign> is doubtful.<sib:add>]</sib:add> (TA.) ―         -b5-  See 1.    </entryFree> 
                <entryFree id="n43866" key="tanaH~aY" type="main">     
@@ -806,7 +806,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> 
                   <hi rend="ital" TEIform="hi">i. q.</hi> 
-                  <foreign lang="ar" TEIform="foreign">jaAnibN</foreign> q. v., <hi rend="ital" TEIform="hi">A side; a lateral, or an outward,</hi> or <hi rend="ital" TEIform="hi">adjacent, part</hi> or <hi rend="ital" TEIform="hi">portion.</hi> (K, &amp;c.) ―         -b2-  <hi rend="ital" TEIform="hi">An apartment</hi> of a house. (Mgh, voce <foreign lang="ar" TEIform="foreign">Hay~izN</foreign>.) And the pl., <foreign lang="ar" TEIform="foreign">nawaAHK</foreign>, <hi rend="ital" TEIform="hi">The outer parts</hi> or <hi rend="ital" TEIform="hi">regions</hi> of an animal. The sing. may often be rendered <hi rend="ital" TEIform="hi">A part,</hi> or <hi rend="ital" TEIform="hi">portion,</hi> of a place. ―         -b3-  <foreign lang="ar" TEIform="foreign">naAHiyapN</foreign> is of the measure <foreign lang="ar" TEIform="foreign">faAEilapN</foreign> in the sense of the measure <foreign lang="ar" TEIform="foreign">mafoEuwlapN</foreign>, [meaning <foreign lang="ar" TEIform="foreign">manoHuw~apN</foreign>, <hi rend="ital" TEIform="hi">a part,</hi> or <hi rend="ital" TEIform="hi">the like,</hi> or <hi rend="ital" TEIform="hi">a point, towards which one goes,</hi> or <hi rend="ital" TEIform="hi">directs himself; a point of direction;</hi>] because one goes, or directs himself, towards it: (Msb:) best rendered as above; adding, or <hi rend="ital" TEIform="hi">part, region, district, quarter,</hi> or <hi rend="ital" TEIform="hi">tract, considered with respect to its collocation or juxtaposition or direction, or considered as belonging to a whole: a vicinage,</hi> or <hi rend="ital" TEIform="hi">neighbourhood:</hi> and <hi rend="ital" TEIform="hi">a part of a country, a region, district, quarter,</hi> or <hi rend="ital" TEIform="hi">tract, absolutely; a district; a province:</hi> often best rendered <hi rend="ital" TEIform="hi">a side;</hi> or <hi rend="ital" TEIform="hi">a region, district, quarter,</hi> or <hi rend="ital" TEIform="hi">tract:</hi> or <hi rend="ital" TEIform="hi">a part of a place, an apartment:</hi> see <foreign lang="ar" TEIform="foreign">Hay~izN</foreign>, in art. <foreign lang="ar" TEIform="foreign">Hwz</foreign>. ―         -b4-  Also <hi rend="ital" TEIform="hi">A limit, bound,</hi> or <hi rend="ital" TEIform="hi">boundary:</hi> see two tropical exs. of its pl. (<foreign lang="ar" TEIform="foreign">nawaAHK</foreign>) voce <foreign lang="ar" TEIform="foreign">HinowN</foreign>, and another in a verse voce <foreign lang="ar" TEIform="foreign">rasuwlN</foreign>: or a <hi rend="ital" TEIform="hi">remote side;</hi> syn. <foreign lang="ar" TEIform="foreign">jaAnibN mutanaH~K</foreign>: (Kz, in TA:) <hi rend="ital" TEIform="hi">a tract of land.</hi> (KL.) See <foreign lang="ar" TEIform="foreign">A^ufuqN</foreign> and <foreign lang="ar" TEIform="foreign">jaAnibN</foreign>. ―         -b5-  <foreign lang="ar" TEIform="foreign">EalaY naAHiyapK</foreign> 
+                  <foreign lang="ar" TEIform="foreign">jaAnibN</foreign> <qv/>, <hi rend="ital" TEIform="hi">A side; a lateral, or an outward,</hi> or <hi rend="ital" TEIform="hi">adjacent, part</hi> or <hi rend="ital" TEIform="hi">portion.</hi> (K, &amp;c.) ―         -b2-  <hi rend="ital" TEIform="hi">An apartment</hi> of a house. (Mgh, voce <foreign lang="ar" TEIform="foreign">Hay~izN</foreign>.) And the pl., <foreign lang="ar" TEIform="foreign">nawaAHK</foreign>, <hi rend="ital" TEIform="hi">The outer parts</hi> or <hi rend="ital" TEIform="hi">regions</hi> of an animal. The sing. may often be rendered <hi rend="ital" TEIform="hi">A part,</hi> or <hi rend="ital" TEIform="hi">portion,</hi> of a place. ―         -b3-  <foreign lang="ar" TEIform="foreign">naAHiyapN</foreign> is of the measure <foreign lang="ar" TEIform="foreign">faAEilapN</foreign> in the sense of the measure <foreign lang="ar" TEIform="foreign">mafoEuwlapN</foreign>, [meaning <foreign lang="ar" TEIform="foreign">manoHuw~apN</foreign>, <hi rend="ital" TEIform="hi">a part,</hi> or <hi rend="ital" TEIform="hi">the like,</hi> or <hi rend="ital" TEIform="hi">a point, towards which one goes,</hi> or <hi rend="ital" TEIform="hi">directs himself; a point of direction;</hi>] because one goes, or directs himself, towards it: (Msb:) best rendered as above; adding, or <hi rend="ital" TEIform="hi">part, region, district, quarter,</hi> or <hi rend="ital" TEIform="hi">tract, considered with respect to its collocation or juxtaposition or direction, or considered as belonging to a whole: a vicinage,</hi> or <hi rend="ital" TEIform="hi">neighbourhood:</hi> and <hi rend="ital" TEIform="hi">a part of a country, a region, district, quarter,</hi> or <hi rend="ital" TEIform="hi">tract, absolutely; a district; a province:</hi> often best rendered <hi rend="ital" TEIform="hi">a side;</hi> or <hi rend="ital" TEIform="hi">a region, district, quarter,</hi> or <hi rend="ital" TEIform="hi">tract:</hi> or <hi rend="ital" TEIform="hi">a part of a place, an apartment:</hi> see <foreign lang="ar" TEIform="foreign">Hay~izN</foreign>, in art. <foreign lang="ar" TEIform="foreign">Hwz</foreign>. ―         -b4-  Also <hi rend="ital" TEIform="hi">A limit, bound,</hi> or <hi rend="ital" TEIform="hi">boundary:</hi> see two tropical exs. of its pl. (<foreign lang="ar" TEIform="foreign">nawaAHK</foreign>) voce <foreign lang="ar" TEIform="foreign">HinowN</foreign>, and another in a verse voce <foreign lang="ar" TEIform="foreign">rasuwlN</foreign>: or a <hi rend="ital" TEIform="hi">remote side;</hi> syn. <foreign lang="ar" TEIform="foreign">jaAnibN mutanaH~K</foreign>: (Kz, in TA:) <hi rend="ital" TEIform="hi">a tract of land.</hi> (KL.) See <foreign lang="ar" TEIform="foreign">A^ufuqN</foreign> and <foreign lang="ar" TEIform="foreign">jaAnibN</foreign>. ―         -b5-  <foreign lang="ar" TEIform="foreign">EalaY naAHiyapK</foreign> 
                   <hi rend="ital" TEIform="hi">Beside, aside,</hi> or <hi rend="ital" TEIform="hi">apart;</hi> like <foreign lang="ar" TEIform="foreign">ElY jaAnibK</foreign> and <foreign lang="ar" TEIform="foreign">EalY TarafK</foreign>; and so <foreign lang="ar" TEIform="foreign">naAHiyapF</foreign> and <foreign lang="ar" TEIform="foreign">fiY naAHiyapK</foreign>, &amp;c.: you say <foreign lang="ar" TEIform="foreign">jalasa fiY naAHiyapK minohumo</foreign> 
                   <hi rend="ital" TEIform="hi">He sat aside,</hi> or <hi rend="ital" TEIform="hi">apart, from them:</hi> and <foreign lang="ar" TEIform="foreign">A^anaA fiY</foreign> 
                   <foreign lang="ar" TEIform="foreign">nawaAHK mino h`*aA AlA^amori</foreign>, expl. voce <foreign lang="ar" TEIform="foreign">$afaqN</foreign>. And <foreign lang="ar" TEIform="foreign">fiY</foreign> 
@@ -1004,7 +1004,7 @@
                   <foreign lang="ar" TEIform="foreign">takorahuhu</foreign> [<hi rend="ital" TEIform="hi">I did not a thing that thou dislikest</hi>]. (T.) See also art. <foreign lang="ar" TEIform="foreign">Erq</foreign>, first par., last sentence but two. ―         -b3-  <foreign lang="ar" TEIform="foreign">saA^alotuhu falamo yanoda liY bi$aYo'K</foreign> [<hi rend="ital" TEIform="hi">I asked him, and he did not to me,</hi> or <hi rend="ital" TEIform="hi">for me, anything</hi>]. (TA, in art <foreign lang="ar" TEIform="foreign">Enw</foreign>.) ―         -b4-  <foreign lang="ar" TEIform="foreign">maA tanodaY SafaAtuhu</foreign> 
                   <hi rend="ital" TEIform="hi">i. q.</hi> 
                   <foreign lang="ar" TEIform="foreign">maA yabiD~u</foreign> 
-                  <foreign lang="ar" TEIform="foreign">Hajaruhu</foreign>, q. v. (S, art. <foreign lang="ar" TEIform="foreign">bD</foreign>.) See also art. <foreign lang="ar" TEIform="foreign">Sfw</foreign>.    </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">Hajaruhu</foreign>, <qv/> (S, art. <foreign lang="ar" TEIform="foreign">bD</foreign>.) See also art. <foreign lang="ar" TEIform="foreign">Sfw</foreign>.    </entryFree> 
                <entryFree>     
                   <form>       
                      <itype>2</itype>        
@@ -1284,7 +1284,7 @@
                   <hi rend="ital" TEIform="hi">He abdicated the kingdom.</hi> ―         -b4-  <foreign lang="ar" TEIform="foreign">tnAzl Ean $aYo'K</foreign> 
                   <hi rend="ital" TEIform="hi">He desisted from a thing.</hi> ―         -b5-  <foreign lang="ar" TEIform="foreign">tanaAzaluwA</foreign> 
                   <hi rend="ital" TEIform="hi">They alighted and ate by turns with different people; i. q.</hi> 
-                  <foreign lang="ar" TEIform="foreign">tanaAwabuwA</foreign>, q. v.    </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">tanaAwabuwA</foreign>, <qv/>    </entryFree> 
                <entryFree id="n43925" key="Aisotanozalahu" type="main">     
                   <form>       
                      <itype>10</itype>        
@@ -1486,7 +1486,7 @@
                      <orth orig="Bi" lang="ar">nasifa</orth>
                   </form>, (TA,) inf. n. <foreign lang="ar" TEIform="foreign">nasofN</foreign>; (Msb, TA;) and ↓ 
       <orth type="arrow" lang="ar">Ainotasafatohu</orth>, (TA,) <hi rend="ital" TEIform="hi">The wind carried it away;</hi> (TA;) <hi rend="ital" TEIform="hi">i. q.</hi> 
-                  <foreign lang="ar" TEIform="foreign">*aratohu</foreign> [q. v.]; (Mgh;) namely, dust. (Mgh, Msb.)    </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">*aratohu</foreign> [<qv/>]; (Mgh;) namely, dust. (Mgh, Msb.)    </entryFree> 
                <entryFree>     
                   <form>       
                      <itype>8</itype>        
@@ -2411,7 +2411,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> 
                   <hi rend="ital" TEIform="hi">Enjoyment;</hi> [<hi rend="ital" TEIform="hi">delight; pleasure;</hi>] as also ↓ 
-      <orth type="arrow" lang="ar">naEomapN</orth>, q. v.: (Msb:) <hi rend="ital" TEIform="hi">plenty and ease.</hi> (K.) See <foreign lang="ar" TEIform="foreign">niEomapN</foreign>.    </entryFree> 
+      <orth type="arrow" lang="ar">naEomapN</orth>, <qv/>: (Msb:) <hi rend="ital" TEIform="hi">plenty and ease.</hi> (K.) See <foreign lang="ar" TEIform="foreign">niEomapN</foreign>.    </entryFree> 
                <entryFree id="n44057" key="naEaAmapN" type="main">     
                   <form>       
                      <orth orig="" extent="full" lang="ar">naEaAmapN</orth>
@@ -3037,7 +3037,7 @@
                   <form>       
                      <orth orig="" extent="full" lang="ar">nikoEapN</orth>
                      <orth extent="full" lang="ar">*</orth>
-                  </form>, so written for <foreign lang="ar" TEIform="foreign">nakaEapN</foreign> or <foreign lang="ar" TEIform="foreign">nukaEapN</foreign> in the O and K, voce <foreign lang="ar" TEIform="foreign">suwqapN</foreign>, q. v., [The <hi rend="ital" TEIform="hi">head</hi> of a plant.]   </entryFree> 
+                  </form>, so written for <foreign lang="ar" TEIform="foreign">nakaEapN</foreign> or <foreign lang="ar" TEIform="foreign">nukaEapN</foreign> in the O and K, voce <foreign lang="ar" TEIform="foreign">suwqapN</foreign>, <qv/>, [The <hi rend="ital" TEIform="hi">head</hi> of a plant.]   </entryFree> 
             </div2> 
             <div2 n="nkf" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -3598,9 +3598,9 @@
                   </form> (assumed tropical:)  <hi rend="ital" TEIform="hi">I. q.</hi> 
                   <foreign lang="ar" TEIform="foreign">xadirato</foreign> [<hi rend="ital" TEIform="hi">His leg,</hi> or <hi rend="ital" TEIform="hi">foot, became benumbed,</hi> or <hi rend="ital" TEIform="hi">torpid</hi>]. (TA in art. <foreign lang="ar" TEIform="foreign">bsr</foreign>.) ―         -b2-  <foreign lang="ar" TEIform="foreign">naAma</foreign> (assumed tropical:)  <hi rend="ital" TEIform="hi">It</hi> (a woman's anklet) <hi rend="ital" TEIform="hi">ceased to sound,</hi> by reason of the fulness of the leg: like as one says [in the contr. case], <foreign lang="ar" TEIform="foreign">AstyqZ</foreign>. (TA in art. <foreign lang="ar" TEIform="foreign">yqZ</foreign>.) ―         -b3-  <foreign lang="ar" TEIform="foreign">naAma</foreign> has for its inf. ns. <foreign lang="ar" TEIform="foreign">nawomN</foreign> and <foreign lang="ar" TEIform="foreign">manaAmN</foreign>. (Msb.) ―         -b4-  <foreign lang="ar" TEIform="foreign">naAma Alv~awobu</foreign> 
                   <hi rend="ital" TEIform="hi">i. q.</hi> 
-                  <foreign lang="ar" TEIform="foreign">raqada</foreign> [q. v.] (A, art. <foreign lang="ar" TEIform="foreign">rqd</foreign>.) ―         -b5-  <foreign lang="ar" TEIform="foreign">naAmati Als~uwqu</foreign> 
+                  <foreign lang="ar" TEIform="foreign">raqada</foreign> [<qv/>] (A, art. <foreign lang="ar" TEIform="foreign">rqd</foreign>.) ―         -b5-  <foreign lang="ar" TEIform="foreign">naAmati Als~uwqu</foreign> 
                   <hi rend="ital" TEIform="hi">i. q.</hi> 
-                  <foreign lang="ar" TEIform="foreign">raqadat</foreign> [q. v.] (Th, in TA, art. <foreign lang="ar" TEIform="foreign">rqd</foreign>.) ―         -b6-  <foreign lang="ar" TEIform="foreign">naAma</foreign> (tropical:)  <hi rend="ital" TEIform="hi">He lay; as opposed to he sat and he stood.</hi> See <foreign lang="ar" TEIform="foreign">naAy^imN</foreign>. ―         -b7-  <foreign lang="ar" TEIform="foreign">naAma Eano HaAjatihi</foreign> 
+                  <foreign lang="ar" TEIform="foreign">raqadat</foreign> [<qv/>] (Th, in TA, art. <foreign lang="ar" TEIform="foreign">rqd</foreign>.) ―         -b6-  <foreign lang="ar" TEIform="foreign">naAma</foreign> (tropical:)  <hi rend="ital" TEIform="hi">He lay; as opposed to he sat and he stood.</hi> See <foreign lang="ar" TEIform="foreign">naAy^imN</foreign>. ―         -b7-  <foreign lang="ar" TEIform="foreign">naAma Eano HaAjatihi</foreign> 
                   <hi rend="ital" TEIform="hi">He cared not for the object of his want, neglected it.</hi> (Msb.)    </entryFree> 
                <entryFree id="n44199" key="naw~ama" type="main">     
                   <form>       
@@ -3730,7 +3730,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> 
                   <hi rend="ital" TEIform="hi">I. q.</hi> 
-                  <foreign lang="ar" TEIform="foreign">mataray~iEN</foreign>, q. v. (TA in art. <foreign lang="ar" TEIform="foreign">ryE</foreign>.)   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mataray~iEN</foreign>, <qv/> (TA in art. <foreign lang="ar" TEIform="foreign">ryE</foreign>.)   </entryFree> 
             </div2> 
             <div2 n="nyk" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
