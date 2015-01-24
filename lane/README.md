@@ -99,6 +99,30 @@ So the markup should read:
 ... and the latter, <hi rend="ital" TEIform="hi">a land, country,</hi> or <hi rend="ital" TEIform="hi">territory,</hi> [<hi rend="ital" TEIform="hi">belonging to,</hi> or <hi rend="ital" TEIform="hi">inhabited by, a people,</hi>] syn. <foreign lang="ar" TEIform="foreign">A^aroDN</foreign> (S, TA: [a meaning assigned in the K to <foreign lang="ar" TEIform="foreign">baladN</foreign>; but this appears ...
 ```
 
+### embedding
+
+```
+<hi rend="ital" TEIform="hi">...when thou hast become</hi> like one <hi rend="ital" TEIform="hi">dead by reason of leanness?</hi>]...
+```
+
+This passage contains some roman text in the midst of some italic:
+
+"..._when thou hast become_ like one _dead by reason of leanness?_..."
+
+But the markup is wrong; the roman type should be embedded within an italic run, rather than strung between two italic runs.  It should be:
+
+```
+<hi rend="ital" TEIform="hi">...when thou hast become <sib:rm>like one</sib:rm dead by reason of leanness?</hi>]...
+```
+
+
+### improper nesting of delims
+
+e.g.  `...[or the like</hi>]...`
+
+Corrected:  `...[or the like]</hi>...`
+
+
 # license
 
 The licensing of the originals is unclear.  See
