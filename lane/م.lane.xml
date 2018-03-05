@@ -92,7 +92,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mA</foreign>
                </head>    
-               <entryFree>See Supplement   </entryFree> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mA</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -204,7 +209,12 @@
                   TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mA^r</foreign>, &amp;c</head>    
-               <entryFree>See Supplement   </entryFree> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mA^r</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mt" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -364,7 +374,12 @@
             <div2 n="mtr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mtr</foreign>, &amp;c</head>    
-               <entryFree>See Supplement   </entryFree> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mtr</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mv" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -445,7 +460,12 @@
             <div2 n="mvl" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mvl</foreign>, &amp;c</head>    
-               <entryFree>See Supplement   </entryFree> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mvl</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mj" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -744,8 +764,15 @@
             </div2> 
             <div2 n="mjE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mjE</foreign>, &amp;c</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mjE</foreign>
+		  <!-- , &amp;c -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mjE</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mH" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -1016,8 +1043,15 @@
             </div2> 
             <div2 n="mHT" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mHT</foreign>, &amp;c</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mHT</foreign>
+		  <!-- , &amp;c -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mHT</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mx" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -1433,8 +1467,15 @@
             </div2> 
             <div2 n="mxn" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mxn</foreign>, &amp;c</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mxn</foreign>
+	       <!-- , &amp;c -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mxn</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="md" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -1925,8 +1966,15 @@
             </div2> 
             <div2 n="md$" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">md$</foreign>, &amp;c</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">md$</foreign>
+	       <!-- , &amp;c -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">md$</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="m*" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -2018,8 +2066,15 @@
             </div2> 
             <div2 n="m*E" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">m*E</foreign>, &amp;c</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">m*E</foreign>
+	       <!-- , &amp;c -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">m*E</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -2986,7 +3041,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mrz</foreign>
                </head>    
-               <entryFree>See Supplement   </entryFree> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mrz</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mrzj$" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -3427,10 +3487,17 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">mumoriTN</foreign>, in two places.   </entryFree> 
             </div2> 
-            <div2 n="mrE." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="mrE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mrE</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mrE</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mrE</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mz" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -3667,8 +3734,15 @@
             </div2> 
             <div2 n="mzE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mzE</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mzE</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mzE</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="ms" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -4167,8 +4241,15 @@
             </div2> 
             <div2 n="msr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">msr</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">msr</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">msr</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="m$" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -4295,7 +4376,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">m$r</foreign>
                </head>    
-               <entryFree>See Supplement   </entryFree> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">m$r</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="m$T" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -4428,8 +4514,15 @@
             </div2> 
             <div2 n="m$Z" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">m$Z</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">m$Z</foreign>
+	       <!-- &amp;c.; -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">m$Z</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mS" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -4775,8 +4868,15 @@
             </div2> 
             <div2 n="mSE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mSE</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mSE</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mSE</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mD" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -4996,8 +5096,15 @@
             </div2> 
             <div2 n="mDg" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mDg</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mDg</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mDg</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mT" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -5139,7 +5246,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mtx</foreign>
                </head>    
-               <entryFree>See Supplement   </entryFree> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mtx</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mTr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -5314,8 +5426,15 @@
             </div2> 
             <div2 n="mTs" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mTs</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mTs</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mTs</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mZ" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -5342,7 +5461,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mE</foreign>
                </head>    
-               <entryFree>See Supplement   </entryFree> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mE</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mEt" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -5497,11 +5621,18 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">maEodN</foreign>.   </entryFree> 
             </div2> 
-            <div2 n="mE*: see mgd" type="root" org="uniform" sample="complete" part="N"
+            <div2 n="mE*" type="root" org="uniform" sample="complete" part="N"
                   TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mE*</foreign>: see <foreign lang="ar" TEIform="foreign">mgd</foreign>
-               </head>   
+                  <foreign lang="ar" TEIform="foreign">mE*</foreign>
+               </head>
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mE*</orth>
+                  </form>
+		  : see <foreign lang="ar" TEIform="foreign">mgd</foreign>
+	       </entryFree>
+	       
             </div2> 
             <div2 n="mEr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -5747,8 +5878,15 @@
             </div2> 
             <div2 n="mEq" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mEq</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mEq</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mEq</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mgv" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -5955,12 +6093,6 @@
                   </form> A garment, or piece of cloth, (A,) <hi rend="ital" TEIform="hi">dyed with</hi> 
                   <foreign lang="ar" TEIform="foreign">magorap</foreign>. (A, K.)   </entryFree> 
             </div2> 
-            <div2 n="mgs: see mgS" type="root" org="uniform" sample="complete" part="N"
-                  TEIform="div2">
-               <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mgs</foreign>: see <foreign lang="ar" TEIform="foreign">mgS</foreign>
-               </head>   
-            </div2> 
             <div2 n="mgS" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mgS</foreign>
@@ -5968,10 +6100,11 @@
                <entryFree>     
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">magVSa</orth>
+                     <orth lang="ar">magaSa</orth>
                   </form> [<foreign lang="ar" TEIform="foreign">magaSahu</foreign>, inf. n. <foreign lang="ar" TEIform="foreign">magoSN</foreign>, <hi rend="ital" TEIform="hi">He pierced him</hi> with a spear or the like: for] <foreign lang="ar" TEIform="foreign">magoSN</foreign> is syn. with <foreign lang="ar" TEIform="foreign">TaEonN</foreign>; as also <foreign lang="ar" TEIform="foreign">magosN</foreign>. (TA.)       -A2-  [Hence, perhaps,] <foreign lang="ar" TEIform="foreign">mugiSa</foreign>, (ISk, S, Msb, K,) [of which <foreign lang="ar" TEIform="foreign">magoSN</foreign>, which see below, is app. the inf. n.] and <foreign lang="ar" TEIform="foreign">magiSa</foreign>, (A, Msb, [in a copy of the former of which, instead of the former verb, I find <foreign lang="ar" TEIform="foreign">maguSa</foreign>, but this is probably a mistranscription,]) inf. n. <foreign lang="ar" TEIform="foreign">magaSN</foreign>; (Msb;) <hi rend="ital" TEIform="hi">He</hi> (a man, S, Msb,) <hi rend="ital" TEIform="hi">had what is termed</hi> 
                   <foreign lang="ar" TEIform="foreign">magoSN</foreign> 
-                  <hi rend="ital" TEIform="hi">as explained below;</hi> (ISk, S, A, Msb, K;) as also <foreign lang="ar" TEIform="foreign">mugisa</foreign> and <foreign lang="ar" TEIform="foreign">magisa</foreign>: (IKoot, Msb:) and <foreign lang="ar" TEIform="foreign">maEiSa</foreign>: (TA:) [it is most commonly with <foreign lang="ar" TEIform="foreign">g</foreign> and <foreign lang="ar" TEIform="foreign">S</foreign>; but Z says, that] the original word is with <foreign lang="ar" TEIform="foreign">s</foreign>, from <foreign lang="ar" TEIform="foreign">magasahu</foreign> signifying <foreign lang="ar" TEIform="foreign">TaEanahu</foreign>. (A.)    </entryFree> 
+                  <hi rend="ital" TEIform="hi">as explained below;</hi> (ISk, S, A, Msb, K;) as also <foreign lang="ar" TEIform="foreign">mugisa</foreign> and <foreign lang="ar" TEIform="foreign">magisa</foreign>: (IKoot, Msb:) and <foreign lang="ar" TEIform="foreign">maEiSa</foreign>: (TA:) [it is most commonly with <foreign lang="ar" TEIform="foreign">g</foreign> and <foreign lang="ar" TEIform="foreign">S</foreign>; but Z says, that] the original word is with <foreign lang="ar" TEIform="foreign">s</foreign>, from <foreign lang="ar" TEIform="foreign">magasahu</foreign> signifying <foreign lang="ar" TEIform="foreign">TaEanahu</foreign>. (A.)  -A3- : see <foreign lang="ar" TEIform="foreign">mgs</foreign>
+  </entryFree> 
                <entryFree id="n38778" key="tmg~S baToniY" type="main">     
                   <form>       
                      <itype>5</itype>        
@@ -5995,13 +6128,23 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mgT</foreign>
                </head>   
-               <entryFree>See Supplement   </entryFree> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mgT</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mgl" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mglo</foreign>
+                  <foreign lang="ar" TEIform="foreign">mgl</foreign>
                </head>    
-               <entryFree>See Supplement   </entryFree> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mgl</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mgnTs" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -6018,14 +6161,25 @@
             </div2> 
             <div2 n="mgY" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mgY</foreign>
+                  <foreign lang="ar" TEIform="foreign">mgy</foreign>
                </head>   
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mgy</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mq" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mq</foreign>
                </head>    
-               <entryFree>See Supplement   </entryFree> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mq</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mqA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -6200,8 +6354,15 @@
             </div2> 
             <div2 n="mqE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mqE</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mqE</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mqE</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mkA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -6441,8 +6602,15 @@
             </div2> 
             <div2 n="mkl" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mkl</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mkl</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mkl</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mlA^a" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -7618,8 +7786,15 @@
             </div2> 
             <div2 n="mlE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mlE</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mlE</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mlE</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mnA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -7657,7 +7832,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mnjn</foreign>
                </head>    
-               <entryFree>See Supplement   </entryFree> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mnjn</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mnjnyq" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -7813,8 +7993,15 @@
             </div2> 
             <div2 n="mnE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mnE</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mnE</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mnE</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mhj" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -8080,8 +8267,15 @@
             </div2> 
             <div2 n="mhz" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mhz</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mhz</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mhz</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mwA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -8522,8 +8716,15 @@
             </div2> 
             <div2 n="mwS" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">mwS</foreign> &amp;c.</head>    
-               <entryFree>See Supplement   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">mwS</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mwS</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="myb" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -9071,7 +9272,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">my$</foreign>
                </head>    
-               <entryFree>See Supplement   </entryFree> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">my$</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="myT" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -9095,6 +9301,7 @@
       <orth type="arrow" lang="ar">A^amiTo</orth> 
                   <hi rend="ital" TEIform="hi">Remove thou from us thy hand.</hi> (TA.) And <foreign lang="ar" TEIform="foreign">maATa bihi</foreign> and ↓ 
       <orth type="arrow" lang="ar">AmAThu</orth> signify <hi rend="ital" TEIform="hi">He took away him,</hi> or <hi rend="ital" TEIform="hi">it;</hi> syn. <foreign lang="ar" TEIform="foreign">*ahaba bihi</foreign> and <foreign lang="ar" TEIform="foreign">A^a*ohabahu</foreign>. (TA.) ―         -b2-  <foreign lang="ar" TEIform="foreign">mayoTN</foreign> also signifies The act of <hi rend="ital" TEIform="hi">repelling, impelling, pushing,</hi> or <hi rend="ital" TEIform="hi">thrusting;</hi> (S;) and so ↓ 
+
       <orth type="arrow" lang="ar">miyaATN</orth>: (S, K:) and both signify the act of <hi rend="ital" TEIform="hi">chiding:</hi> (S, K:) the former <pb n="2749" TEIform="pb"/> being an inf. n. of which the verb is <foreign lang="ar" TEIform="foreign">maATa</foreign>, aor. <foreign lang="ar" TEIform="foreign">yamiyTu</foreign>: (K:) [the latter, app., an inf. n. of which the verb, namely <foreign lang="ar" TEIform="foreign">mAyT</foreign>, is unused; the like being said of <foreign lang="ar" TEIform="foreign">hiyaATN</foreign>, which we find coupled with <foreign lang="ar" TEIform="foreign">miyaATN</foreign>.] You say, ↓ 
       <orth type="arrow" lang="ar">Alqawomu fiY hiyaATK wamiyaATK</orth> 
                   <hi rend="ital" TEIform="hi">The people,</hi> or <hi rend="ital" TEIform="hi">company of men, are engaged in making a clamour, and repelling, &amp;c.:</hi> (S, in the present art. and in art. <foreign lang="ar" TEIform="foreign">hyT</foreign>:) or <foreign lang="ar" TEIform="foreign">hyAT</foreign> and <foreign lang="ar" TEIform="foreign">myAT</foreign>, respectively, signify the <hi rend="ital" TEIform="hi">most vehement driving in coming to water,</hi> and the <hi rend="ital" TEIform="hi">most vehement driving in returning from water;</hi> (Fr, K;) and <foreign lang="ar" TEIform="foreign">maA zalonaA biAlhiyaATi waAlomiyaATi</foreign> means <hi rend="ital" TEIform="hi">we ceased not to be engaged in coming and going:</hi> (Fr, TA:) or <hi rend="ital" TEIform="hi">advancing</hi> (Lh, TA) and <hi rend="ital" TEIform="hi">retreating:</hi> (Lh, K:) or <hi rend="ital" TEIform="hi">labouring,</hi> or <hi rend="ital" TEIform="hi">striving,</hi> or <hi rend="ital" TEIform="hi">conflicting, one with another, to overcome,</hi> (Lth, TA,) and <hi rend="ital" TEIform="hi">inclining</hi> [<hi rend="ital" TEIform="hi">one towards another</hi>]: (Lth, K:) or <hi rend="ital" TEIform="hi">collecting together,</hi> in a neuter sense, and <hi rend="ital" TEIform="hi">mutual retiring to a distance:</hi> or <hi rend="ital" TEIform="hi">collecting themselves together for peace</hi> or <hi rend="ital" TEIform="hi">reconciliation,</hi> and <hi rend="ital" TEIform="hi">dissolving themselves from a state of peace</hi> or <hi rend="ital" TEIform="hi">reconciliation:</hi> or <hi rend="ital" TEIform="hi">raising a clamour,</hi> or <hi rend="ital" TEIform="hi">confused noise;</hi> and <hi rend="ital" TEIform="hi">retiring to a distance:</hi> or <hi rend="ital" TEIform="hi">saying No, by God,</hi> and <hi rend="ital" TEIform="hi">Yes, by God.</hi> (TA.) [See art. <foreign lang="ar" TEIform="foreign">hyT</foreign>.] You say also, <foreign lang="ar" TEIform="foreign">maA zaAla fiY hayoTK wamayoTK</foreign>, meaning <hi rend="ital" TEIform="hi">He ceased not to be engaged in crying out,</hi> or <hi rend="ital" TEIform="hi">vociferating,</hi> or <hi rend="ital" TEIform="hi">calling for aid</hi> or <hi rend="ital" TEIform="hi">succour, and in evil,</hi> or <hi rend="ital" TEIform="hi">mischief, and raising a clamour,</hi> or <hi rend="ital" TEIform="hi">confused noise.</hi> (K in art. <foreign lang="ar" TEIform="foreign">hyT</foreign>.)    </entryFree> 
@@ -9141,7 +9348,11 @@
             <div2 n="mwE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mwE</foreign> &amp;c.</head>    
-               <entryFree>See Supplement <pb n="2750" TEIform="pb"/> 
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mwE</orth>
+                  </form>
+		  See Supplement <pb n="2750" TEIform="pb"/> 
                   <pb n="2751" TEIform="pb"/>   
                </entryFree> 
             </div2> 
