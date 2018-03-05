@@ -200,7 +200,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">maA^odN</foreign>.   </entryFree> 
             </div2> 
-            <div2 n="mA^r, &amp;c" type="root" org="uniform" sample="complete" part="N"
+            <div2 n="mA^r" type="root" org="uniform" sample="complete" part="N"
                   TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mA^r</foreign>, &amp;c</head>    
@@ -361,7 +361,7 @@
       <orth type="arrow" lang="ar">matuwHN</orth> 
                   <hi rend="ital" TEIform="hi">A drawer of water;</hi> (S;) applied to a man <hi rend="ital" TEIform="hi">who draws the water from the mouth of the well:</hi> one who draws it from the bottom being called <foreign lang="ar" TEIform="foreign">maAy^iHN</foreign>: pl. of <foreign lang="ar" TEIform="foreign">maAtiHN</foreign>, <foreign lang="ar" TEIform="foreign">mut~aAHN</foreign>. (L.) ―         -b2-  <foreign lang="ar" TEIform="foreign">maAtiHN</foreign> A camel <hi rend="ital" TEIform="hi">that draws water:</hi> pl. <foreign lang="ar" TEIform="foreign">mawaAtiHu</foreign>. (L.) [See an ex. in a verse cited voce <foreign lang="ar" TEIform="foreign">*am~apN</foreign>.] ―         -b3-  See <foreign lang="ar" TEIform="foreign">mtuwHN</foreign>.   </entryFree> 
             </div2> 
-            <div2 n="mtr, &amp;c" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="mtr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mtr</foreign>, &amp;c</head>    
                <entryFree>See Supplement   </entryFree> 
@@ -442,7 +442,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see R. Q. 1.   </entryFree> 
             </div2> 
-            <div2 n="mvl, &amp;c" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="mvl" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mvl</foreign>, &amp;c</head>    
                <entryFree>See Supplement   </entryFree> 
@@ -1014,7 +1014,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">maHoDN</foreign>, in four places.   </entryFree> 
             </div2> 
-            <div2 n="mHT, &amp;c" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="mHT" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mHT</foreign>, &amp;c</head>    
                <entryFree>See Supplement   </entryFree> 
@@ -1431,7 +1431,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> (tropical:)  [<hi rend="ital" TEIform="hi">More transpiercing than an arrow</hi>]: a proverb. (JK.)   </entryFree> 
             </div2> 
-            <div2 n="mxn, &amp;c" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="mxn" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mxn</foreign>, &amp;c</head>    
                <entryFree>See Supplement   </entryFree> 
@@ -1923,7 +1923,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">madiyrN</foreign>.   </entryFree> 
             </div2> 
-            <div2 n="md$, &amp;c" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="md$" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">md$</foreign>, &amp;c</head>    
                <entryFree>See Supplement   </entryFree> 
@@ -2016,7 +2016,7 @@
                   <hi rend="ital" TEIform="hi">A corrupt,</hi> or <hi rend="ital" TEIform="hi">rotten, egg.</hi> (A, K.) ―         -b2-  <foreign lang="ar" TEIform="foreign">A_imoraA^apN ma*irapN</foreign> 
                   <hi rend="ital" TEIform="hi">A dirty,</hi> or <hi rend="ital" TEIform="hi">filthy, woman,</hi> (K, TA,) <hi rend="ital" TEIform="hi">whose odour is like that of a rotten egg.</hi> (TA.)   </entryFree> 
             </div2> 
-            <div2 n="m*E, &amp;c" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="m*E" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">m*E</foreign>, &amp;c</head>    
                <entryFree>See Supplement   </entryFree> 
@@ -8517,7 +8517,7 @@
                   </form> [<hi rend="ital" TEIform="hi">Indian peas;</hi>] <hi rend="ital" TEIform="hi">a certain grain, well known,</hi> (S in art. <foreign lang="ar" TEIform="foreign">my$</foreign>, and K,) <hi rend="ital" TEIform="hi">round, smaller than the</hi> 
                   <foreign lang="ar" TEIform="foreign">Him~aS</foreign> [or <hi rend="ital" TEIform="hi">chick-pea</hi>], <hi rend="ital" TEIform="hi">of a tawny colour inclining to greenness; it is in Syria and India; and is sown;</hi> (TA;) also called <foreign lang="ar" TEIform="foreign">maj~N</foreign> and <foreign lang="ar" TEIform="foreign">xul~arN</foreign> and <foreign lang="ar" TEIform="foreign">zin~N</foreign>: (TA, art. <foreign lang="ar" TEIform="foreign">mj</foreign>:) it is of moderate temperature; and the mixture made thereof is commended, being beneficial to him who is fevered, and him who is affected with rheum; it is lenitive; and when cooked with vinegar, it is beneficial for purulent pustulous mange or scab; and an external application thereof strengthens feeble limbs: (K:) the word is arabicized [from the Persian <foreign lang="ar" TEIform="foreign">maA$o</foreign>], or postclassical. (S.)       -A2-  <hi rend="ital" TEIform="hi">Utensils and furniture, of the meaner sort, of a house</hi> or <hi rend="ital" TEIform="hi">tent.</hi> (IAar, K.) Hence the saying, <foreign lang="ar" TEIform="foreign">AlmaA$u xayorN mino laA$a</foreign>, [in one copy of the K I find <foreign lang="ar" TEIform="foreign">laA$K</foreign>, but the former seems to be the right reading,] meaning, <hi rend="ital" TEIform="hi">Mean house-</hi> 
                   <pb n="2745" TEIform="pb"/> 
-                  <hi rend="ital" TEIform="hi">hold utensils and furniture are better than nothing;</hi> or] <hi rend="ital" TEIform="hi">what is in the house,</hi> or <hi rend="ital" TEIform="hi">tent, of worthless utensils and furniture, is better than its being empty:</hi> (K, TA:) <foreign lang="ar" TEIform="foreign">lA$</foreign> is here contracted [from <foreign lang="ar" TEIform="foreign">laA$aYo'a</foreign>] for the sake of its resembling <foreign lang="ar" TEIform="foreign">mA$</foreign>. (TA.) And <foreign lang="ar" TEIform="foreign">xaA$a maA$a</foreign> and <foreign lang="ar" TEIform="foreign">xaA$i maA$i</foreign> signify the same as <foreign lang="ar" TEIform="foreign">maA$N</foreign> thus used: (K, TA in art. <foreign lang="ar" TEIform="foreign">xw$</foreign>:) or the <hi rend="ital" TEIform="hi">refuse,</hi> or <hi rend="ital" TEIform="hi">meanest sort, of people,</hi> or <hi rend="ital" TEIform="hi">of mankind;</hi> as in the M. (TA.)   </entryFree> 
+                  <hi rend="ital" TEIform="hi">hold utensils and furniture are better than nothing;</hi> or <hi rend="ital" TEIform="hi">what is in the house,</hi> or <hi rend="ital" TEIform="hi">tent, of worthless utensils and furniture, is better than its being empty:</hi> (K, TA:) <foreign lang="ar" TEIform="foreign">lA$</foreign> is here contracted [from <foreign lang="ar" TEIform="foreign">laA$aYo'a</foreign>] for the sake of its resembling <foreign lang="ar" TEIform="foreign">mA$</foreign>. (TA.) And <foreign lang="ar" TEIform="foreign">xaA$a maA$a</foreign> and <foreign lang="ar" TEIform="foreign">xaA$i maA$i</foreign> signify the same as <foreign lang="ar" TEIform="foreign">maA$N</foreign> thus used: (K, TA in art. <foreign lang="ar" TEIform="foreign">xw$</foreign>:) or the <hi rend="ital" TEIform="hi">refuse,</hi> or <hi rend="ital" TEIform="hi">meanest sort, of people,</hi> or <hi rend="ital" TEIform="hi">of mankind;</hi> as in the M. (TA.)   </entryFree> 
             </div2> 
             <div2 n="mwS &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
