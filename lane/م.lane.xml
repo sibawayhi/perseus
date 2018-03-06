@@ -695,7 +695,7 @@
                <entryFree>     
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">majVra</orth>
+                     <orth lang="ar">majira</orth>
                   </form> see <foreign lang="ar" TEIform="foreign">bjr</foreign>; and as an imitative sequent see art. <foreign lang="ar" TEIform="foreign">dEr</foreign>.    </entryFree> 
                <entryFree id="n38233" key="mAjrhu" type="main">     
                   <form>       
@@ -9184,7 +9184,7 @@
                <entryFree>     
                   <form>       
                      <itype>10</itype>        
-                     <orth lang="ar">A_isotamoyaza</orth>
+                     <orth lang="ar">AisotamaAza</orth>
                   </form> see 8, throughout.    </entryFree> 
                <entryFree id="n39090" key="mayozN" type="main">     
                   <form>       
@@ -9327,7 +9327,7 @@
                <entryFree>     
                   <form>       
                      <itype>4</itype>        
-                     <orth lang="ar">A^amoyaTa</orth>
+                     <orth lang="ar">A^amaATa</orth>
                   </form> see 1, in five places.    </entryFree> 
                <entryFree id="n39106" key="tmAyTwA" type="main">     
                   <form>       
@@ -9339,7 +9339,8 @@
                <entryFree>     
                   <form>       
                      <itype>10</itype>        
-                     <orth lang="ar">A_isotamoyaTa</orth>
+                     <!-- <orth lang="ar">A_isotamoyaTa</orth> -->
+                     <orth lang="ar">AisotamaATa</orth>
                   </form> see 1, first sentence.    </entryFree> 
                <entryFree id="n39107" key="mayoTN" type="main">     
                   <form>       
