@@ -7964,7 +7964,7 @@
       <orth type="arrow" lang="ar">manuwHN</orth> (S) (tropical:)  A she-camel <hi rend="ital" TEIform="hi">whose milk remains,</hi> (K,) or <hi rend="ital" TEIform="hi">that yields plenty of milk in the winter,</hi> (S,) <hi rend="ital" TEIform="hi">after the milk of the other camels has passed away;</hi> (S, K;) like <foreign lang="ar" TEIform="foreign">mujaAliHN</foreign>. (S.) You say also ↓ 
       <orth type="arrow" lang="ar">nuwqN mamaAniHu</orth> [app. pl. of <foreign lang="ar" TEIform="foreign">mimonaHN</foreign>, which is perhaps not used.] (TA.) ―         -b2-  Also the former, (tropical:)  Rain <hi rend="ital" TEIform="hi">that does not cease:</hi> (K:) and (tropical:)  wind <hi rend="ital" TEIform="hi">of which the rain does not cease.</hi> (TA.)   </entryFree> 
             </div2> 
-            <div2 n="mn*" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="mn*" sib:class="morpheme" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mn*</foreign>
                </head>    
