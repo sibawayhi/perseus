@@ -5456,6 +5456,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">mZE</foreign>
                </head>   
+               <entryFree>
+                  <form>
+                     <orth orig="" extent="full" lang="ar">mZE</orth>
+                  </form>
+	       See Supplement
+	       </entryFree>
             </div2> 
             <div2 n="mE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
@@ -6098,12 +6104,13 @@
                   <foreign lang="ar" TEIform="foreign">mgS</foreign>
                </head>    
                <entryFree>     
-                  <form>       
+                 [<form>       
                      <itype>1</itype>        
-                     <orth lang="ar">magaSa</orth>
-                  </form> [<foreign lang="ar" TEIform="foreign">magaSahu</foreign>, inf. n. <foreign lang="ar" TEIform="foreign">magoSN</foreign>, <hi rend="ital" TEIform="hi">He pierced him</hi> with a spear or the like: for] <foreign lang="ar" TEIform="foreign">magoSN</foreign> is syn. with <foreign lang="ar" TEIform="foreign">TaEonN</foreign>; as also <foreign lang="ar" TEIform="foreign">magosN</foreign>. (TA.)       -A2-  [Hence, perhaps,] <foreign lang="ar" TEIform="foreign">mugiSa</foreign>, (ISk, S, Msb, K,) [of which <foreign lang="ar" TEIform="foreign">magoSN</foreign>, which see below, is app. the inf. n.] and <foreign lang="ar" TEIform="foreign">magiSa</foreign>, (A, Msb, [in a copy of the former of which, instead of the former verb, I find <foreign lang="ar" TEIform="foreign">maguSa</foreign>, but this is probably a mistranscription,]) inf. n. <foreign lang="ar" TEIform="foreign">magaSN</foreign>; (Msb;) <hi rend="ital" TEIform="hi">He</hi> (a man, S, Msb,) <hi rend="ital" TEIform="hi">had what is termed</hi> 
+                     <orth lang="ar">magaSahu</orth>
+                   </form>
+		   , inf. n. <foreign lang="ar" TEIform="foreign">magoSN</foreign>, <hi rend="ital" TEIform="hi">He pierced him</hi> with a spear or the like: for] <foreign lang="ar" TEIform="foreign">magoSN</foreign> is syn. with <foreign lang="ar" TEIform="foreign">TaEonN</foreign>; as also <foreign lang="ar" TEIform="foreign">magosN</foreign>. (TA.)    -b2- : see <foreign lang="ar" TEIform="foreign">mgs</foreign>     -A2-  [Hence, perhaps,] <foreign lang="ar" TEIform="foreign">mugiSa</foreign>, (ISk, S, Msb, K,) [of which <foreign lang="ar" TEIform="foreign">magoSN</foreign>, which see below, is app. the inf. n.] and <foreign lang="ar" TEIform="foreign">magiSa</foreign>, (A, Msb, [in a copy of the former of which, instead of the former verb, I find <foreign lang="ar" TEIform="foreign">maguSa</foreign>, but this is probably a mistranscription,]) inf. n. <foreign lang="ar" TEIform="foreign">magaSN</foreign>; (Msb;) <hi rend="ital" TEIform="hi">He</hi> (a man, S, Msb,) <hi rend="ital" TEIform="hi">had what is termed</hi> 
                   <foreign lang="ar" TEIform="foreign">magoSN</foreign> 
-                  <hi rend="ital" TEIform="hi">as explained below;</hi> (ISk, S, A, Msb, K;) as also <foreign lang="ar" TEIform="foreign">mugisa</foreign> and <foreign lang="ar" TEIform="foreign">magisa</foreign>: (IKoot, Msb:) and <foreign lang="ar" TEIform="foreign">maEiSa</foreign>: (TA:) [it is most commonly with <foreign lang="ar" TEIform="foreign">g</foreign> and <foreign lang="ar" TEIform="foreign">S</foreign>; but Z says, that] the original word is with <foreign lang="ar" TEIform="foreign">s</foreign>, from <foreign lang="ar" TEIform="foreign">magasahu</foreign> signifying <foreign lang="ar" TEIform="foreign">TaEanahu</foreign>. (A.)  -A3- : see <foreign lang="ar" TEIform="foreign">mgs</foreign>
+                  <hi rend="ital" TEIform="hi">as explained below;</hi> (ISk, S, A, Msb, K;) as also <foreign lang="ar" TEIform="foreign">mugisa</foreign> and <foreign lang="ar" TEIform="foreign">magisa</foreign>: (IKoot, Msb:) and <foreign lang="ar" TEIform="foreign">maEiSa</foreign>: (TA:) [it is most commonly with <foreign lang="ar" TEIform="foreign">g</foreign> and <foreign lang="ar" TEIform="foreign">S</foreign>; but Z says, that] the original word is with <foreign lang="ar" TEIform="foreign">s</foreign>, from <foreign lang="ar" TEIform="foreign">magasahu</foreign> signifying <foreign lang="ar" TEIform="foreign">TaEanahu</foreign>. (A.)
   </entryFree> 
                <entryFree id="n38778" key="tmg~S baToniY" type="main">     
                   <form>       
