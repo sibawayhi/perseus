@@ -3894,7 +3894,9 @@
                      <orth extent="full" lang="ar">bdl</orth>
                      <orth extent="full" lang="ar">bdlp</orth>
                      <orth extent="full" lang="ar">dl</orth>
-                  </form>, inf. n. <foreign lang="ar" TEIform="foreign">badaAlN</foreign>: see 2, in three places.    </entryFree>
+                  </form>, aor. <form n="infl">
+                     <orth orig="Bu" lang="ar">badula</orth>,
+                  </form> inf. n. <foreign lang="ar" TEIform="foreign">badaAlN</foreign>: see 2, in three places.    </entryFree>
                <entryFree id="n2003" key="tabodiylN" type="main">
                   <form>
                      <itype>2</itype>
@@ -11947,27 +11949,22 @@ te" part="N" TEIform="div2">
                </entryFree>
             </div2>
             <div2 n="bTw" type="root" org="uniform" sample="complete" part="N"
-		  TEIform="div2">
-               <entryFree>
-		 see <foreign lang="ar" TEIform="foreign">bTY</foreign>
-	       </entryFree>
-	    </div2>
-            <div2 n="bTY" type="root" org="uniform" sample="complete" part="N"
                   TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">bTw</foreign> or <foreign lang="ar" TEIform="foreign">bTY</foreign>
+                  <foreign lang="ar" TEIform="foreign">bTw</foreign>
                </head>
-               <entryFree id="n2822" key="baTaA" type="main">
+               <entryFree id="n2822" key="bTw" type="main">
                   <form>
                      <itype>1</itype>
-                     <orth orig="" extent="full" lang="ar">baTaya</orth>
+                     <!-- <orth orig="" extent="full" lang="ar">baTaya</orth> -->
+                     <orth orig="" extent="full" lang="ar">baTaA</orth>
                      <orth extent="full" lang="ar">bT</orth>
                      <orth extent="full" lang="ar">bTA</orth>
                   </form>, aor. <foreign lang="ar" TEIform="foreign">baTuwa</foreign>, is said by Z and Meyd to signify <hi rend="ital" TEIform="hi">He,</hi> or <hi rend="ital" TEIform="hi">it, was,</hi> or <hi rend="ital" TEIform="hi">became, wide:</hi> and hence <foreign lang="ar" TEIform="foreign">baATiyapN</foreign>, meaning a <foreign lang="ar" TEIform="foreign">naAjuwd</foreign>. (TA)    </entryFree>
-               <entryFree>
+               <entryFree id="n2822a" key="AbTY" type="main">
                   <form>
                      <itype>4</itype>
-                     <orth lang="ar">A^a1o2a3a</orth>
+                     <orth lang="ar">A^aboTaY</orth>
                   </form> see what next follows.    </entryFree>
                <entryFree id="n2823" key="biToyapN" type="main">
                   <form>
@@ -11994,11 +11991,26 @@ te" part="N" TEIform="div2">
                   <hi rend="ital" TEIform="hi">A certain vessel;</hi> (S) <hi rend="ital" TEIform="hi">a</hi>
                   <foreign lang="ar" TEIform="foreign">naAjuwd</foreign> [or <hi rend="ital" TEIform="hi">vessel into which wine is put</hi>]; (AA, S, Mgh, K) <hi rend="ital" TEIform="hi">a large vessel of glass, which is filled with wine,</hi> or <hi rend="ital" TEIform="hi">beverage, and placed amid the drinkers, who ladle out from it</hi> [<hi rend="ital" TEIform="hi">into their cups</hi>], (Az, Mgh, TA) <hi rend="ital" TEIform="hi">and drink:</hi> (Az, TA) [<hi rend="ital" TEIform="hi">a wine-vase, of glass</hi> or <hi rend="ital" TEIform="hi">of earthenware; an amphora; an earthen jar;</hi> now applied to <hi rend="ital" TEIform="hi">a vessel of this kind into which wine and oil</hi> &amp;c. <hi rend="ital" TEIform="hi">are put:</hi>] said to be an arabicized word: (TA) [J says,] <sib:dq>I think it to be arabicized:</sib:dq> (S) but accord. to Z and Meyd, it is from 1, as mentioned above. (TA)   </entryFree>
             </div2>
+            <div2 n="bTy" type="root" org="uniform" sample="complete" part="N"
+		  TEIform="div2">
+               <head TEIform="head">
+		 <foreign lang="ar" TEIform="foreign">bTY</foreign>
+               </head>
+               <entryFree id="n2826" key="bTy" type="main">
+                  <form>
+                     <itype>1</itype>
+                     <orth orig="" extent="full" lang="ar">baTaA</orth>
+                     <orth extent="full" lang="ar">bT</orth>
+                     <orth extent="full" lang="ar">bTA</orth>
+                  </form>, aor. <foreign lang="ar" TEIform="foreign">baTuwa</foreign>
+		 see <foreign lang="ar" TEIform="foreign">bTw</foreign>
+	       </entryFree>
+	    </div2>
             <div2 n="bZr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bZr</foreign>
                </head>
-               <entryFree id="n2826" key="baZirato" type="main">
+               <entryFree id="n2826a" key="baZirato" type="main">
                   <form>
                      <itype>1</itype>
                      <orth orig="" extent="full" lang="ar">baZirato</orth>
@@ -14543,8 +14555,13 @@ te" part="N" TEIform="div2">
                <entryFree>
                   <form>
                      <itype>1</itype>
-                     <orth lang="ar">bakVta</orth>
-                  </form> see 2, in four places.    </entryFree>
+		     <orth type="arrow" lang="ar">bakatahu</orth>
+		     </form>, aor.
+		     <form n="infl">
+                       <orth orig="Bu" lang="ar">bakuta</orth>
+                       </form>, inf. n. <foreign lang="ar" TEIform="foreign">bakotN</foreign>
+                   see 2, in four places.
+	       </entryFree>
                <entryFree id="n3062" key="bk~thu" type="main">
                   <form>
                      <itype>2</itype>
