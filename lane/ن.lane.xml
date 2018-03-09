@@ -1489,9 +1489,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> and <foreign lang="ar" TEIform="foreign">nubaATiY~N</foreign> and <foreign lang="ar" TEIform="foreign">nibaATiY~N</foreign>: see <foreign lang="ar" TEIform="foreign">nabaTN</foreign>.   </entryFree>
             </div2>
-            <div2 n="nbE &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nbE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nbE</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nbE</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nbhrj" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -1884,9 +1885,10 @@
                   </form> [<hi rend="ital" TEIform="hi">A kind of tweezers;</hi>] <hi rend="ital" TEIform="hi">an instrument with which one extracts,</hi> or <hi rend="ital" TEIform="hi">draws</hi> or <hi rend="ital" TEIform="hi">pulls out</hi> or <hi rend="ital" TEIform="hi">forth,</hi> (S, A, K,) <hi rend="ital" TEIform="hi">a thing</hi> (S,) or <hi rend="ital" TEIform="hi">a thorn,</hi> (A, K,) and <hi rend="ital" TEIform="hi">the like,</hi> (K,) and <hi rend="ital" TEIform="hi">hair;</hi> (TA;) <hi rend="ital" TEIform="hi">i. q.</hi>
                   <foreign lang="ar" TEIform="foreign">minoqaA$N</foreign>. (S, K.)   </entryFree>
             </div2>
-            <div2 n="ntD, &amp;c" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="ntD" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">ntD</foreign>, &amp;c</head>
+                  <foreign lang="ar" TEIform="foreign">ntD</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nv" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -2216,9 +2218,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">munotavirN</foreign>.   </entryFree>
             </div2>
-            <div2 n="nvT &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nvT." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nvT</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nvT</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nj" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -3385,9 +3388,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see art. <foreign lang="ar" TEIform="foreign">A^jS</foreign>.   </entryFree>
             </div2>
-            <div2 n="njE &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="njE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">njE</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">njE</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nH" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -3933,9 +3937,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">naHosN</foreign>, <foreign lang="ar" TEIform="foreign">manoHasN</foreign>, and <foreign lang="ar" TEIform="foreign">manoHasapN</foreign>.   </entryFree>
             </div2>
-            <div2 n="nHS &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nHS." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nHS</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nHS</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nx" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -4383,9 +4388,10 @@
                   </form>
                   <hi rend="ital" TEIform="hi">A goader of beasts.</hi> (Msb.) — And hence, (S, * A, * Msb,) <hi rend="ital" TEIform="hi">A seller of beasts;</hi> (K;) <hi rend="ital" TEIform="hi">one who acts as a broker for the sale of beasts</hi> (Mgh, Msb) <hi rend="ital" TEIform="hi">and the like:</hi> (Msb:) and <hi rend="ital" TEIform="hi">a seller of slaves:</hi> (K;) sometimes used in the latter sense: (TA:) a genuine Arabic word. (IDrd.)   </entryFree>
             </div2>
-            <div2 n="nx$ &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nx$." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nx$</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nx$</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nd" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -4863,9 +4869,10 @@
                   <hi rend="ital" TEIform="hi">i. q.</hi>
                   <foreign lang="ar" TEIform="foreign">bayodarN</foreign> [<hi rend="ital" TEIform="hi">A place in which wheat</hi> or <hi rend="ital" TEIform="hi">grain is trodden out</hi>]; (S, M, K;) in the dial. of the people of Syria: (S, M:) or, (M, K,) accord. to Kr, (M,) <hi rend="ital" TEIform="hi">reaped wheat collected together;</hi> or <hi rend="ital" TEIform="hi">wheat collected together in the place where it is trodden out:</hi> (M, K:) pl. <foreign lang="ar" TEIform="foreign">A^anaAdiru</foreign>. (S, K.)   </entryFree>
             </div2>
-            <div2 n="nds &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nds." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nds</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nds</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="n*r" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -5446,9 +5453,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">nazorN</foreign>; the latter, in five places.   </entryFree>
             </div2>
-            <div2 n="nzE &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nzE." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nzE</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nzE</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="ns" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -6131,9 +6139,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">minosarN</foreign>, throughout.   </entryFree>
             </div2>
-            <div2 n="nsT &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nsT" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nsT</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nsT</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="n$" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -7090,9 +7099,10 @@
                   <hi rend="ital" TEIform="hi">Having much</hi>
                   <foreign lang="ar" TEIform="foreign">na$aAT</foreign> [i. e. <hi rend="ital" TEIform="hi">briskness, liveliness, sprightliness, friskiness,</hi> &amp;c.: see 1]. (TA.)   </entryFree>
             </div2>
-            <div2 n="n$E, &amp;c" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="n$E" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">n$E</foreign>, &amp;c</head>
+                  <foreign lang="ar" TEIform="foreign">n$E</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nS" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -7881,9 +7891,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> [<hi rend="ital" TEIform="hi">Asking, seeking,</hi> or <hi rend="ital" TEIform="hi">desiring, aid,</hi> or <hi rend="ital" TEIform="hi">assistance</hi>]. ―         -b2-  (tropical:)  <hi rend="ital" TEIform="hi">A beggar.</hi> (M.)   </entryFree>
             </div2>
-            <div2 n="nSE &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nSE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nSE</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nSE</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nD" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -8586,9 +8597,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">naDorN</foreign>:       -A2-  and see <foreign lang="ar" TEIform="foreign">naADirN</foreign>.   </entryFree>
             </div2>
-            <div2 n="nDf &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nDf" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nDf</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nDf</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nTA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -8904,9 +8916,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> an imitative sequent to <foreign lang="ar" TEIform="foreign">EaTo$aAnu</foreign>; (S, K;) not used alone. (S, art. <foreign lang="ar" TEIform="foreign">ET$</foreign>.)   </entryFree>
             </div2>
-            <div2 n="nTE &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nTE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nTE</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nTE</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nZr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -9149,9 +9162,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">naZiyrN</foreign>.   </entryFree>
             </div2>
-            <div2 n="nZf &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nZf" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nZf</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nZf</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nEb" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -9644,9 +9658,10 @@
                   </form> A corpse <hi rend="ital" TEIform="hi">carried upon a</hi>
                   <foreign lang="ar" TEIform="foreign">naEo$</foreign>, or bier. (S, A, * Msb.)   </entryFree>
             </div2>
-            <div2 n="nEZ &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nEZ" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nEZ</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nEZ</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="ngb" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -9916,9 +9931,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">naAgiDN</foreign>.   </entryFree>
             </div2>
-            <div2 n="ngf &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="ngf" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">ngf</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">ngf</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nfA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -11532,9 +11548,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar" TEIform="foreign">nafiyTapN</foreign>.   </entryFree>
             </div2>
-            <div2 n="nfE &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nfE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nfE</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nfE</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nqb" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -12861,9 +12878,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> (Msb, TA) <hi rend="ital" TEIform="hi">A book,</hi> or <hi rend="ital" TEIform="hi">writing, pointed with the diacritical,</hi> or <hi rend="ital" TEIform="hi">other, points.</hi> (TA.)   </entryFree>
             </div2>
-            <div2 n="nqE &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nqE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nqE</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nqE</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nkA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -13919,9 +13937,10 @@
                      </L>
                   </quote> <sib:del>[</sib:del><hi rend="ital" TEIform="hi">O 'Alkamah, affairs have compelled me to have recourse to thee, and there was not for me any place to which to retire.</hi> (TA.)   </entryFree>
             </div2>
-            <div2 n="nkZ &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nkZ" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nkZ</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nkZ</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nmA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -14264,9 +14283,10 @@
                   <foreign lang="ar" TEIform="foreign">A^anomaAT</foreign>, pl. of <foreign lang="ar" TEIform="foreign">namaTN</foreign>:] a rel. n. from <foreign lang="ar" TEIform="foreign">namaTN</foreign>; as also ↓
       <orth type="arrow" lang="ar">namaTiY~N</orth>: (K, TA:) the former [from the pl.,] like <foreign lang="ar" TEIform="foreign">A^anoSaAriY~N</foreign>: the latter from the sing., agreeably with analogy. (TA.)   </entryFree>
             </div2>
-            <div2 n="nmq &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nmq" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nmq</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nmq</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nhA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -15081,9 +15101,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> (tropical:)  <hi rend="ital" TEIform="hi">A man's people,</hi> (L,) or <hi rend="ital" TEIform="hi">the sons of his father</hi> or <hi rend="ital" TEIform="hi">ancestor,</hi> (S, O, K,) <hi rend="ital" TEIform="hi">who rise for him,</hi> (O,) or <hi rend="ital" TEIform="hi">with him.</hi> (K,) or <hi rend="ital" TEIform="hi">with whom he rises, in a case that grieves him,</hi> (L,) or <hi rend="ital" TEIform="hi">who are angry for him,</hi> (S,) or <hi rend="ital" TEIform="hi">who are angry by reason of his anger, and rise to aid him:</hi> (TA:) and <hi rend="ital" TEIform="hi">his people,</hi> (A,) or <hi rend="ital" TEIform="hi">servants,</hi> (K,) or <hi rend="ital" TEIform="hi">those,</hi> (S,) <hi rend="ital" TEIform="hi">who undertake,</hi> or <hi rend="ital" TEIform="hi">manage, his affairs:</hi> (S, A, K:) or <hi rend="ital" TEIform="hi">his aiders,</hi> or <hi rend="ital" TEIform="hi">assistants.</hi> (A, in art. <foreign lang="ar" TEIform="foreign">Zhr</foreign>) You say, <foreign lang="ar" TEIform="foreign">maA lifulaAni naAhiDapN</foreign> (tropical:)  <hi rend="ital" TEIform="hi">Such a one has not any</hi> (S, A) <hi rend="ital" TEIform="hi">people,</hi> (A,) or <hi rend="ital" TEIform="hi">servants,</hi> (TA,) <hi rend="ital" TEIform="hi">who undertake,</hi> or <hi rend="ital" TEIform="hi">manage, his affairs.</hi> (S, A, TA.)   </entryFree>
             </div2>
-            <div2 n="nhl &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nhl" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nhl</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nhl</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nwA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -16012,9 +16033,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> (tropical:)  <hi rend="ital" TEIform="hi">Distant,</hi> or <hi rend="ital" TEIform="hi">remote;</hi> and <hi rend="ital" TEIform="hi">far extending.</hi> (TA.) You say, <foreign lang="ar" TEIform="foreign">munotaATu AlmaHal~i</foreign> (tropical:)  <hi rend="ital" TEIform="hi">Whose place of abode is distant.</hi> (TA.) And <foreign lang="ar" TEIform="foreign">gaAyapN munotaATapN</foreign> (tropical:)  <hi rend="ital" TEIform="hi">A distant goal,</hi> or <hi rend="ital" TEIform="hi">scope;</hi> or <hi rend="ital" TEIform="hi">a far-extending space.</hi> (TA.)   </entryFree>
             </div2>
-            <div2 n="nwE &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nwE" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nwE</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nwE</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nyA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
@@ -16235,9 +16257,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see art. <foreign lang="ar" TEIform="foreign">nwT</foreign>.   </entryFree>
             </div2>
-            <div2 n="nyf &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="nyf" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">nyf</foreign> &amp;c.</head>
+                  <foreign lang="ar" TEIform="foreign">nyf</foreign>
+	       </head>
                <entryFree>See Supplement   </entryFree>
             </div2>
             <div2 n="nylwfr" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
