@@ -361,9 +361,11 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> [<hi rend="ital" TEIform="hi">A very drying wind</hi>]. (TA, voce <foreign lang="ar" TEIform="foreign">nakobaA='u</foreign>.)   </entryFree> 
             </div2> 
-            <div2 n="ytm &amp;c." type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+            <div2 n="ytm" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">ytm</foreign> &amp;c.</head>    
+                  <foreign lang="ar" TEIform="foreign">ytm</foreign>
+	       <!-- &amp;c. -->
+	       </head>    
                <entryFree>See Supplement   </entryFree> 
             </div2> 
             <div2 n="yrnA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
