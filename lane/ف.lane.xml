@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<TEI.2 xmlns="http://www.tei-c.org/ns/1.0"
+       xmlns:sib="http://www.sibawayhi.org/schema/lane">
    <teiHeader type="text" status="new">
       <fileDesc>
          <titleStmt>
@@ -514,10 +515,11 @@
                   </form> [or <foreign lang="ar" TEIform="foreign">mufaAyilN</foreign> (M and TA in art. <foreign lang="ar" TEIform="foreign">fyl</foreign>)] A boy <hi rend="ital" TEIform="hi">playing at the game called</hi> 
                   <foreign lang="ar" TEIform="foreign">Alfiy^aAl</foreign>. (S, O. *)   </entryFree> 
             </div2> 
-            <div2 n="fAlw* &amp;c." type="root" org="uniform" sample="complete" part="N"
+            <div2 n="fAlw*" type="root" org="uniform" sample="complete" part="N"
                   TEIform="div2">
                <head TEIform="head">
-                  <foreign lang="ar" TEIform="foreign">fAlw*</foreign> &amp;c.</head>    
+                  <foreign lang="ar" TEIform="foreign">fAlw*</foreign>
+	       </head>    
                <entryFree id="n32842" key="faAluw*N" type="main">     
                   <form>       
                      <orth orig="" extent="full" lang="ar">faAluw*N</orth>
