@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<TEI.2 xmlns:sib="http://www.sibawayhi.org/schema/lane">
    <teiHeader type="text" status="new">
       <fileDesc>
          <titleStmt>
@@ -201,7 +201,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> 
                   <hi rend="ital" TEIform="hi">i. q.</hi> 
-                  <foreign lang="ar" TEIform="foreign">maA^obuwrapN</foreign>. (Aboo-'Amr Ibn-El- 'Alà, <hi rend="ital" TEIform="hi">l. e.</hi>)   </entryFree> 
+                  <foreign lang="ar" TEIform="foreign">maA^obuwrapN</foreign>. (Aboo-'Amr Ibn-El-'Alà, <hi rend="ital" TEIform="hi">l. e.</hi>)   </entryFree> 
             </div2> 
             <div2 n="wb$" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
                <head TEIform="head">
