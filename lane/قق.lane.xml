@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<TEI.2 xmlns:sib="http://www.sibawayhi.org/schema/lane">
    <teiHeader type="text" status="new">
       <fileDesc>
          <titleStmt>
@@ -2384,10 +2384,10 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form> (K, art. <foreign lang="ar" TEIform="foreign">nzr</foreign>) <hi rend="ital" TEIform="hi">It became diminished,</hi> or <hi rend="ital" TEIform="hi">rendered little</hi> or <hi rend="ital" TEIform="hi">small in quantity.</hi> (TK, same art.) ―         -b2-  <foreign lang="ar" TEIform="foreign">taqal~alahu</foreign> 
                   <hi rend="ital" TEIform="hi">He saw it,</hi> or <hi rend="ital" TEIform="hi">deemed it, to be little in quantity.</hi> (TA.)    </entryFree> 
-               <entryFree id="n42783" key="Aisonafal~a" type="main">     
+               <entryFree id="n42783" key="Aisonaqal~a" type="main">     
                   <form>       
                      <itype>10</itype>        
-                     <orth orig="" extent="full" lang="ar">Aisonafal~a</orth>
+                     <orth orig="" extent="full" lang="ar">Aisonaqal~a</orth>
                      <orth extent="full" lang="ar">*</orth>
                   </form> 
                   <hi rend="ital" TEIform="hi">He was independent,</hi> or <hi rend="ital" TEIform="hi">alone; with none to share,</hi> or <hi rend="ital" TEIform="hi">participate, with him.</hi> (TA.) [And <foreign lang="ar" TEIform="foreign">Aisotaqal~a binafosihi</foreign>, <hi rend="ital" TEIform="hi">the same;</hi> or (as shown by an explanation of the act. part. n. in the TA) <hi rend="ital" TEIform="hi">he managed his affairs, by himself alone, thoroughly, soundly,</hi> or <hi rend="ital" TEIform="hi">vigorously.</hi>] And <foreign lang="ar" TEIform="foreign">huwa lAa yasotaqil~u bih`*aA</foreign> 
@@ -2397,9 +2397,9 @@
                   <hi rend="ital" TEIform="hi">He</hi> (a man) <hi rend="ital" TEIform="hi">became affected with a tremour,</hi> or <hi rend="ital" TEIform="hi">trembling, by anger.</hi> (JK.) ―         -b5-  <foreign lang="ar" TEIform="foreign">Aisotaqal~a biAl$~aYo'i</foreign> 
                   <hi rend="ital" TEIform="hi">i. q.</hi> 
                   <foreign lang="ar" TEIform="foreign">Aisotabad~a bihi</foreign>. (TA in art. <foreign lang="ar" TEIform="foreign">Hkr</foreign>.)    </entryFree> 
-               <entryFree id="n42784" key="??" type="main">     
+               <entryFree id="n42784" key="qul~N" type="main">     
                   <form>       
-                     <orth orig="" extent="full" lang="ar">??</orth>
+                     <orth orig="" extent="full" lang="ar">qul~N</orth>
                      <orth extent="full" lang="ar">*</orth>
                   </form> 
                   <hi rend="ital" TEIform="hi">Poverty:</hi> see an ex. in a verse cited voce <foreign lang="ar" TEIform="foreign">Tal~aAE</foreign>.    </entryFree> 
@@ -2461,7 +2461,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>, or <foreign lang="ar" TEIform="foreign">AlqalAay^iSu</foreign>, <hi rend="ital" TEIform="hi">Some small stars before</hi> 
                   <foreign lang="ar" TEIform="foreign">Ald~abaraAnu</foreign>; [i. e., <hi rend="ital" TEIform="hi">towards</hi> 
-                  <foreign lang="ar" TEIform="foreign">Alt~uray~aA</foreign>; <hi rend="ital" TEIform="hi">being between the Hyades and t(??) (??)eiades;</hi>] <hi rend="ital" TEIform="hi">following</hi> 
+                  <foreign lang="ar" TEIform="foreign">Alt~uray~aA</foreign>; <hi rend="ital" TEIform="hi">being between the Hyades and the Pleiades;</hi>] <hi rend="ital" TEIform="hi">following</hi> 
                   <foreign lang="ar" TEIform="foreign">Alvry~A</foreign>. (Mir-át ez-Zemán.) Or <hi rend="ital" TEIform="hi">The Hyades.</hi>   
                </entryFree> 
             </div2> 
