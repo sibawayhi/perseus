@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<TEI.2 xmlns:sib="http://www.sibawayhi.org/schema/lane">
    <teiHeader type="text" status="new">
       <fileDesc>
          <titleStmt>
@@ -937,7 +937,7 @@
                   <hi rend="ital" TEIform="hi">He compelled him,</hi> or <hi rend="ital" TEIform="hi">constrained him, to accept,</hi> or <hi rend="ital" TEIform="hi">admit, the evidence,</hi> or <hi rend="ital" TEIform="hi">proof.</hi> (Jel xi. 30.) ―         -b6-  <foreign lang="ar" TEIform="foreign">A^alozamahu AlmaAla</foreign> 
                   <hi rend="ital" TEIform="hi">He obliged him to pay the money &amp;c.</hi> 
                   <foreign lang="ar" TEIform="foreign">A^alozamahu AlEamala</foreign> 
-                  <hi rend="ital" TEIform="hi">He obliged him to do the deed.</hi> (Msb.) ―         -b7-  <foreign lang="ar" TEIform="foreign">A^alozamotuhu Ald~anoba</foreign>, and <foreign lang="ar" TEIform="foreign">AlHaq~a</foreign>: see <foreign lang="ar" TEIform="foreign">zak~a</foreign>. ―         -b8-  <foreign lang="ar" TEIform="foreign">A^alozimo naEolayoka qadamayoka</foreign> [<hi rend="ital" TEIform="hi">Keep thou thy sandals upon thy feet</hi>]. (From a trad. in the Jámi' es- Sagheer.)    </entryFree> 
+                  <hi rend="ital" TEIform="hi">He obliged him to do the deed.</hi> (Msb.) ―         -b7-  <foreign lang="ar" TEIform="foreign">A^alozamotuhu Ald~anoba</foreign>, and <foreign lang="ar" TEIform="foreign">AlHaq~a</foreign>: see <foreign lang="ar" TEIform="foreign">zak~a</foreign>. ―         -b8-  <foreign lang="ar" TEIform="foreign">A^alozimo naEolayoka qadamayoka</foreign> [<hi rend="ital" TEIform="hi">Keep thou thy sandals upon thy feet</hi>]. (From a trad. in the Jámi' es-Sagheer.)    </entryFree> 
                <entryFree id="n43286" key="Ailotazama" type="main">     
                   <form>       
                      <itype>8</itype>        
@@ -1671,7 +1671,7 @@
                      <orth orig="" extent="full" lang="ar">laqiyahu</orth>
                      <orth extent="full" lang="ar">*</orth>
                   </form> 
-                  <hi rend="ital" TEIform="hi">He met him,</hi> or <hi rend="ital" TEIform="hi">it.</hi> (Msb.) ―         -b2-  And <hi rend="ital" TEIform="hi">He</hi> [<hi rend="ital" TEIform="hi">met with,</hi> or] <hi rend="ital" TEIform="hi">found him,</hi> or <hi rend="ital" TEIform="hi">it.</hi> (Msb.) You say, <foreign lang="ar" TEIform="foreign">taloqAhumN A^usodFA</foreign> [<hi rend="ital" TEIform="hi">Thou will find them lions</hi>]. (Mughnee, voce <foreign lang="ar" TEIform="foreign">A_in~a</foreign>.) See also <foreign lang="ar" TEIform="foreign">??</foreign>. ―         -b3-  <foreign lang="ar" TEIform="foreign">laqiytuhu</foreign> and ↓ 
+                  <hi rend="ital" TEIform="hi">He met him,</hi> or <hi rend="ital" TEIform="hi">it.</hi> (Msb.) ―         -b2-  And <hi rend="ital" TEIform="hi">He</hi> [<hi rend="ital" TEIform="hi">met with,</hi> or] <hi rend="ital" TEIform="hi">found him,</hi> or <hi rend="ital" TEIform="hi">it.</hi> (Msb.) You say, <foreign lang="ar" TEIform="foreign">taloqAhumN A^usodFA</foreign> [<hi rend="ital" TEIform="hi">Thou will find them lions</hi>]. (Mughnee, voce <foreign lang="ar" TEIform="foreign">A_in~a</foreign>.) See also <foreign lang="ar" TEIform="foreign">liqaA^N</foreign>. ―         -b3-  <foreign lang="ar" TEIform="foreign">laqiytuhu</foreign> and ↓ 
       <orth type="arrow" lang="ar">laAqayotuhu</orth> 
                   <hi rend="ital" TEIform="hi">I came near to him, facing him: came to face his face. near to him</hi> (Ksh, in ii. 13.) ―         -b4-  <foreign lang="ar" TEIform="foreign">laqiyahu bimakoruwhi</foreign> (K in art. <foreign lang="ar" TEIform="foreign">Hbh</foreign>, &amp;c.) <hi rend="ital" TEIform="hi">He</hi> [<hi rend="ital" TEIform="hi">encountered with him,</hi> or] <hi rend="ital" TEIform="hi">said to him,</hi> or <hi rend="ital" TEIform="hi">did to him, a thing disliked,</hi> or <hi rend="ital" TEIform="hi">hated:</hi> (TK in art. <foreign lang="ar" TEIform="foreign">jbh</foreign>:) like <foreign lang="ar" TEIform="foreign">Astqblhu bimaA yakorahu</foreign>.    </entryFree> 
                <entryFree id="n43371" key="laq~aAhu $ar~FA" type="main">     
