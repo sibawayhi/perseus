@@ -5500,10 +5500,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">Dmx</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n26004-0" key="Dmx">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">DamVxa</orth>
+                     <orth lang="ar">Dmx</orth>
                   </form> see the next paragraph.    </entryFree> 
                <entryFree id="n26004" key="Dm~xhu biAlT~iybi" type="main">     
                   <form>       
@@ -6634,17 +6634,17 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">DwA^</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n26133-0" key="DwA^">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">DawVAa</orth>
+                     <orth lang="ar">DwA^</orth>
                   </form> see 4, in two places.    </entryFree> 
-               <entryFree>     
+               <entryFree id="n26133-1" key="Dw~A^">
                   <form>       
                      <itype>2</itype>        
-                     <orth lang="ar">Daw~aAa</orth>
+                     <orth lang="ar">Daw~aA^a</orth>
                   </form> see the next paragraph, in two places. ―         -b2-  One says also, <foreign lang="ar" TEIform="foreign">Daw~aA^otu Eanohu</foreign> [meaning <hi rend="ital" TEIform="hi">I brought to light, made visible, discovered,</hi> or <hi rend="ital" TEIform="hi">revealed, him,</hi> or <hi rend="ital" TEIform="hi">it</hi>]. (M, TA.) A sheep, or goat, belonging to an Arab of the desert strayed; whereupon he said, <foreign lang="ar" TEIform="foreign">Aall~`hum~a Daw~iy^o Eanohu</foreign> [<hi rend="ital" TEIform="hi">O God, bring it to light,</hi> or <hi rend="ital" TEIform="hi">discover it</hi>]. (A, TA.)       -A2-  Accord. to Lth, but he is the only authority for it known by AM, (TA,) <foreign lang="ar" TEIform="foreign">Daw~aA^a Eani AlA^amori</foreign>, inf. n. <foreign lang="ar" TEIform="foreign">taDowiy^apN</foreign>, means <hi rend="ital" TEIform="hi">He declined,</hi> or <hi rend="ital" TEIform="hi">turned away, from the affair.</hi> (K, TA.)    </entryFree> 
-               <entryFree id="n26133" key="ADA='" type="main">     
+               <entryFree id="n26133-2" key="ADA='" type="main">     
                   <form>       
                      <itype>4</itype>        
                      <orth orig="" extent="full" lang="ar">ADA='</orth>
