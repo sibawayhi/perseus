@@ -13377,7 +13377,7 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">jmr</foreign>
                </head>    
-               <entryFree id="6266-1" key="jmr">
+               <entryFree id="n6267-0" key="jmr">
                   <form>       
                      <itype>1</itype>        
                      <orth lang="ar">jmr</orth>
@@ -16599,7 +16599,7 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">jhD</foreign>
                </head>    
-               <entryFree id="6567-1" key="jhD">
+               <entryFree id="n6568-0" key="jhD">
                   <form>       
                      <itype>1</itype>        
                      <orth lang="ar">jhD</orth>
