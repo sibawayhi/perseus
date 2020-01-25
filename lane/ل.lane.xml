@@ -181,10 +181,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">lb</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n37421-0" key="lb~">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">labV3a</orth>
+                     <orth lang="ar">lb~</orth>
                   </form> [<foreign lang="ar" TEIform="foreign">lab~a</foreign>, originally <foreign lang="ar" TEIform="foreign">labiba</foreign>,] sec. per. <foreign lang="ar" TEIform="foreign">labibota</foreign>, (S, K,) the most common form of the verb, (TA,) and [<foreign lang="ar" TEIform="foreign">lab~a</foreign>, originally <foreign lang="ar" TEIform="foreign">labuba</foreign>, like <foreign lang="ar" TEIform="foreign">Hab~a</foreign>, originally <foreign lang="ar" TEIform="foreign">Habuba</foreign>, q. v.,] sec. pers. <foreign lang="ar" TEIform="foreign">labubota</foreign>, aor. <foreign lang="ar" TEIform="foreign">yalab~u</foreign>, (S, K,) in the dial. of El-Hijáz, deviating from rule as aor. of the latter form of the verb; (TA;) inf. n. <foreign lang="ar" TEIform="foreign">labaAbapN</foreign> (S, K) and <foreign lang="ar" TEIform="foreign">lib~N</foreign> and <foreign lang="ar" TEIform="foreign">lab~N</foreign>; (TA;) and <foreign lang="ar" TEIform="foreign">lab~a</foreign>, aor. <foreign lang="ar" TEIform="foreign">yalib~u</foreign>, in the dial. of Nejd; like <foreign lang="ar" TEIform="foreign">far~a</foreign>, aor. <foreign lang="ar" TEIform="foreign">yafir~u</foreign>; (TA;) and [<foreign lang="ar" TEIform="foreign">lab~a</foreign>], sec. pers. <foreign lang="ar" TEIform="foreign">labibota</foreign>, aor. <foreign lang="ar" TEIform="foreign">yalub~u</foreign>; [contr. to analogy;] (Yz;) and [<foreign lang="ar" TEIform="foreign">lab~a</foreign>], sec. pers. <foreign lang="ar" TEIform="foreign">labubota</foreign>, aor. <foreign lang="ar" TEIform="foreign">yalub~u</foreign>; [agreeably with analogy;] (Yoo;) <hi rend="ital" TEIform="hi">He was,</hi> or <hi rend="ital" TEIform="hi">became, possessed of</hi> 
                   <foreign lang="ar" TEIform="foreign">lub~</foreign>, i. e., <hi rend="ital" TEIform="hi">understanding, intellect,</hi> or <hi rend="ital" TEIform="hi">intelligence.</hi> See <foreign lang="ar" TEIform="foreign">lub~N</foreign>. (S, K.) It has been said by some (as the authors of the T, the S, &amp;c.) that <foreign lang="ar" TEIform="foreign">labubota</foreign>, aor. <foreign lang="ar" TEIform="foreign">talab~u</foreign>, has not its like among the class of reduplicative verbs; i. e., in being of the measure <foreign lang="ar" TEIform="foreign">faEula</foreign> in the pret., and <foreign lang="ar" TEIform="foreign">yafoEalu</foreign> in the aor.: but three similar verbs have been mentioned; namely, <foreign lang="ar" TEIform="foreign">damumota</foreign>, <foreign lang="ar" TEIform="foreign">$arurota</foreign>, and <foreign lang="ar" TEIform="foreign">Eazuzati Al$~aApu</foreign> (meaning “ the ewe, or goat, became scant in her milk ”). (TA.) [This, however, is a mistake: the assertion relates to <foreign lang="ar" TEIform="foreign">labubota</foreign> having for its aor. (regularly) <foreign lang="ar" TEIform="foreign">talub~u</foreign>: see <foreign lang="ar" TEIform="foreign">dam~a</foreign>, aor. <foreign lang="ar" TEIform="foreign">yadum~u</foreign>.]       -A2-  <foreign lang="ar" TEIform="foreign">lab~a</foreign>, aor.      
     <form n="infl">       
@@ -2605,10 +2605,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">ldb</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n37678-0" key="ldb">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">ladVba</orth>
+                     <orth lang="ar">ladaba</orth>
                   </form>and 3. <foreign lang="ar" TEIform="foreign">ladaba</foreign> and <foreign lang="ar" TEIform="foreign">laAdaba</foreign>: see <foreign lang="ar" TEIform="foreign">la*aba</foreign>.   </entryFree> 
             </div2> 
             <div2 n="lds ldg ldm ldn" type="root" org="uniform" sample="complete" part="N"

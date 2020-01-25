@@ -7064,10 +7064,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">wkA^</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="42267-0" key="wkA^">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">wakVAa</orth>
+                     <orth lang="ar">wkA^</orth>
                   </form> see 8.    </entryFree> 
                <entryFree id="n42267" key="wAkA^ EalaY yadayohi" type="main">     
                   <form>       
@@ -8029,10 +8029,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">wmD</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n42378-0" key="wmD">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">wamVDa</orth>
+                     <orth lang="ar">wmD</orth>
                   </form> see 4.    </entryFree> 
                <entryFree id="n42378" key="AwmD" type="main">     
                   <form>       

@@ -12637,10 +12637,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">gY</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n32666-0" key="gy~">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">gaYV3a</orth>
+                     <orth lang="ar">gy~</orth>
                   </form> see what next follows.    </entryFree> 
                <entryFree id="n32666" key="gay~ayotu gaAyapF" type="main">     
                   <form>       

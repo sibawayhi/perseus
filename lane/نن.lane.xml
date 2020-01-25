@@ -847,12 +847,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">nxl</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n43878-0" key="nxl">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">naxVla</orth>
+                     <orth lang="ar">nxl</orth>
                   </form> see 8.    </entryFree> 
-               <entryFree>     
+               <entryFree id="n43878-1" key="tnx~l">
                   <form>       
                      <itype>5</itype>        
                      <orth lang="ar">tanax~ala</orth>
@@ -1624,10 +1624,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">nsw</foreign> and <foreign lang="ar" TEIform="foreign">nsY</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n43966-0" key="nsy">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">1a2V3a</orth>
+                     <orth lang="ar">nsy</orth>
                   </form> see 6.    </entryFree> 
                <entryFree id="n43966" key="tanaAsaAhu" type="main">     
                   <form>       
@@ -2214,12 +2214,11 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">nEl</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n44038-0" key="nEl">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">naEVla</orth>
+                     <orth lang="ar">nEl</orth>
                   </form> see 4.    </entryFree> 
-               <entryFree>     
                   <form>       
                      <itype>2</itype>        
                      <orth lang="ar">naE~ala</orth>

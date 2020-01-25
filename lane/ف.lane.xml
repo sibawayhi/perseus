@@ -16734,10 +16734,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">flk</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n34566-0" key="flk">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">falVka</orth>
+                     <orth lang="ar">flk</orth>
                   </form> see the next paragraph, in two places.    </entryFree> 
                <entryFree id="n34566" key="fl~k" type="main">     
                   <form>       

@@ -13353,10 +13353,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">qwD</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="36418-0" key="qwD">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">qawVDa</orth>
+                     <orth lang="ar">qwD</orth>
                   </form> see 2: and see also 1 in art. <foreign lang="ar" TEIform="foreign">qyD</foreign>.    </entryFree> 
                <entryFree id="n36418" key="qw~Dhu" type="main">     
                   <form>       

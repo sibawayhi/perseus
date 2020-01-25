@@ -778,10 +778,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">Tbq</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="26336-0" key="Tbq">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">TabVqa</orth>
+                     <orth lang="ar">Tabaqa</orth>
                   </form> [<foreign lang="ar" TEIform="foreign">Tabaqahu</foreign>, aor.      
     <form n="infl">       
                      <orth orig="Bi" lang="ar">Tabiqa</orth>
@@ -9393,10 +9393,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">Twf</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n27310-0" key="Twf">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">TawVfa</orth>
+                     <orth lang="ar">TaAfa</orth>
                   </form> The inf. n. <foreign lang="ar" TEIform="foreign">TawaAfN</foreign> primarily signifies, accord. to Er-Rághib, The act of <hi rend="ital" TEIform="hi">going,</hi> or <hi rend="ital" TEIform="hi">walking,</hi> in an absolute sense: or the <hi rend="ital" TEIform="hi">going,</hi> or <hi rend="ital" TEIform="hi">walking, around,</hi> or <hi rend="ital" TEIform="hi">otherwise.</hi> (MF, TA.) [Hence,] <foreign lang="ar" TEIform="foreign">TaAfa Hawola</foreign> 
                   <foreign lang="ar" TEIform="foreign">Al$~aYo'i</foreign>, (S,) or <foreign lang="ar" TEIform="foreign">biAl$~aYo'i</foreign>, (Msb,) or <foreign lang="ar" TEIform="foreign">Hawola AlkaEobapi</foreign>, (O, K,) and <foreign lang="ar" TEIform="foreign">bihaA</foreign>, (K,) aor. <foreign lang="ar" TEIform="foreign">yaTuwfu</foreign>, (S, O, Msb,) inf. n. <foreign lang="ar" TEIform="foreign">TawofN</foreign> (S, O, Msb, K) and <foreign lang="ar" TEIform="foreign">TawaAfN</foreign> (O, Msb, K, and mentioned also in the S but not there said to be an inf. n.) and <foreign lang="ar" TEIform="foreign">TawafaAnN</foreign>, (S, O, K,) [and perhaps <foreign lang="ar" TEIform="foreign">TuwfaAnN</foreign>, q. v.,] <hi rend="ital" TEIform="hi">He went round</hi> or <hi rend="ital" TEIform="hi">round about, circuited,</hi> or <hi rend="ital" TEIform="hi">circuited around,</hi> or <hi rend="ital" TEIform="hi">compassed,</hi> (Msb, TA,) <hi rend="ital" TEIform="hi">the thing,</hi> (S, Msb,) or <hi rend="ital" TEIform="hi">the Kaabeh;</hi> (O, K;) and so <foreign lang="ar" TEIform="foreign">TaAfa</foreign>, aor. <foreign lang="ar" TEIform="foreign">yaTiyfu</foreign>; (Msb; [but this I think doubtful;]) and ↓ 
       <orth type="arrow" lang="ar">tTw~f</orth>, (S, Msb, K,) and ↓ 
