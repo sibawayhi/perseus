@@ -6021,10 +6021,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">ArT</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n591-1" key="ArT">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">AarVTa</orth>
+                     <orth lang="ar">ArT</orth>
                   </form> [The unaugmented verb from this root seems to be unknown, if it were ever in use, for it is not mentioned, though the pass. part. n., <foreign lang="ar" TEIform="foreign">maA^oruwTN</foreign>, is mentioned as having three significations, which see below.]    </entryFree> 
                <entryFree>     
                   <form>       
@@ -7193,10 +7193,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">As</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n713-1" key="As~">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">AasV3a</orth>
+                     <orth lang="ar">As~</orth>
                   </form> see 2, in two places.    </entryFree> 
                <entryFree id="n714" key="A^s~shu" type="main">     
                   <form>       
@@ -13509,10 +13509,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">Anv</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n1312-0" key="A^anuva">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">AanVva</orth>
+                     <orth lang="ar">Aanuva</orth>
                   </form> [<foreign lang="ar" TEIform="foreign">A^anuva</foreign>, aor.      
     <form n="infl">       
                      <orth orig="Bu" lang="ar">Aanuva</orth>
@@ -15669,10 +15669,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">Awh</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n1531-0" key="Awh">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">AawVha</orth>
+                     <orth lang="ar">Awh</orth>
                   </form>and 2: see 5.    </entryFree> 
                <entryFree id="n1531" key="tA^w~h" type="main">     
                   <form>       
