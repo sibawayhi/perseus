@@ -14551,7 +14551,7 @@ te" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bkt</foreign>
                </head>
-               <entryFree>
+               <entryFree id="n3062-0">
                   <form>
                      <itype>1</itype>
 		     <orth type="arrow" lang="ar">bakatahu</orth>
