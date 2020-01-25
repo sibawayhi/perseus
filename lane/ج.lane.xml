@@ -13377,10 +13377,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">jmr</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="6266-1" key="jmr">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">jamVra</orth>
+                     <orth lang="ar">jmr</orth>
                   </form> see 2, in two places:       -A2-  and see also 4: ―         -b2-  and 5.       -A3-  Also <foreign lang="ar" TEIform="foreign">jamarahu</foreign> 
                   <hi rend="ital" TEIform="hi">He gave him</hi> 
                   <foreign lang="ar" TEIform="foreign">jamor</foreign> [<hi rend="ital" TEIform="hi">live, <sib:rm>or</sib:rm> burning, coals</hi>]. (K.)       -A4-  <hi rend="ital" TEIform="hi">He put him aside, apart, away, <sib:rm>or</sib:rm> at a distance.</hi> (Th, K.) ―         -b2-  <foreign lang="ar" TEIform="foreign">jamarti Al$~amosu Alqamari</foreign>, aor.      
@@ -16599,10 +16599,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">jhD</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="6567-1" key="jhD">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">jahVDa</orth>
+                     <orth lang="ar">jhD</orth>
                   </form> see 4, in two places.    </entryFree> 
                <entryFree id="n6568" key="jAhDhu" type="main">     
                   <form>       
