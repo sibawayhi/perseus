@@ -609,7 +609,7 @@
                <entryFree id="n4922" key="majobuwbapN" type="main">     
                   <form>       
                      <orth orig="" extent="full" lang="ar">majobuwbapN</orth>
-                     <orth extent="full" lang="ar">1</orth>
+                     <!-- <orth extent="full" lang="ar">1</orth> -->
                   </form>: see <foreign lang="ar" TEIform="foreign">jub~u</foreign>.   </entryFree> 
             </div2> 
             <div2 n="jbA^" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
