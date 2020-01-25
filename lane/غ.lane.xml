@@ -12442,11 +12442,11 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">gwg</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n32646-0" key="gwg">
                   <form>       
-                     <itype>Q. Q. 2</itype>        
+                     <itype>QQ2</itype>        
                      <orth lang="ar"/>
-                  </form>if belonging to this art., or R. Q. 2 if belonging to art. <foreign lang="ar" TEIform="foreign">gw</foreign>. <foreign lang="ar" TEIform="foreign">tagaAgaY Ealayohi AlgawogaA='u</foreign> [as though originally <foreign lang="ar" TEIform="foreign">tagawogY</foreign>] <hi rend="ital" TEIform="hi">i. q.</hi> 
+                  </form>Q.Q.2 if belonging to this art., or R. Q. 2 if belonging to art. <foreign lang="ar" TEIform="foreign">gw</foreign>. <foreign lang="ar" TEIform="foreign">tagaAgaY Ealayohi AlgawogaA='u</foreign> [as though originally <foreign lang="ar" TEIform="foreign">tagawogY</foreign>] <hi rend="ital" TEIform="hi">i. q.</hi> 
                   <foreign lang="ar" TEIform="foreign">rakibuwhu</foreign> [i. e. <hi rend="ital" TEIform="hi">The mixed multitude,</hi> or <hi rend="ital" TEIform="hi">the low, base, vile,</hi> &amp;c., <hi rend="ital" TEIform="hi">of men, bore,</hi> or <hi rend="ital" TEIform="hi">pressed,</hi> or <hi rend="ital" TEIform="hi">crowded,</hi> (<hi rend="ital" TEIform="hi">as though mounting,</hi>) <hi rend="ital" TEIform="hi">upon him</hi>]. (TA in art. <foreign lang="ar" TEIform="foreign">gw</foreign>.)    </entryFree> 
                <entryFree id="n32646" key="gaAgN" type="main">     
                   <form>       
