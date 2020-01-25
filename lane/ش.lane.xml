@@ -737,10 +737,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">$bv</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n21546-0" key="$bv">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">$abVva</orth>
+                     <orth lang="ar">$bv</orth>
                   </form> see the next paragraph, in two places.    </entryFree> 
                <entryFree id="n21546" key="t$~bv bihi" type="main">     
                   <form>       
@@ -10164,10 +10164,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">$gr</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="22542-0" key="$gr">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">$agVra</orth>
+                     <orth lang="ar">$agara</orth>
                   </form> The inf. n. <foreign lang="ar" TEIform="foreign">$agorN</foreign>, accord. to Ibn-Nubáteh, primarily signifies The <hi rend="ital" TEIform="hi">raising the leg</hi> or <hi rend="ital" TEIform="hi">hind leg,</hi> without restriction; and then by a metaphorical usage, the <hi rend="ital" TEIform="hi">doing so for the purpose of copulation,</hi> and <hi rend="ital" TEIform="hi">for making water:</hi> but the explanations of J [and of Z in the A] and of Fei and of F are at variance with his assertion. (MF.) [Accord. to these authorities,] <foreign lang="ar" TEIform="foreign">$agara</foreign>, (S, A, Msb, K,) aor.      
     <form n="infl">       
                      <orth orig="Ba" lang="ar">$agara</orth>

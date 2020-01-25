@@ -11055,12 +11055,13 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">xTA^</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n10956-0" key="xTA^">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">xaTVAa</orth>
+                     <orth lang="ar">xaTiy^a</orth>
                   </form>
-                  <foreign lang="ar" TEIform="foreign">xaTiy^a</foreign> is <hi rend="ital" TEIform="hi">syn. with</hi> ↓ 
+                  <!-- <foreign lang="ar" TEIform="foreign">xaTiy^a</foreign> -->
+                  is <hi rend="ital" TEIform="hi">syn. with</hi> ↓ 
       <orth type="arrow" lang="ar">AxTA^</orth>, inf. n. <foreign lang="ar" TEIform="foreign">A_ixoTaA='N</foreign> and ↓ 
       <orth type="arrow" lang="ar">xaATiy^apN</orth>, (K,) which latter, mentioned by AAF, on the authority of AZ, is extr. in the case of a triliteral [unaugmented] verb, and more so in the case of a quadriliteral [i. e. a triliteral augmented by one letter]; (TA;) and with ↓ 
       <orth type="arrow" lang="ar">txT~A^</orth>; signifying <hi rend="ital" TEIform="hi">He did wrong;</hi> or <hi rend="ital" TEIform="hi">committed a mistake,</hi> or <hi rend="ital" TEIform="hi">an error:</hi> (K:) [and if this and similar explanations be correct, <foreign lang="ar" TEIform="foreign">xaTaA^o</foreign> may be an inf. n. of the first of these verbs, and a quasi-inf. n. of the second and third:] or ↓ 

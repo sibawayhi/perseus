@@ -17136,10 +17136,10 @@ te" part="N" TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">bn</foreign>
                </head>
-               <entryFree>
+               <entryFree id="n3309-0" key="bn~">
                   <form>
                      <itype>1</itype>
-                     <orth lang="ar">banV3a</orth>
+                     <orth lang="ar">bn~</orth>
                   </form> see 4.    </entryFree>
                <entryFree id="n3309" key="bn~n" type="main">
                   <form>

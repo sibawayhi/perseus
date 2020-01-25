@@ -7955,10 +7955,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">zn</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n18182-0" key="zn~">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">zanV3a</orth>
+                     <orth lang="ar">zn~</orth>
                   </form> see 4, in five places.       -A2-  <foreign lang="ar" TEIform="foreign">zan~a EaSabuhu</foreign>, [aor., accord. to rule,      
     <form n="infl">       
                      <orth orig="Bi" lang="ar">zani3a</orth>
@@ -10355,11 +10355,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">zwn</foreign>
                </head>    
-               <entryFree>     
-                  <form>       
-                     <itype>1</itype>        
-                     <orth lang="ar">zawVna</orth>
-                  </form> [<foreign lang="ar" TEIform="foreign">zaAnahu</foreign>, aor. <foreign lang="ar" TEIform="foreign">yazuwnuhu</foreign>, is a dial. var. of <foreign lang="ar" TEIform="foreign">zaAnahu</foreign> having for its aor. <foreign lang="ar" TEIform="foreign">yaziynuhu</foreign>.] An Arab woman of the desert is related to have said to IAar, <foreign lang="ar" TEIform="foreign">A_in~aka latazuwnunaA A_i*aA</foreign> 
+               <entryFree id="n18438-0" key="zwn">
+                  <form>
+                     <itype>1</itype>
+                     <orth lang="ar">zAnahu</orth>
+                  </form>
+                  [<foreign lang="ar" TEIform="foreign">zaAnahu</foreign>, aor. <foreign lang="ar" TEIform="foreign">yazuwnuhu</foreign>, is a dial. var. of <foreign lang="ar" TEIform="foreign">zaAnahu</foreign> having for its aor. <foreign lang="ar" TEIform="foreign">yaziynuhu</foreign>.] An Arab woman of the desert is related to have said to IAar, <foreign lang="ar" TEIform="foreign">A_in~aka latazuwnunaA A_i*aA</foreign> 
                   <foreign lang="ar" TEIform="foreign">TalaEota</foreign>, meaning <foreign lang="ar" TEIform="foreign">taziynunaA</foreign> [i. e. <hi rend="ital" TEIform="hi">Verily thou gracest us when thou comest</hi> to us (<foreign lang="ar" TEIform="foreign">EalayonaA</foreign>)]. (TA.)    </entryFree> 
                <entryFree id="n18438" key="zaAnN" type="main">     
                   <form>       

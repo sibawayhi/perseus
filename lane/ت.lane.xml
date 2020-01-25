@@ -296,10 +296,10 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">tb</foreign>
                </head>    
-               <entryFree>     
+               <entryFree id="n3705-0" key="tb~">
                   <form>       
                      <itype>1</itype>        
-                     <orth lang="ar">tabV3a</orth>
+                     <orth lang="ar">tb~</orth>
                   </form> [<foreign lang="ar" TEIform="foreign">tab~a</foreign>, aor.      
     <form n="infl">       
                      <orth orig="Bi" lang="ar">tabi3a</orth>
