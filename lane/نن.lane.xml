@@ -857,7 +857,7 @@
                      <itype>5</itype>        
                      <orth lang="ar">tanax~ala</orth>
                   </form> see 8.    </entryFree> 
-               <entryFree id="n43878" key="Ainonaxalahu" type="main">     
+               <entryFree id="n43878-2" key="Ainonaxalahu" type="main">     
                   <form>       
                      <itype>8</itype>        
                      <orth orig="" extent="full" lang="ar">Ainonaxalahu</orth>
@@ -2219,11 +2219,12 @@
                      <itype>1</itype>        
                      <orth lang="ar">nEl</orth>
                   </form> see 4.    </entryFree> 
+               <entryFree id="n44038-1" key="nE~l">
                   <form>       
                      <itype>2</itype>        
                      <orth lang="ar">naE~ala</orth>
                   </form> see 4.    </entryFree> 
-               <entryFree id="n44038" key="A^anoEalotu Alxuf~a" type="main">     
+               <entryFree id="n44038-2" key="A^anoEalotu Alxuf~a" type="main">     
                   <form>       
                      <itype>4</itype>        
                      <orth orig="" extent="full" lang="ar">A^anoEalotu Alxuf~a</orth>
