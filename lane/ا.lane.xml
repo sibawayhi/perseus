@@ -169,10 +169,10 @@
     <form n="infl">       
                      <orth orig="Bu" lang="ar">Aabu3a</orth>
                   </form>, (K,) inf. n. <foreign lang="ar" TEIform="foreign">A^ab~N</foreign> (AA, S, M, K) and <foreign lang="ar" TEIform="foreign">A_ibaAbapN</foreign> and <foreign lang="ar" TEIform="foreign">A^abaAbapN</foreign> (M, K,) and <foreign lang="ar" TEIform="foreign">A^abaAbN</foreign>, (TA,) <hi rend="ital" TEIform="hi">He yearned for, longed for,</hi> or <hi rend="ital" TEIform="hi">longed to see, his home.</hi> (AA, S, M, K.)    </entryFree> 
-               <entryFree>     
+               <entryFree id="n3-0" key="Aiy^otab~a">
                   <form>       
                      <itype>8</itype>        
-                     <orth lang="ar">A_iAotaba3a</orth>
+                     <orth lang="ar">Aiy^otab~a</orth>
                   </form> see 1, first signification.    </entryFree> 
                <entryFree id="n3" key="AisotaA^ab~ahu" type="main">     
                   <form>       
@@ -8861,10 +8861,10 @@
                   <foreign lang="ar" TEIform="foreign">AlA_ibilu</foreign>, (K,) aor. as above, inf. n. <foreign lang="ar" TEIform="foreign">A^aTiyTN</foreign>, (TA,) <hi rend="ital" TEIform="hi">The camels moaned by reason of fatigue,</hi> or <hi rend="ital" TEIform="hi">uttering their yearning cry to their young,</hi> (K, TA,) and sometimes <hi rend="ital" TEIform="hi">by reason of fulness of their udders with milk.</hi> (TA.) And <foreign lang="ar" TEIform="foreign">laA A=tiyka maA A^aT~ati AlA_ibilu</foreign> 
                   <hi rend="ital" TEIform="hi">I will not come to thee as long as camels utter cries</hi> [or <hi rend="ital" TEIform="hi">moan</hi>] <hi rend="ital" TEIform="hi">by reason of the heaviness of their loads.</hi> (S.) And <foreign lang="ar" TEIform="foreign">laA A^afoEalu *`lika maA A^aT~ati AlA_ibilu</foreign>, meaning <hi rend="ital" TEIform="hi">I will not do that ever.</hi> (TA.) And <foreign lang="ar" TEIform="foreign">maA lanaA baEiyrN yay^iT~u</foreign> 
                   <hi rend="ital" TEIform="hi">We have not a camel that moans,</hi> or <hi rend="ital" TEIform="hi">cries;</hi> meaning <hi rend="ital" TEIform="hi">we have not any camel;</hi> for the camel cannot but do so. (TA, from a trad.) [See also <foreign lang="ar" TEIform="foreign">A^aTiyTN</foreign>, below.] And <foreign lang="ar" TEIform="foreign">A^aT~ato lahu raHimiY</foreign> (tropical:)  [<hi rend="ital" TEIform="hi">My feeling of relationship,</hi> or <hi rend="ital" TEIform="hi">sympathy of blood,</hi>] <hi rend="ital" TEIform="hi">became affected with tenderness,</hi> or <hi rend="ital" TEIform="hi">compassion,</hi> and <hi rend="ital" TEIform="hi">became moved,</hi> [or rather <hi rend="ital" TEIform="hi">pleaded,</hi>] <hi rend="ital" TEIform="hi">for him</hi> [or <hi rend="ital" TEIform="hi">in his favour</hi>]: (K, TA:) and hence ↓<foreign lang="ar" TEIform="foreign">Alt~aA^aT~uTu</foreign> [inf. n. of the verb in the syn. phrase <foreign lang="ar" TEIform="foreign">taA^aT~aTato lahu raHimiY</foreign>]. (Sgh, TA.) And <foreign lang="ar" TEIform="foreign">A^aT~ato bika Alr~aHimu</foreign> [<hi rend="ital" TEIform="hi">The feeling of relationship,</hi> or <hi rend="ital" TEIform="hi">sympathy of blood, pleaded,</hi> or <hi rend="ital" TEIform="hi">hath pleaded, in thee;</hi>] i. e., <hi rend="ital" TEIform="hi">inclined thee to favour.</hi> (Ham p. 765.) [See another ex. voce <foreign lang="ar" TEIform="foreign">HaAs~apN</foreign>.]    </entryFree> 
-               <entryFree>     
+               <entryFree id="n896-1" key="taA^aT~Ta">
                   <form>       
                      <itype>5</itype>        
-                     <orth lang="ar">taAaT~a3a</orth>
+                     <orth lang="ar">taA^aT~aTa</orth>
                   </form> see 1, near the end.    </entryFree> 
                <entryFree id="n897" key="A^aT~N" type="main">     
                   <form>       
